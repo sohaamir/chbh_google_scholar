@@ -1,0 +1,225 @@
+{
+    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "name": "Jennifer Cook",
+    "affiliations": "Professor of Cognitive Neuroscience, School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.jencooklab.com/",
+    "interests": [
+        {
+            "title": "social learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_learning"
+        },
+        {
+            "title": "autism",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:autism",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautism"
+        },
+        {
+            "title": "schizophrenia",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:schizophrenia",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aschizophrenia"
+        },
+        {
+            "title": "imitation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:imitation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimitation"
+        },
+        {
+            "title": "mirror neurons",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mirror_neurons",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amirror_neurons"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2826,
+                "since_2019": 1842
+            }
+        },
+        {
+            "h_index": {
+                "all": 22,
+                "since_2019": 21
+            }
+        },
+        {
+            "i10_index": {
+                "all": 27,
+                "since_2019": 27
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2011,
+            "citations": 15
+        },
+        {
+            "year": 2012,
+            "citations": 59
+        },
+        {
+            "year": 2013,
+            "citations": 76
+        },
+        {
+            "year": 2014,
+            "citations": 101
+        },
+        {
+            "year": 2015,
+            "citations": 114
+        },
+        {
+            "year": 2016,
+            "citations": 183
+        },
+        {
+            "year": 2017,
+            "citations": 161
+        },
+        {
+            "year": 2018,
+            "citations": 241
+        },
+        {
+            "year": 2019,
+            "citations": 366
+        },
+        {
+            "year": 2020,
+            "citations": 294
+        },
+        {
+            "year": 2021,
+            "citations": 344
+        },
+        {
+            "year": 2022,
+            "citations": 379
+        },
+        {
+            "year": 2023,
+            "citations": 393
+        },
+        {
+            "year": 2024,
+            "citations": 65
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=B6lWO6MAAAAJ",
+    "available_public_access": 33,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Geoffrey Bird",
+            "link": "https://scholar.google.com/citations?user=A8iq1jsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=A8iq1jsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A8iq1jsAAAAJ",
+            "affiliations": "Dept of Experimental Psychology, University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=A8iq1jsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Clare Press",
+            "link": "https://scholar.google.com/citations?user=IZuRvKUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IZuRvKUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IZuRvKUAAAAJ",
+            "affiliations": "University College London (Experimental Psychology and Wellcome Centre for Human Neuroimaging)",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IZuRvKUAAAAJ&citpid=9"
+        },
+        {
+            "name": "Sarah-Jayne Blakemore",
+            "link": "https://scholar.google.com/citations?user=t8-kTnUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=t8-kTnUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t8-kTnUAAAAJ",
+            "affiliations": "University of Cambridge, UK",
+            "email": "Verified email at psychol.cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=t8-kTnUAAAAJ&citpid=4"
+        },
+        {
+            "name": "Roshan Cools",
+            "link": "https://scholar.google.com/citations?user=zgNza0oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zgNza0oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zgNza0oAAAAJ",
+            "affiliations": "Professor of Cognitive Neuropsychiatry, Radboud University Nijmegen",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zgNza0oAAAAJ&citpid=4"
+        },
+        {
+            "name": "Hanneke den Ouden",
+            "link": "https://scholar.google.com/citations?user=Ty6E_5wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ty6E_5wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ty6E_5wAAAAJ",
+            "affiliations": "Associate Professor, Radboud University Nijmegen",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ty6E_5wAAAAJ&citpid=9"
+        },
+        {
+            "name": "Dirk Geurts, MD, PHD",
+            "link": "https://scholar.google.com/citations?user=FmsSASIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FmsSASIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FmsSASIAAAAJ",
+            "affiliations": "Radboud University Medical Center",
+            "email": "Verified email at radboudumc.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FmsSASIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sudhakar Selvaraj",
+            "link": "https://scholar.google.com/citations?user=lzdX2I0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lzdX2I0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lzdX2I0AAAAJ",
+            "affiliations": "University of Texas Health Science Center at Houston",
+            "email": "Verified email at uth.tmc.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lzdX2I0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr Daniel Campbell-Meiklejohn",
+            "link": "https://scholar.google.com/citations?user=bZ00WjYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bZ00WjYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bZ00WjYAAAAJ",
+            "affiliations": "University of Sussex",
+            "email": "Verified email at sussex.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bZ00WjYAAAAJ&citpid=5"
+        },
+        {
+            "name": "Ayse Pinar Saygin",
+            "link": "https://scholar.google.com/citations?user=GWVLMHcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GWVLMHcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GWVLMHcAAAAJ",
+            "affiliations": "Associate Professor, Cognitive Science, Neurosciences, UCSD",
+            "email": "Verified email at ucsd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GWVLMHcAAAAJ&citpid=9"
+        },
+        {
+            "name": "Cecilia Heyes",
+            "link": "https://scholar.google.com/citations?user=8cFe7XkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8cFe7XkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8cFe7XkAAAAJ",
+            "affiliations": "Professor of Psychology, University of Oxford",
+            "email": "Verified email at all-souls.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8cFe7XkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Francesca Happe",
+            "link": "https://scholar.google.com/citations?user=RGFF2y4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RGFF2y4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RGFF2y4AAAAJ",
+            "affiliations": "MRC SGDP Centre, Institute of Psychiatry, King's College London",
+            "email": "Verified email at kcl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RGFF2y4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Emilio Fernandez-Egea",
+            "link": "https://scholar.google.com/citations?user=9VJgyZ0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9VJgyZ0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9VJgyZ0AAAAJ",
+            "affiliations": "CPFT & University of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9VJgyZ0AAAAJ&citpid=5"
+        }
+    ]
+}

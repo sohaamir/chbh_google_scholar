@@ -1,0 +1,197 @@
+{
+    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "name": "Andrew Quinn",
+    "affiliations": "Assistant Professor; University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": null,
+    "interests": null,
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2643,
+                "since_2019": 2409
+            }
+        },
+        {
+            "h_index": {
+                "all": 23,
+                "since_2019": 23
+            }
+        },
+        {
+            "i10_index": {
+                "all": 33,
+                "since_2019": 33
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2016,
+            "citations": 11
+        },
+        {
+            "year": 2017,
+            "citations": 52
+        },
+        {
+            "year": 2018,
+            "citations": 164
+        },
+        {
+            "year": 2019,
+            "citations": 227
+        },
+        {
+            "year": 2020,
+            "citations": 362
+        },
+        {
+            "year": 2021,
+            "citations": 488
+        },
+        {
+            "year": 2022,
+            "citations": 558
+        },
+        {
+            "year": 2023,
+            "citations": 603
+        },
+        {
+            "year": 2024,
+            "citations": 166
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=RZcRmrYAAAAJ",
+    "available_public_access": 57,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Mark Woolrich",
+            "link": "https://scholar.google.com/citations?user=Q9Eimh8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q9Eimh8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q9Eimh8AAAAJ",
+            "affiliations": "Head of Analysis, OHBA, University of Oxford",
+            "email": "Verified email at ohba.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Diego Vidaurre",
+            "link": "https://scholar.google.com/citations?user=krbBtukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=krbBtukAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "krbBtukAAAAJ",
+            "affiliations": "Aarhus University, CFIN. University of Oxford, Department of Psychiatry",
+            "email": "Verified email at ohba.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=krbBtukAAAAJ&citpid=3"
+        },
+        {
+            "name": "Anna C Nobre",
+            "link": "https://scholar.google.com/citations?user=yBSamFkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yBSamFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yBSamFkAAAAJ",
+            "affiliations": "Wu Tsai Institute and Department of Psychology, Yale University",
+            "email": "Verified email at yale.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yBSamFkAAAAJ&citpid=6"
+        },
+        {
+            "name": "Matthew Brookes",
+            "link": "https://scholar.google.com/citations?user=TIGV1YEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TIGV1YEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TIGV1YEAAAAJ",
+            "affiliations": "Professor of Physics",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TIGV1YEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Freek van Ede",
+            "link": "https://scholar.google.com/citations?user=3DTHkPIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3DTHkPIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3DTHkPIAAAAJ",
+            "affiliations": "Principal Investigator, Vrije Universiteit Amsterdam, Institute for Brain and Behavior Amsterdam",
+            "email": "Verified email at vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3DTHkPIAAAAJ&citpid=18"
+        },
+        {
+            "name": "David Dupret",
+            "link": "https://scholar.google.com/citations?user=RjnhskMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RjnhskMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RjnhskMAAAAJ",
+            "affiliations": "MRC Brain Network Dynamics Unit at the University of Oxford",
+            "email": "Verified email at bndu.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RjnhskMAAAAJ&citpid=4"
+        },
+        {
+            "name": "Catharina Zich",
+            "link": "https://scholar.google.com/citations?user=0BAgq_AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0BAgq_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0BAgq_AAAAAJ",
+            "affiliations": "University of Oxford, University College London",
+            "email": "Verified email at uni-oldenburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0BAgq_AAAAAJ&citpid=8"
+        },
+        {
+            "name": "Charlotte Stagg",
+            "link": "https://scholar.google.com/citations?user=F-OlqFMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=F-OlqFMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F-OlqFMAAAAJ",
+            "affiliations": "Professor of Human Neurophysiology, University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=F-OlqFMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Stephen M. Smith",
+            "link": "https://scholar.google.com/citations?user=gRptb5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gRptb5UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gRptb5UAAAAJ",
+            "affiliations": "WIN (FMRIB), Oxford University",
+            "email": "Verified email at fmrib.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gRptb5UAAAAJ&citpid=2"
+        },
+        {
+            "name": "James Rowe",
+            "link": "https://scholar.google.com/citations?user=2_i6GTYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2_i6GTYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2_i6GTYAAAAJ",
+            "affiliations": "Professor of Cognitive Neurology, Cambridge University",
+            "email": "Verified email at mrc-cbu.cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2_i6GTYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gary Green",
+            "link": "https://scholar.google.com/citations?user=STDlsX4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=STDlsX4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "STDlsX4AAAAJ",
+            "affiliations": "Emeritus Professor, University of York, UK",
+            "email": "Verified email at york.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=STDlsX4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Jonathan Smallwood",
+            "link": "https://scholar.google.com/citations?user=RfKH7fYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RfKH7fYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RfKH7fYAAAAJ",
+            "affiliations": "Professor in Psychology, Queen's University, Kingston.",
+            "email": "Verified email at queensu.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RfKH7fYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Theodoros Karapanagiotidis",
+            "link": "https://scholar.google.com/citations?user=-96i0ikAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-96i0ikAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-96i0ikAAAAJ",
+            "affiliations": "Lecturer, University of Sussex",
+            "email": "Verified email at sussex.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-96i0ikAAAAJ&citpid=6"
+        },
+        {
+            "name": "Vítor Lopes dos Santos",
+            "link": "https://scholar.google.com/citations?user=FbVQLMgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FbVQLMgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FbVQLMgAAAAJ",
+            "affiliations": "MRC Brain Network Dynamics Unit at the University of Oxford",
+            "email": "Verified email at pharm.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

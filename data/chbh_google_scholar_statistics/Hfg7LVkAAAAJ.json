@@ -1,0 +1,327 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Hfg7LVkAAAAJ&citpid=1",
+    "name": "Andrea Krott",
+    "affiliations": "Reader in Psychology of Language, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://www.andreakrott.com/",
+    "interests": [
+        {
+            "title": "psycholinguistics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:psycholinguistics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsycholinguistics"
+        },
+        {
+            "title": "bilingualism",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bilingualism",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abilingualism"
+        },
+        {
+            "title": "language development",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:language_development",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alanguage_development"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 1866,
+                "since_2019": 827
+            }
+        },
+        {
+            "h_index": {
+                "all": 23,
+                "since_2019": 13
+            }
+        },
+        {
+            "i10_index": {
+                "all": 41,
+                "since_2019": 23
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2001,
+            "citations": 10
+        },
+        {
+            "year": 2002,
+            "citations": 23
+        },
+        {
+            "year": 2003,
+            "citations": 27
+        },
+        {
+            "year": 2004,
+            "citations": 35
+        },
+        {
+            "year": 2005,
+            "citations": 25
+        },
+        {
+            "year": 2006,
+            "citations": 33
+        },
+        {
+            "year": 2007,
+            "citations": 60
+        },
+        {
+            "year": 2008,
+            "citations": 44
+        },
+        {
+            "year": 2009,
+            "citations": 53
+        },
+        {
+            "year": 2010,
+            "citations": 66
+        },
+        {
+            "year": 2011,
+            "citations": 51
+        },
+        {
+            "year": 2012,
+            "citations": 67
+        },
+        {
+            "year": 2013,
+            "citations": 90
+        },
+        {
+            "year": 2014,
+            "citations": 74
+        },
+        {
+            "year": 2015,
+            "citations": 55
+        },
+        {
+            "year": 2016,
+            "citations": 85
+        },
+        {
+            "year": 2017,
+            "citations": 92
+        },
+        {
+            "year": 2018,
+            "citations": 105
+        },
+        {
+            "year": 2019,
+            "citations": 124
+        },
+        {
+            "year": 2020,
+            "citations": 118
+        },
+        {
+            "year": 2021,
+            "citations": 173
+        },
+        {
+            "year": 2022,
+            "citations": 150
+        },
+        {
+            "year": 2023,
+            "citations": 208
+        },
+        {
+            "year": 2024,
+            "citations": 47
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Hfg7LVkAAAAJ",
+    "available_public_access": 11,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Harald Baayen",
+            "link": "https://scholar.google.com/citations?user=c31Z9eoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c31Z9eoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "c31Z9eoAAAAJ",
+            "affiliations": "Professor of Quantitative Linguistics, University of Tuebingen",
+            "email": "Verified email at uni-tuebingen.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "robert schreuder",
+            "link": "https://scholar.google.com/citations?user=rLQ74e0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rLQ74e0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rLQ74e0AAAAJ",
+            "affiliations": "Hoogleraar Psycholinguistiek, Donders Centre for Cognition, Radboud University, Nijmegen The Netherlands",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Allegra Cattani",
+            "link": "https://scholar.google.com/citations?user=pDQRiSoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pDQRiSoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pDQRiSoAAAAJ",
+            "affiliations": "Associate Professor in Developmental Psychology",
+            "email": "Verified email at plymouth.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Kirsten Abbot-Smith",
+            "link": "https://scholar.google.com/citations?user=4QIlc78AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4QIlc78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4QIlc78AAAAJ",
+            "affiliations": "University of Kent",
+            "email": "Verified email at kent.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "ali mazaheri",
+            "link": "https://scholar.google.com/citations?user=2Z7J72wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2Z7J72wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2Z7J72wAAAAJ",
+            "affiliations": "Associate Professor, School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2Z7J72wAAAAJ&citpid=1"
+        },
+        {
+            "name": "Camillo Porcaro",
+            "link": "https://scholar.google.com/citations?user=vdDvmj0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vdDvmj0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vdDvmj0AAAAJ",
+            "affiliations": "Associate Professor, University of Padua",
+            "email": "Verified email at istc.cnr.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vdDvmj0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Maria Teresa Medaglia",
+            "link": "https://scholar.google.com/citations?user=tMRwCEMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tMRwCEMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tMRwCEMAAAAJ",
+            "affiliations": "Istituto di Scienze e Tecnologie della Cognizione - Consiglio Nazionale delle Ricerche",
+            "email": "Verified email at istc.cnr.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tMRwCEMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Christina Gagne",
+            "link": "https://scholar.google.com/citations?user=WDMdNasAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WDMdNasAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WDMdNasAAAAJ",
+            "affiliations": "Professor of Psychology, University of Alberta",
+            "email": "Verified email at ualberta.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Beinan Zhou",
+            "link": "https://scholar.google.com/citations?user=480kjU0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=480kjU0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "480kjU0AAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ling-phil.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=480kjU0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Peter Hagoort",
+            "link": "https://scholar.google.com/citations?user=Idye6Q0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Idye6Q0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Idye6Q0AAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience, Max Planck Institute for Psycholinguistics",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Idye6Q0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Katrien Segaert",
+            "link": "https://scholar.google.com/citations?user=dyGL6CUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dyGL6CUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dyGL6CUAAAAJ",
+            "affiliations": "Associate Professor, School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Vincent DeLuca",
+            "link": "https://scholar.google.com/citations?user=aeqawukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aeqawukAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aeqawukAAAAJ",
+            "affiliations": "UiT The Arctic University of Norway",
+            "email": "Verified email at uit.no",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aeqawukAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nivja H. De Jong",
+            "link": "https://scholar.google.com/citations?user=rrpRWHwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rrpRWHwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rrpRWHwAAAAJ",
+            "affiliations": "Leiden University",
+            "email": "Verified email at hum.leidenuniv.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rrpRWHwAAAAJ&citpid=6"
+        },
+        {
+            "name": "Caroline Rowland",
+            "link": "https://scholar.google.com/citations?user=A-KZ0DwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=A-KZ0DwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A-KZ0DwAAAAJ",
+            "affiliations": "Max Planck Institute for Psycholinguistics",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=A-KZ0DwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Claire Delle Luche",
+            "link": "https://scholar.google.com/citations?user=9PAYO6oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9PAYO6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9PAYO6oAAAAJ",
+            "affiliations": "University of Essex",
+            "email": "Verified email at essex.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Helen Breadmore",
+            "link": "https://scholar.google.com/citations?user=z6ge16IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z6ge16IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "z6ge16IAAAAJ",
+            "affiliations": "School of Education, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z6ge16IAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sotaro Kita",
+            "link": "https://scholar.google.com/citations?user=c1Cpy5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c1Cpy5UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "c1Cpy5UAAAAJ",
+            "affiliations": "University of Warwick, Department of Psychology, Professor",
+            "email": "Verified email at warwick.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c1Cpy5UAAAAJ&citpid=3"
+        },
+        {
+            "name": "Gary Libben",
+            "link": "https://scholar.google.com/citations?user=cnluqLsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cnluqLsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cnluqLsAAAAJ",
+            "affiliations": "Brock University",
+            "email": "Verified email at brocku.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cnluqLsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jeremy Goslin",
+            "link": "https://scholar.google.com/citations?user=sWKtl0MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sWKtl0MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sWKtl0MAAAAJ",
+            "affiliations": "University of Plymouth",
+            "email": "Verified email at plymouth.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sWKtl0MAAAAJ&citpid=2"
+        },
+        {
+            "name": "Laurence White",
+            "link": "https://scholar.google.com/citations?user=K5mbEuEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=K5mbEuEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K5mbEuEAAAAJ",
+            "affiliations": "Newcastle University",
+            "email": "Verified email at newcastle.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K5mbEuEAAAAJ&citpid=2"
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MPZ_z-MAAAAJ&citpid=2",
+    "name": "Samuel J E Lucas",
+    "affiliations": "School of Sport, Exercise and Rehabilitation Sciences & Centre for Human Brain Health, UoB",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.birmingham.ac.uk/staff/profiles/sportex/lucas-sam.aspx",
+    "interests": [
+        {
+            "title": "Exercise Physiology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:exercise_physiology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexercise_physiology"
+        },
+        {
+            "title": "Neurophysiology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neurophysiology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurophysiology"
+        },
+        {
+            "title": "Brain health",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:brain_health",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abrain_health"
+        },
+        {
+            "title": "Environmental Physiology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:environmental_physiology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_physiology"
+        },
+        {
+            "title": "Sport and Exercise Science",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sport_and_exercise_science",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asport_and_exercise_science"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7405,
+                "since_2019": 4242
+            }
+        },
+        {
+            "h_index": {
+                "all": 41,
+                "since_2019": 32
+            }
+        },
+        {
+            "i10_index": {
+                "all": 111,
+                "since_2019": 97
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2009,
+            "citations": 33
+        },
+        {
+            "year": 2010,
+            "citations": 78
+        },
+        {
+            "year": 2011,
+            "citations": 179
+        },
+        {
+            "year": 2012,
+            "citations": 191
+        },
+        {
+            "year": 2013,
+            "citations": 276
+        },
+        {
+            "year": 2014,
+            "citations": 335
+        },
+        {
+            "year": 2015,
+            "citations": 364
+        },
+        {
+            "year": 2016,
+            "citations": 486
+        },
+        {
+            "year": 2017,
+            "citations": 553
+        },
+        {
+            "year": 2018,
+            "citations": 526
+        },
+        {
+            "year": 2019,
+            "citations": 581
+        },
+        {
+            "year": 2020,
+            "citations": 688
+        },
+        {
+            "year": 2021,
+            "citations": 958
+        },
+        {
+            "year": 2022,
+            "citations": 943
+        },
+        {
+            "year": 2023,
+            "citations": 846
+        },
+        {
+            "year": 2024,
+            "citations": 190
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=MPZ_z-MAAAAJ",
+    "available_public_access": 42,
+    "not_available_public_access": 7,
+    "co_authors": [
+        {
+            "name": "Phil Ainslie",
+            "link": "https://scholar.google.com/citations?user=Be-s2h4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Be-s2h4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Be-s2h4AAAAJ",
+            "affiliations": "Professor, UBC",
+            "email": "Verified email at ubc.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "James David Cotter (Jim)",
+            "link": "https://scholar.google.com/citations?user=G4GpxVQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=G4GpxVQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "G4GpxVQAAAAJ",
+            "affiliations": "Professor of Exercise & Environmental Physioogy",
+            "email": "Verified email at otago.ac.nz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G4GpxVQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr Claire V Burley",
+            "link": "https://scholar.google.com/citations?user=icJ5mZcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=icJ5mZcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "icJ5mZcAAAAJ",
+            "affiliations": "Post-Doctoral Research Fellow",
+            "email": "Verified email at unsw.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=icJ5mZcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Joseph Donnelly",
+            "link": "https://scholar.google.com/citations?user=njw_ub0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=njw_ub0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "njw_ub0AAAAJ",
+            "affiliations": "University of Auckland",
+            "email": "Verified email at aucklanduni.ac.nz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=njw_ub0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Damian Miles Bailey",
+            "link": "https://scholar.google.com/citations?user=BvgTqfQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BvgTqfQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BvgTqfQAAAAJ",
+            "affiliations": "Royal Society Wolfson Research Fellow, Professor of Physiology & Biochemistry",
+            "email": "Verified email at southwales.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BvgTqfQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Hamid Dehghani",
+            "link": "https://scholar.google.com/citations?user=SIYS-lcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SIYS-lcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SIYS-lcAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at cs.bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SIYS-lcAAAAJ&citpid=4"
+        },
+        {
+            "name": "Dr Michael Clancy",
+            "link": "https://scholar.google.com/citations?user=QkfoM8sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QkfoM8sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QkfoM8sAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QkfoM8sAAAAJ&citpid=1"
+        },
+        {
+            "name": "Samuel R C Weaver",
+            "link": "https://scholar.google.com/citations?user=vCqqLP0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vCqqLP0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vCqqLP0AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vCqqLP0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Gareth A Wallis",
+            "link": "https://scholar.google.com/citations?user=UBI3ddYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UBI3ddYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UBI3ddYAAAAJ",
+            "affiliations": "Professor of Exercise Metabolism & Nutrition, University of Birmingham, UK",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ned Jenkinson",
+            "link": "https://scholar.google.com/citations?user=I7h_dqwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=I7h_dqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "I7h_dqwAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=I7h_dqwAAAAJ&citpid=2"
+        },
+        {
+            "name": "James P. Fisher",
+            "link": "https://scholar.google.com/citations?user=QC76K8sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QC76K8sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QC76K8sAAAAJ",
+            "affiliations": "Associate Professor of Physiology, University of Auckland, New Zealand",
+            "email": "Verified email at AUCKLAND.AC.NZ",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QC76K8sAAAAJ&citpid=1"
+        },
+        {
+            "name": "Christopher Ring",
+            "link": "https://scholar.google.com/citations?user=Ld7STCwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ld7STCwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ld7STCwAAAAJ",
+            "affiliations": "Professor of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ld7STCwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Zachary Schlader",
+            "link": "https://scholar.google.com/citations?user=9SIjOb0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9SIjOb0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9SIjOb0AAAAJ",
+            "affiliations": "Department of Kinesiology, Indiana University",
+            "email": "Verified email at indiana.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9SIjOb0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Prof Anna Whittaker (previously Phillips)",
+            "link": "https://scholar.google.com/citations?user=1cc5YGEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1cc5YGEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1cc5YGEAAAAJ",
+            "affiliations": "University of Stirling",
+            "email": "Verified email at stir.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1cc5YGEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Janice Thompson",
+            "link": "https://scholar.google.com/citations?user=KZl0IL0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KZl0IL0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KZl0IL0AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KZl0IL0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Joan L. Duda",
+            "link": "https://scholar.google.com/citations?user=Wk8oUGoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Wk8oUGoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Wk8oUGoAAAAJ",
+            "affiliations": "Professor of Sport and Exercise Psychology, School of Sport and Exercise Sciences, University of",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Wk8oUGoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Maria Kavussanu",
+            "link": "https://scholar.google.com/citations?user=dPD7tC0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dPD7tC0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dPD7tC0AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dPD7tC0AAAAJ&citpid=3"
+        }
+    ]
+}

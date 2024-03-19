@@ -1,0 +1,257 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=T_x9NbQAAAAJ&citpid=1",
+    "name": "Paul S Muhle-Karbe",
+    "affiliations": "Assistant Professor, University of Birmingham, School of Psychology & Centre for Human Brain Health",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://paulmuhlekarbe.com/",
+    "interests": [
+        {
+            "title": "Cognitive Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        },
+        {
+            "title": "Cognitive Control",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_control",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_control"
+        },
+        {
+            "title": "Working Memory",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:working_memory",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aworking_memory"
+        },
+        {
+            "title": "Prefrontal Cortex",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:prefrontal_cortex",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprefrontal_cortex"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 622,
+                "since_2019": 417
+            }
+        },
+        {
+            "h_index": {
+                "all": 13,
+                "since_2019": 11
+            }
+        },
+        {
+            "i10_index": {
+                "all": 14,
+                "since_2019": 12
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2013,
+            "citations": 5
+        },
+        {
+            "year": 2014,
+            "citations": 14
+        },
+        {
+            "year": 2015,
+            "citations": 32
+        },
+        {
+            "year": 2016,
+            "citations": 27
+        },
+        {
+            "year": 2017,
+            "citations": 62
+        },
+        {
+            "year": 2018,
+            "citations": 59
+        },
+        {
+            "year": 2019,
+            "citations": 58
+        },
+        {
+            "year": 2020,
+            "citations": 66
+        },
+        {
+            "year": 2021,
+            "citations": 78
+        },
+        {
+            "year": 2022,
+            "citations": 95
+        },
+        {
+            "year": 2023,
+            "citations": 90
+        },
+        {
+            "year": 2024,
+            "citations": 29
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=T_x9NbQAAAAJ",
+    "available_public_access": 12,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Marcel Brass",
+            "link": "https://scholar.google.com/citations?user=GCMhq8MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GCMhq8MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GCMhq8MAAAAJ",
+            "affiliations": "Einstein Professor of Social Intelligence, Humboldt-Universität zu Berlin",
+            "email": "Verified email at hu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GCMhq8MAAAAJ&citpid=5"
+        },
+        {
+            "name": "Nicholas E Myers",
+            "link": "https://scholar.google.com/citations?user=4Ac4HK8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4Ac4HK8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4Ac4HK8AAAAJ",
+            "affiliations": "University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4Ac4HK8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Mark Stokes",
+            "link": "https://scholar.google.com/citations?user=MmDv9Q4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MmDv9Q4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MmDv9Q4AAAAJ",
+            "affiliations": "Oxford University",
+            "email": "Verified email at ohba.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MmDv9Q4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Wouter De Baene",
+            "link": "https://scholar.google.com/citations?user=7MZe4owAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7MZe4owAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7MZe4owAAAAJ",
+            "affiliations": "Associate Professor @ Tilburg University, Department of Cognitive Neuropsychology",
+            "email": "Verified email at tilburguniversity.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7MZe4owAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sam Hall-McMaster",
+            "link": "https://scholar.google.com/citations?user=4qeqKOgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4qeqKOgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4qeqKOgAAAAJ",
+            "affiliations": "Harvard University",
+            "email": "Verified email at fas.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4qeqKOgAAAAJ&citpid=11"
+        },
+        {
+            "name": "Daniel J Mitchell",
+            "link": "https://scholar.google.com/citations?user=cir-ghwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cir-ghwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cir-ghwAAAAJ",
+            "affiliations": "Senior Investigator Scientist, Medical Research Council Cognition and Brain Sciences Unit",
+            "email": "Verified email at mrc-cbu.cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cir-ghwAAAAJ&citpid=2"
+        },
+        {
+            "name": "John Duncan",
+            "link": "https://scholar.google.com/citations?user=fgVrmpgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fgVrmpgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fgVrmpgAAAAJ",
+            "affiliations": "Programme Leader, MRC Cognition and Brain Sciences Unit",
+            "email": "Verified email at mrc-cbu.cam.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Simon B. Eickhoff",
+            "link": "https://scholar.google.com/citations?user=wjpISMAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wjpISMAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wjpISMAAAAAJ",
+            "affiliations": "Institut for Systems Neuroscience, Heinrich-Heine-Universität Düsseldorf",
+            "email": "Verified email at uni-duesseldorf.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wjpISMAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Franz-Xaver Neubert",
+            "link": "https://scholar.google.com/citations?user=Ayp0HMMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ayp0HMMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ayp0HMMAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ayp0HMMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ruth Krebs",
+            "link": "https://scholar.google.com/citations?user=KI6iTUYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KI6iTUYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KI6iTUYAAAAJ",
+            "affiliations": "Dept. of Experimental Psychology, Ghent University",
+            "email": "Verified email at ugent.be",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Michael Andres",
+            "link": "https://scholar.google.com/citations?user=W5QwLisAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=W5QwLisAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W5QwLisAAAAJ",
+            "affiliations": "Université catholique de Louvain",
+            "email": "Verified email at uclouvain.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=W5QwLisAAAAJ&citpid=3"
+        },
+        {
+            "name": "Tobias Egner",
+            "link": "https://scholar.google.com/citations?user=621XqxQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=621XqxQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "621XqxQAAAAJ",
+            "affiliations": "Department of Psychology & Neuroscience, Center for Cognitive Neuroscience, Duke University",
+            "email": "Verified email at duke.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=621XqxQAAAAJ&citpid=5"
+        },
+        {
+            "name": "Jiefeng Jiang",
+            "link": "https://scholar.google.com/citations?user=ColWWD8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ColWWD8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ColWWD8AAAAJ",
+            "affiliations": "Department of Psychological and Brain Sciences, University of Iowa",
+            "email": "Verified email at uiowa.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ColWWD8AAAAJ&citpid=6"
+        },
+        {
+            "name": "Christopher Summerfield",
+            "link": "https://scholar.google.com/citations?user=ymlcN9AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ymlcN9AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ymlcN9AAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ymlcN9AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nicolas W Schuck",
+            "link": "https://scholar.google.com/citations?user=n21HDbAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=n21HDbAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n21HDbAAAAAJ",
+            "affiliations": "Universität Hamburg",
+            "email": "Verified email at mpib-berlin.mpg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=n21HDbAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Sanjay G Manohar",
+            "link": "https://scholar.google.com/citations?user=4wCwjAIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4wCwjAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4wCwjAIAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4wCwjAIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Timo Flesch",
+            "link": "https://scholar.google.com/citations?user=IpcRuskAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IpcRuskAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IpcRuskAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IpcRuskAAAAJ&citpid=4"
+        }
+    ]
+}

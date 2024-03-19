@@ -1,0 +1,277 @@
+{
+    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "name": "Katrien Segaert",
+    "affiliations": "Associate Professor, School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.katriensegaert.com/",
+    "interests": [
+        {
+            "title": "cognitive neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        },
+        {
+            "title": "psycholinguistics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:psycholinguistics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsycholinguistics"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2705,
+                "since_2019": 1834
+            }
+        },
+        {
+            "h_index": {
+                "all": 24,
+                "since_2019": 23
+            }
+        },
+        {
+            "i10_index": {
+                "all": 33,
+                "since_2019": 33
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2012,
+            "citations": 21
+        },
+        {
+            "year": 2013,
+            "citations": 115
+        },
+        {
+            "year": 2014,
+            "citations": 105
+        },
+        {
+            "year": 2015,
+            "citations": 59
+        },
+        {
+            "year": 2016,
+            "citations": 102
+        },
+        {
+            "year": 2017,
+            "citations": 268
+        },
+        {
+            "year": 2018,
+            "citations": 166
+        },
+        {
+            "year": 2019,
+            "citations": 228
+        },
+        {
+            "year": 2020,
+            "citations": 347
+        },
+        {
+            "year": 2021,
+            "citations": 334
+        },
+        {
+            "year": 2022,
+            "citations": 340
+        },
+        {
+            "year": 2023,
+            "citations": 475
+        },
+        {
+            "year": 2024,
+            "citations": 100
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=dyGL6CUAAAAJ",
+    "available_public_access": 18,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Peter Hagoort",
+            "link": "https://scholar.google.com/citations?user=Idye6Q0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Idye6Q0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Idye6Q0AAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience, Max Planck Institute for Psycholinguistics",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Idye6Q0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Evelien Heyselaar",
+            "link": "https://scholar.google.com/citations?user=IC40pTwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IC40pTwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IC40pTwAAAAJ",
+            "affiliations": "Radboud University",
+            "email": "Verified email at maw.ru.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Linda Wheeldon",
+            "link": "https://scholar.google.com/citations?user=kPTyTagAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kPTyTagAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kPTyTagAAAAJ",
+            "affiliations": "School of Psychology, University of Birmingham, U.K.",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "ali mazaheri",
+            "link": "https://scholar.google.com/citations?user=2Z7J72wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2Z7J72wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2Z7J72wAAAAJ",
+            "affiliations": "Associate Professor, School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2Z7J72wAAAAJ&citpid=1"
+        },
+        {
+            "name": "Karl Magnus Petersson @kmpetersson",
+            "link": "https://scholar.google.com/citations?user=rH1ldd4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rH1ldd4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rH1ldd4AAAAJ",
+            "affiliations": "Neurobiology of Language",
+            "email": "Verified email at ualg.pt",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rH1ldd4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Mante S. Nieuwland",
+            "link": "https://scholar.google.com/citations?user=B-GcBU4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=B-GcBU4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "B-GcBU4AAAAJ",
+            "affiliations": "MPI for Psycholinguistics",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Falk Huettig",
+            "link": "https://scholar.google.com/citations?user=T4UQbbcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=T4UQbbcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "T4UQbbcAAAAJ",
+            "affiliations": "Max Planck Institute for Psycholinguistics",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=T4UQbbcAAAAJ&citpid=19"
+        },
+        {
+            "name": "Dale J. Barr",
+            "link": "https://scholar.google.com/citations?user=QYsBt00AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QYsBt00AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QYsBt00AAAAJ",
+            "affiliations": "Senior Lecturer, Institute of Neuroscience and Psychology, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QYsBt00AAAAJ&citpid=5"
+        },
+        {
+            "name": "Lotte Schoot",
+            "link": "https://scholar.google.com/citations?user=dK140iUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dK140iUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dK140iUAAAAJ",
+            "affiliations": "PhD Student, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands",
+            "email": "Verified email at mpi.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sophie M. Hardy",
+            "link": "https://scholar.google.com/citations?user=Wo_m10gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Wo_m10gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Wo_m10gAAAAJ",
+            "affiliations": "Department for Transport",
+            "email": "Verified email at warwick.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Samuel J E Lucas",
+            "link": "https://scholar.google.com/citations?user=MPZ_z-MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MPZ_z-MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MPZ_z-MAAAAJ",
+            "affiliations": "School of Sport, Exercise and Rehabilitation Sciences & Centre for Human Brain Health, UoB",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MPZ_z-MAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vincent DeLuca",
+            "link": "https://scholar.google.com/citations?user=aeqawukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aeqawukAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aeqawukAAAAJ",
+            "affiliations": "UiT The Arctic University of Norway",
+            "email": "Verified email at uit.no",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aeqawukAAAAJ&citpid=1"
+        },
+        {
+            "name": "Floris de Lange",
+            "link": "https://scholar.google.com/citations?user=5z1S51MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5z1S51MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5z1S51MAAAAJ",
+            "affiliations": "Principal Investigator at Donders Institute, Radboud University Nijmegen, Netherlands",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5z1S51MAAAAJ&citpid=4"
+        },
+        {
+            "name": "Pieter Segaert",
+            "link": "https://scholar.google.com/citations?user=OwFDShIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OwFDShIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OwFDShIAAAAJ",
+            "affiliations": "University of Antwerp",
+            "email": "Verified email at telenet.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OwFDShIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gerard Kempen",
+            "link": "https://scholar.google.com/citations?user=brDn7pIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=brDn7pIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "brDn7pIAAAAJ",
+            "affiliations": "Max Planck Institute for Psycholinguistics, Nijmegen & Cognitive Psychology Unit, Leiden University",
+            "email": "Verified email at gerardkempen.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=brDn7pIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Howard Bowman",
+            "link": "https://scholar.google.com/citations?user=pcKQix4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pcKQix4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pcKQix4AAAAJ",
+            "affiliations": "School of Computing, University of Kent and School of Psychology, University of Birmingham",
+            "email": "Verified email at kent.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pcKQix4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Tim van Mourik",
+            "link": "https://scholar.google.com/citations?user=GelltYUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GelltYUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GelltYUAAAAJ",
+            "affiliations": "Radboud University Nijmegen, Donders Institute for Brain, Cognition and Behaviour, Centre for",
+            "email": "Verified email at timvanmourik.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GelltYUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mailce Borges Mota",
+            "link": "https://scholar.google.com/citations?user=rj3IOkUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rj3IOkUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rj3IOkUAAAAJ",
+            "affiliations": "Federal University of Santa Catarina",
+            "email": "Verified email at ufsc.br",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rj3IOkUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Johan Wagemans",
+            "link": "https://scholar.google.com/citations?user=BjwCO0IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BjwCO0IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BjwCO0IAAAAJ",
+            "affiliations": "Laboratory of Experimental Psychology, University of Leuven (K.U. Leuven)",
+            "email": "Verified email at psy.kuleuven.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BjwCO0IAAAAJ&citpid=2"
+        },
+        {
+            "name": "Kirsten Weber",
+            "link": "https://scholar.google.com/citations?user=YVvtYEIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YVvtYEIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YVvtYEIAAAAJ",
+            "affiliations": "Max Planck Institute for Psycholinguistics",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

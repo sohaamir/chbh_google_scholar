@@ -1,0 +1,201 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xVLhU5kAAAAJ&citpid=5",
+    "name": "Joseph Galea",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.josephgalea.weebly.com/",
+    "interests": [
+        {
+            "title": "motor learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_learning"
+        },
+        {
+            "title": "motor performance",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_performance",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_performance"
+        },
+        {
+            "title": "movement disorders",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:movement_disorders",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amovement_disorders"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 5978,
+                "since_2019": 3324
+            }
+        },
+        {
+            "h_index": {
+                "all": 35,
+                "since_2019": 28
+            }
+        },
+        {
+            "i10_index": {
+                "all": 47,
+                "since_2019": 45
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2010,
+            "citations": 29
+        },
+        {
+            "year": 2011,
+            "citations": 64
+        },
+        {
+            "year": 2012,
+            "citations": 119
+        },
+        {
+            "year": 2013,
+            "citations": 207
+        },
+        {
+            "year": 2014,
+            "citations": 306
+        },
+        {
+            "year": 2015,
+            "citations": 341
+        },
+        {
+            "year": 2016,
+            "citations": 409
+        },
+        {
+            "year": 2017,
+            "citations": 531
+        },
+        {
+            "year": 2018,
+            "citations": 576
+        },
+        {
+            "year": 2019,
+            "citations": 575
+        },
+        {
+            "year": 2020,
+            "citations": 678
+        },
+        {
+            "year": 2021,
+            "citations": 676
+        },
+        {
+            "year": 2022,
+            "citations": 620
+        },
+        {
+            "year": 2023,
+            "citations": 672
+        },
+        {
+            "year": 2024,
+            "citations": 103
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=xVLhU5kAAAAJ",
+    "available_public_access": 46,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "John Rothwell",
+            "link": "https://scholar.google.com/citations?user=hc_onLcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hc_onLcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hc_onLcAAAAJ",
+            "affiliations": "Profesor of Human Neurophysiology, UCL Institute of Neurology",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chris Miall",
+            "link": "https://scholar.google.com/citations?user=WD13oT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WD13oT0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WD13oT0AAAAJ",
+            "affiliations": "Emeritus Prof. Motor Neuroscience, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WD13oT0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Pablo Celnik",
+            "link": "https://scholar.google.com/citations?user=Jr84KsIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Jr84KsIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Jr84KsIAAAAJ",
+            "affiliations": "CEO, Shirley Ryan AbilityLab",
+            "email": "Verified email at sralab.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jr84KsIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Anna Sadnicka",
+            "link": "https://scholar.google.com/citations?user=Xn4FfSoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xn4FfSoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xn4FfSoAAAAJ",
+            "affiliations": "Senior Research Fellow, Gatsby Computational Neuroscience Unit",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xn4FfSoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Peter Holland",
+            "link": "https://scholar.google.com/citations?user=zI_9jc4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zI_9jc4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zI_9jc4AAAAJ",
+            "affiliations": "Lecturer, Department of Psychology, Goldsmiths, University of London",
+            "email": "Verified email at gold.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Masashi Hamada",
+            "link": "https://scholar.google.com/citations?user=PsJCX_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PsJCX_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PsJCX_IAAAAJ",
+            "affiliations": "Assistant Professor, the University of Tokyo, Department of Neurology",
+            "email": "Verified email at umin.net",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PsJCX_IAAAAJ&citpid=1"
+        },
+        {
+            "name": "Olivier Codol",
+            "link": "https://scholar.google.com/citations?user=cOqh6rEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cOqh6rEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cOqh6rEAAAAJ",
+            "affiliations": "Postdoctoral Researcher, MILA - Quebec AI Institute",
+            "email": "Verified email at mila.quebec",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cOqh6rEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Amy J Bastian",
+            "link": "https://scholar.google.com/citations?user=XuCieIUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XuCieIUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XuCieIUAAAAJ",
+            "affiliations": "Kennedy Krieger Institute / Johns Hopkins School of Medicine",
+            "email": "Verified email at kennedykrieger.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XuCieIUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Xiuli Chen",
+            "link": "https://scholar.google.com/citations?user=mMRcGPwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mMRcGPwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mMRcGPwAAAAJ",
+            "affiliations": "Yelp",
+            "email": "Verified email at yelp.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mMRcGPwAAAAJ&citpid=7"
+        },
+        {
+            "name": "Jörn Diedrichsen",
+            "link": "https://scholar.google.com/citations?user=mF72dYoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mF72dYoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mF72dYoAAAAJ",
+            "affiliations": "Western University, Canada",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mF72dYoAAAAJ&citpid=2"
+        }
+    ]
+}

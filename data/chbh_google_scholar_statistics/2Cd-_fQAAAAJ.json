@@ -1,0 +1,187 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2Cd-_fQAAAAJ&citpid=17",
+    "name": "Arkady Konovalov",
+    "affiliations": "Associate Professor, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://sites.google.com/site/arkadykonovalov/",
+    "interests": [
+        {
+            "title": "Neuroeconomics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroeconomics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroeconomics"
+        },
+        {
+            "title": "Decision Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:decision_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adecision_neuroscience"
+        },
+        {
+            "title": "Social Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_neuroscience"
+        },
+        {
+            "title": "Behavioral Economics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:behavioral_economics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abehavioral_economics"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 440,
+                "since_2019": 388
+            }
+        },
+        {
+            "h_index": {
+                "all": 9,
+                "since_2019": 9
+            }
+        },
+        {
+            "i10_index": {
+                "all": 9,
+                "since_2019": 9
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2017,
+            "citations": 18
+        },
+        {
+            "year": 2018,
+            "citations": 26
+        },
+        {
+            "year": 2019,
+            "citations": 40
+        },
+        {
+            "year": 2020,
+            "citations": 51
+        },
+        {
+            "year": 2021,
+            "citations": 83
+        },
+        {
+            "year": 2022,
+            "citations": 94
+        },
+        {
+            "year": 2023,
+            "citations": 99
+        },
+        {
+            "year": 2024,
+            "citations": 18
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=2Cd-_fQAAAAJ",
+    "available_public_access": 9,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Ian Krajbich",
+            "link": "https://scholar.google.com/citations?user=xTRr7WcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xTRr7WcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xTRr7WcAAAAJ",
+            "affiliations": "Associate Professor of Psychology, UCLA",
+            "email": "Verified email at ucla.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xTRr7WcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Christian C. Ruff",
+            "link": "https://scholar.google.com/citations?user=yY3StJ8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yY3StJ8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yY3StJ8AAAAJ",
+            "affiliations": "University of Zurich",
+            "email": "Verified email at econ.uzh.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yY3StJ8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Jie Hu （胡捷）",
+            "link": "https://scholar.google.com/citations?user=SLsve0UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SLsve0UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SLsve0UAAAAJ",
+            "affiliations": "PI, School of Psychology and Cognitive Science, East China Normal University",
+            "email": "Verified email at uzh.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SLsve0UAAAAJ&citpid=3"
+        },
+        {
+            "name": "jean daunizeau",
+            "link": "https://scholar.google.com/citations?user=IQgFqvwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IQgFqvwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IQgFqvwAAAAJ",
+            "affiliations": "INSERM / Paris Brain Institute (ICM), Paris, France",
+            "email": "Verified email at icm-institute.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IQgFqvwAAAAJ&citpid=4"
+        },
+        {
+            "name": "Claire Lugrin",
+            "link": "https://scholar.google.com/citations?user=2bARGtcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2bARGtcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2bARGtcAAAAJ",
+            "affiliations": "PhD Candidate, University of Zurich",
+            "email": "Verified email at uzh.ch",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Niklas Buergi",
+            "link": "https://scholar.google.com/citations?user=SKf7C5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SKf7C5UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SKf7C5UAAAAJ",
+            "affiliations": "University of Zurich",
+            "email": "Verified email at uzh.ch",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ulrich Bergmann",
+            "link": "https://scholar.google.com/citations?user=bzXevP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bzXevP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bzXevP8AAAAJ",
+            "affiliations": "University of Zurich",
+            "email": "Verified email at bolt.eu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bzXevP8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Sophie Bavard",
+            "link": "https://scholar.google.com/citations?user=mMy7QTMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mMy7QTMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mMy7QTMAAAAJ",
+            "affiliations": "Hamburg University",
+            "email": "Verified email at uni-hamburg.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Erik Stuchlý",
+            "link": "https://scholar.google.com/citations?user=D_IsbcgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=D_IsbcgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "D_IsbcgAAAAJ",
+            "affiliations": "University of Hamburg",
+            "email": "Verified email at uni-hamburg.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sebastian Gluth",
+            "link": "https://scholar.google.com/citations?user=U6MRIWAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=U6MRIWAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U6MRIWAAAAAJ",
+            "affiliations": "Department of Psychology, University of Hamburg",
+            "email": "Verified email at uni-hamburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=U6MRIWAAAAAJ&citpid=13"
+        },
+        {
+            "name": "Gökhan Aydogan",
+            "link": "https://scholar.google.com/citations?user=FbZTYaQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FbZTYaQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FbZTYaQAAAAJ",
+            "affiliations": "Post-Doc, Department of Economics, University of Zurich",
+            "email": "Verified email at uzh.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FbZTYaQAAAAJ&citpid=2"
+        }
+    ]
+}

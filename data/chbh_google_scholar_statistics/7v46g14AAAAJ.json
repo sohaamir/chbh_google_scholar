@@ -1,0 +1,96 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7v46g14AAAAJ&citpid=11",
+    "name": "KyungMin An",
+    "affiliations": "Assistant Professor, School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://sites.google.com/view/an-lab/home",
+    "interests": [
+        {
+            "title": "Child development",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:child_development",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achild_development"
+        },
+        {
+            "title": "Autism spectrum disorders",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:autism_spectrum_disorders",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautism_spectrum_disorders"
+        },
+        {
+            "title": "Sensory/Motor processing",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sensory_motor_processing",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asensory_motor_processing"
+        },
+        {
+            "title": "MEG",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:meg",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ameg"
+        },
+        {
+            "title": "OPM",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:opm",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aopm"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 313,
+                "since_2019": 301
+            }
+        },
+        {
+            "h_index": {
+                "all": 9,
+                "since_2019": 9
+            }
+        },
+        {
+            "i10_index": {
+                "all": 9,
+                "since_2019": 9
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2016,
+            "citations": 3
+        },
+        {
+            "year": 2017,
+            "citations": 4
+        },
+        {
+            "year": 2018,
+            "citations": 4
+        },
+        {
+            "year": 2019,
+            "citations": 24
+        },
+        {
+            "year": 2020,
+            "citations": 29
+        },
+        {
+            "year": 2021,
+            "citations": 59
+        },
+        {
+            "year": 2022,
+            "citations": 74
+        },
+        {
+            "year": 2023,
+            "citations": 81
+        },
+        {
+            "year": 2024,
+            "citations": 33
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=7v46g14AAAAJ",
+    "available_public_access": 4,
+    "not_available_public_access": 0,
+    "co_authors": null
+}

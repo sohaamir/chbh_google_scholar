@@ -1,0 +1,150 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SIYS-lcAAAAJ&citpid=4",
+    "name": "Hamid Dehghani",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at cs.bham.ac.uk",
+    "website": "http://www.cs.bham.ac.uk/~dehghanh/",
+    "interests": [
+        {
+            "title": "Optical Imaging",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:optical_imaging",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptical_imaging"
+        },
+        {
+            "title": "Image Formation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:image_formation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimage_formation"
+        },
+        {
+            "title": "Numerical Models",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:numerical_models",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anumerical_models"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 13640,
+                "since_2019": 3838
+            }
+        },
+        {
+            "h_index": {
+                "all": 62,
+                "since_2019": 29
+            }
+        },
+        {
+            "i10_index": {
+                "all": 158,
+                "since_2019": 94
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2000,
+            "citations": 35
+        },
+        {
+            "year": 2001,
+            "citations": 51
+        },
+        {
+            "year": 2002,
+            "citations": 106
+        },
+        {
+            "year": 2003,
+            "citations": 170
+        },
+        {
+            "year": 2004,
+            "citations": 197
+        },
+        {
+            "year": 2005,
+            "citations": 417
+        },
+        {
+            "year": 2006,
+            "citations": 412
+        },
+        {
+            "year": 2007,
+            "citations": 494
+        },
+        {
+            "year": 2008,
+            "citations": 572
+        },
+        {
+            "year": 2009,
+            "citations": 669
+        },
+        {
+            "year": 2010,
+            "citations": 777
+        },
+        {
+            "year": 2011,
+            "citations": 764
+        },
+        {
+            "year": 2012,
+            "citations": 868
+        },
+        {
+            "year": 2013,
+            "citations": 724
+        },
+        {
+            "year": 2014,
+            "citations": 784
+        },
+        {
+            "year": 2015,
+            "citations": 630
+        },
+        {
+            "year": 2016,
+            "citations": 705
+        },
+        {
+            "year": 2017,
+            "citations": 616
+        },
+        {
+            "year": 2018,
+            "citations": 702
+        },
+        {
+            "year": 2019,
+            "citations": 701
+        },
+        {
+            "year": 2020,
+            "citations": 774
+        },
+        {
+            "year": 2021,
+            "citations": 840
+        },
+        {
+            "year": 2022,
+            "citations": 672
+        },
+        {
+            "year": 2023,
+            "citations": 702
+        },
+        {
+            "year": 2024,
+            "citations": 146
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=SIYS-lcAAAAJ",
+    "available_public_access": 133,
+    "not_available_public_access": 47,
+    "co_authors": null
+}

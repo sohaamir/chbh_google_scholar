@@ -1,0 +1,293 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Vyn8xRQAAAAJ&citpid=2",
+    "name": "Hyojin Park",
+    "affiliations": "Assistant Professor, School of Psychology & Centre for Human Brain Health, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://www.birmingham.ac.uk/staff/profiles/psychology/park-hyojin.aspx",
+    "interests": [
+        {
+            "title": "Systems Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:systems_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asystems_neuroscience"
+        },
+        {
+            "title": "Brain oscillations",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:brain_oscillations",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abrain_oscillations"
+        },
+        {
+            "title": "Electrophysiology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:electrophysiology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrophysiology"
+        },
+        {
+            "title": "Multisensory",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multisensory",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultisensory"
+        },
+        {
+            "title": "Natural Language Processing",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 1025,
+                "since_2019": 701
+            }
+        },
+        {
+            "h_index": {
+                "all": 11,
+                "since_2019": 11
+            }
+        },
+        {
+            "i10_index": {
+                "all": 12,
+                "since_2019": 11
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2012,
+            "citations": 7
+        },
+        {
+            "year": 2013,
+            "citations": 11
+        },
+        {
+            "year": 2014,
+            "citations": 16
+        },
+        {
+            "year": 2015,
+            "citations": 30
+        },
+        {
+            "year": 2016,
+            "citations": 44
+        },
+        {
+            "year": 2017,
+            "citations": 91
+        },
+        {
+            "year": 2018,
+            "citations": 114
+        },
+        {
+            "year": 2019,
+            "citations": 120
+        },
+        {
+            "year": 2020,
+            "citations": 153
+        },
+        {
+            "year": 2021,
+            "citations": 117
+        },
+        {
+            "year": 2022,
+            "citations": 147
+        },
+        {
+            "year": 2023,
+            "citations": 127
+        },
+        {
+            "year": 2024,
+            "citations": 37
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Vyn8xRQAAAAJ",
+    "available_public_access": 13,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Joachim Gross",
+            "link": "https://scholar.google.com/citations?user=00NYt6oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=00NYt6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "00NYt6oAAAAJ",
+            "affiliations": "Professor, University of Muenster, Germany",
+            "email": "Verified email at uni-muenster.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=00NYt6oAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gregor Thut",
+            "link": "https://scholar.google.com/citations?user=s3HfvbMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s3HfvbMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s3HfvbMAAAAJ",
+            "affiliations": "Institute of Neuroscience amd Psychology, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=s3HfvbMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dong Soo Lee",
+            "link": "https://scholar.google.com/citations?user=ecAv6DkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ecAv6DkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ecAv6DkAAAAJ",
+            "affiliations": "Professor of Nuclear Medicine, Seoul National University",
+            "email": "Verified email at snu.ac.kr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ole Jensen",
+            "link": "https://scholar.google.com/citations?user=ADvWcoUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ADvWcoUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ADvWcoUAAAAJ",
+            "affiliations": "School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ADvWcoUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Robin Ince",
+            "link": "https://scholar.google.com/citations?user=tI7ZazkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tI7ZazkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tI7ZazkAAAAJ",
+            "affiliations": "University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tI7ZazkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Philippe G. Schyns",
+            "link": "https://scholar.google.com/citations?user=cwgW51EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cwgW51EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cwgW51EAAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Eunjoo Kang",
+            "link": "https://scholar.google.com/citations?user=0b8K4joAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0b8K4joAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0b8K4joAAAAJ",
+            "affiliations": "Kangwon National University",
+            "email": "Verified email at kangwon.ac.kr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hyejin Kang",
+            "link": "https://scholar.google.com/citations?user=vw1QRroAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vw1QRroAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vw1QRroAAAAJ",
+            "affiliations": "Seoul National University",
+            "email": "Verified email at snu.ac.kr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Christoph Kayser",
+            "link": "https://scholar.google.com/citations?user=F7VTyJgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=F7VTyJgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F7VTyJgAAAAJ",
+            "affiliations": "Cognitive Neuroscience, Bielefeld University",
+            "email": "Verified email at uni-bielefeld.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=F7VTyJgAAAAJ&citpid=7"
+        },
+        {
+            "name": "Jungsu Oh, Ph.D., KMPCB/KBMP(e)",
+            "link": "https://scholar.google.com/citations?user=Upnps1EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Upnps1EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Upnps1EAAAAJ",
+            "affiliations": "Professor of Nuclear Medicine, Asan Medical Center, University of Ulsan College of Medicine",
+            "email": "Verified email at amc.seoul.kr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Upnps1EAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jae Sung Lee",
+            "link": "https://scholar.google.com/citations?user=NXlghNYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NXlghNYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NXlghNYAAAAJ",
+            "affiliations": "Professor, Seoul National University College of Medicine",
+            "email": "Verified email at snu.ac.kr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NXlghNYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Nathan Weisz",
+            "link": "https://scholar.google.com/citations?user=C1ao7w4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C1ao7w4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C1ao7w4AAAAJ",
+            "affiliations": "CCNS, University of Salzburg",
+            "email": "Verified email at sbg.ac.at",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C1ao7w4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Chandra Leon Haider",
+            "link": "https://scholar.google.com/citations?user=IiWNABwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IiWNABwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IiWNABwAAAAJ",
+            "affiliations": "University of Salzburg",
+            "email": "Verified email at plus.ac.at",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Eelke Spaak",
+            "link": "https://scholar.google.com/citations?user=-LNK_5MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-LNK_5MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-LNK_5MAAAAJ",
+            "affiliations": "Donders Institute",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-LNK_5MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Emmanuel Biau",
+            "link": "https://scholar.google.com/citations?user=53AAHTsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=53AAHTsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "53AAHTsAAAAJ",
+            "affiliations": "Research Fellow, University of Liverpool",
+            "email": "Verified email at liverpool.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=53AAHTsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Simon Hanslmayr",
+            "link": "https://scholar.google.com/citations?user=DaiCRJkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DaiCRJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DaiCRJkAAAAJ",
+            "affiliations": "Institute of Neuroscience and Psychology, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DaiCRJkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Haiteng Jiang",
+            "link": "https://scholar.google.com/citations?user=eVQr6d0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=eVQr6d0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eVQr6d0AAAAJ",
+            "affiliations": "MOE Frontier Science Center for Brain Science and Brain-Machine Integration, Zhejiang University",
+            "email": "Verified email at zju.edu.cn",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eVQr6d0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Danying Wang",
+            "link": "https://scholar.google.com/citations?user=lXGCk3UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lXGCk3UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lXGCk3UAAAAJ",
+            "affiliations": "University College London",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hyekyoung Lee",
+            "link": "https://scholar.google.com/citations?user=3ZNKO84AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3ZNKO84AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3ZNKO84AAAAJ",
+            "affiliations": "Seoul National University Hospital",
+            "email": "Verified email at postech.ac.kr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3ZNKO84AAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel S. Kluger",
+            "link": "https://scholar.google.com/citations?user=WzhyylcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WzhyylcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WzhyylcAAAAJ",
+            "affiliations": "Junior PI, Institute for Biomagnetism and Biosignal Analysis (IBB), University of Münster",
+            "email": "Verified email at uni-muenster.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WzhyylcAAAAJ&citpid=6"
+        }
+    ]
+}

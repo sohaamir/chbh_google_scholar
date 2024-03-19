@@ -1,0 +1,151 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2Z7J72wAAAAJ&citpid=1",
+    "name": "ali mazaheri",
+    "affiliations": "Associate Professor, School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.alimazaheri.com/",
+    "interests": [
+        {
+            "title": "Oscillations",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:oscillations",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoscillations"
+        },
+        {
+            "title": "cognitive deficits",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_deficits",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_deficits"
+        },
+        {
+            "title": "biomarkers",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biomarkers",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomarkers"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7872,
+                "since_2019": 4424
+            }
+        },
+        {
+            "h_index": {
+                "all": 34,
+                "since_2019": 30
+            }
+        },
+        {
+            "i10_index": {
+                "all": 46,
+                "since_2019": 46
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2009,
+            "citations": 36
+        },
+        {
+            "year": 2010,
+            "citations": 92
+        },
+        {
+            "year": 2011,
+            "citations": 152
+        },
+        {
+            "year": 2012,
+            "citations": 210
+        },
+        {
+            "year": 2013,
+            "citations": 266
+        },
+        {
+            "year": 2014,
+            "citations": 422
+        },
+        {
+            "year": 2015,
+            "citations": 475
+        },
+        {
+            "year": 2016,
+            "citations": 490
+        },
+        {
+            "year": 2017,
+            "citations": 521
+        },
+        {
+            "year": 2018,
+            "citations": 695
+        },
+        {
+            "year": 2019,
+            "citations": 765
+        },
+        {
+            "year": 2020,
+            "citations": 767
+        },
+        {
+            "year": 2021,
+            "citations": 871
+        },
+        {
+            "year": 2022,
+            "citations": 882
+        },
+        {
+            "year": 2023,
+            "citations": 942
+        },
+        {
+            "year": 2024,
+            "citations": 187
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=2Z7J72wAAAAJ",
+    "available_public_access": 20,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Ole Jensen",
+            "link": "https://scholar.google.com/citations?user=ADvWcoUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ADvWcoUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ADvWcoUAAAAJ",
+            "affiliations": "School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ADvWcoUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Rosanne van Diepen",
+            "link": "https://scholar.google.com/citations?user=nbZYY8UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nbZYY8UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nbZYY8UAAAAJ",
+            "affiliations": "Researcher",
+            "email": "Verified email at rsm.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nbZYY8UAAAAJ&citpid=7"
+        },
+        {
+            "name": "Terence Picton",
+            "link": "https://scholar.google.com/citations?user=Yz3lxi8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yz3lxi8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Yz3lxi8AAAAJ",
+            "affiliations": "University of Toronto",
+            "email": "Verified email at utoronto.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Yz3lxi8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Blythe Corbett",
+            "link": "https://scholar.google.com/citations?user=4OhnLOIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4OhnLOIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4OhnLOIAAAAJ",
+            "affiliations": "Vanderbilt University Medical Center",
+            "email": "Verified email at vanderbilt.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4OhnLOIAAAAJ&citpid=2"
+        }
+    ]
+}

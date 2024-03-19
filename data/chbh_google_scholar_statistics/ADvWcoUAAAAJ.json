@@ -1,0 +1,309 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ADvWcoUAAAAJ&citpid=2",
+    "name": "Ole Jensen",
+    "affiliations": "School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.neuosc.com/",
+    "interests": [
+        {
+            "title": "Neuronal oscillations",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuronal_oscillations",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuronal_oscillations"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 40238,
+                "since_2019": 18629
+            }
+        },
+        {
+            "h_index": {
+                "all": 85,
+                "since_2019": 66
+            }
+        },
+        {
+            "i10_index": {
+                "all": 196,
+                "since_2019": 173
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2003,
+            "citations": 217
+        },
+        {
+            "year": 2004,
+            "citations": 123
+        },
+        {
+            "year": 2005,
+            "citations": 233
+        },
+        {
+            "year": 2006,
+            "citations": 257
+        },
+        {
+            "year": 2007,
+            "citations": 453
+        },
+        {
+            "year": 2008,
+            "citations": 609
+        },
+        {
+            "year": 2009,
+            "citations": 630
+        },
+        {
+            "year": 2010,
+            "citations": 963
+        },
+        {
+            "year": 2011,
+            "citations": 1237
+        },
+        {
+            "year": 2012,
+            "citations": 1410
+        },
+        {
+            "year": 2013,
+            "citations": 1600
+        },
+        {
+            "year": 2014,
+            "citations": 2298
+        },
+        {
+            "year": 2015,
+            "citations": 2386
+        },
+        {
+            "year": 2016,
+            "citations": 2640
+        },
+        {
+            "year": 2017,
+            "citations": 2740
+        },
+        {
+            "year": 2018,
+            "citations": 3178
+        },
+        {
+            "year": 2019,
+            "citations": 3517
+        },
+        {
+            "year": 2020,
+            "citations": 3648
+        },
+        {
+            "year": 2021,
+            "citations": 3629
+        },
+        {
+            "year": 2022,
+            "citations": 3597
+        },
+        {
+            "year": 2023,
+            "citations": 3485
+        },
+        {
+            "year": 2024,
+            "citations": 751
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ADvWcoUAAAAJ",
+    "available_public_access": 114,
+    "not_available_public_access": 6,
+    "co_authors": [
+        {
+            "name": "Marcel van Gerven",
+            "link": "https://scholar.google.com/citations?user=sX0ZypwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sX0ZypwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sX0ZypwAAAAJ",
+            "affiliations": "Professor of Artificial Cognitive Systems, Donders Institute for Brain, Cognition and Behaviour",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sX0ZypwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Atsuko Takashima",
+            "link": "https://scholar.google.com/citations?user=VVtjfA8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VVtjfA8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VVtjfA8AAAAJ",
+            "affiliations": "Radboud University",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ali Bahramisharif",
+            "link": "https://scholar.google.com/citations?user=ythtuiMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ythtuiMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ythtuiMAAAAJ",
+            "affiliations": "AMC Amsterdam & University of Amsterdam",
+            "email": "Verified email at amc.uva.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Saskia Haegens",
+            "link": "https://scholar.google.com/citations?user=FlyTM5sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FlyTM5sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FlyTM5sAAAAJ",
+            "affiliations": "Columbia University Medical Center",
+            "email": "Verified email at columbia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FlyTM5sAAAAJ&citpid=4"
+        },
+        {
+            "name": "Eric Maris",
+            "link": "https://scholar.google.com/citations?user=YnX5NBQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YnX5NBQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YnX5NBQAAAAJ",
+            "affiliations": "Donders Institute, for Brain, Cognition and Behaviour. Radboud University.",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YnX5NBQAAAAJ&citpid=6"
+        },
+        {
+            "name": "Riitta Hari",
+            "link": "https://scholar.google.com/citations?user=7pA__yMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7pA__yMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7pA__yMAAAAJ",
+            "affiliations": "Prof. (emer.) @ Aalto University, School of ARTS & School of SCI; Finland",
+            "email": "Verified email at aalto.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7pA__yMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Eelke Spaak",
+            "link": "https://scholar.google.com/citations?user=-LNK_5MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-LNK_5MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-LNK_5MAAAAJ",
+            "affiliations": "Donders Institute",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-LNK_5MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Karl Magnus Petersson @kmpetersson",
+            "link": "https://scholar.google.com/citations?user=rH1ldd4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rH1ldd4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rH1ldd4AAAAJ",
+            "affiliations": "Neurobiology of Language",
+            "email": "Verified email at ualg.pt",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rH1ldd4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Bruce McNaughton",
+            "link": "https://scholar.google.com/citations?user=5kyOc30AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5kyOc30AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5kyOc30AAAAJ",
+            "affiliations": "Professor, Neuroscience, University of Lethbridge, Canada",
+            "email": "Verified email at uleth.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Floris de Lange",
+            "link": "https://scholar.google.com/citations?user=5z1S51MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5z1S51MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5z1S51MAAAAJ",
+            "affiliations": "Principal Investigator at Donders Institute, Radboud University Nijmegen, Netherlands",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5z1S51MAAAAJ&citpid=4"
+        },
+        {
+            "name": "Jurrian van der Werf",
+            "link": "https://scholar.google.com/citations?user=kTHf3UgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kTHf3UgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kTHf3UgAAAAJ",
+            "affiliations": "Radboud University Medical Center Nijmegen, Donders Center for Neuroscience",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Barbara Haendel",
+            "link": "https://scholar.google.com/citations?user=YohzbY8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YohzbY8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YohzbY8AAAAJ",
+            "affiliations": "University Wuerzburg",
+            "email": "Verified email at uni-wuerzburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YohzbY8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Laura L Colgin",
+            "link": "https://scholar.google.com/citations?user=9O-NlqkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9O-NlqkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9O-NlqkAAAAJ",
+            "affiliations": "Department of Neuroscience, Center for Learning and Memory, University of Texas at Austin",
+            "email": "Verified email at mail.clm.utexas.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9O-NlqkAAAAJ&citpid=8"
+        },
+        {
+            "name": "Tom Heskes",
+            "link": "https://scholar.google.com/citations?user=3jUymSMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3jUymSMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3jUymSMAAAAJ",
+            "affiliations": "Professor of Computer Science and Artificial Intelligence, Radboud University Nijmegen",
+            "email": "Verified email at science.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3jUymSMAAAAJ&citpid=7"
+        },
+        {
+            "name": "Pascal Fries",
+            "link": "https://scholar.google.com/citations?user=d3U-6zUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d3U-6zUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "d3U-6zUAAAAJ",
+            "affiliations": "Director, Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max Planck Society",
+            "email": "Verified email at esi-frankfurt.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d3U-6zUAAAAJ&citpid=8"
+        },
+        {
+            "name": "ranulfo romo",
+            "link": "https://scholar.google.com/citations?user=tghN5uYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tghN5uYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tghN5uYAAAAJ",
+            "affiliations": "Profesor de Neurociencias, Universidad Nacional Autónoma de México",
+            "email": "Verified email at ifc.unam.mx",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "John Kounios",
+            "link": "https://scholar.google.com/citations?user=4insZUgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4insZUgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4insZUgAAAAJ",
+            "affiliations": "Professor of Psychological and Brain Sciences, Drexel University",
+            "email": "Verified email at drexel.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4insZUgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Francesco P. Battaglia",
+            "link": "https://scholar.google.com/citations?user=rTQIGBEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rTQIGBEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rTQIGBEAAAAJ",
+            "affiliations": "Full professor, Donders Centre for Neuroscience, Radboud Universiteit Nijmegen",
+            "email": "Verified email at science.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rTQIGBEAAAAJ&citpid=7"
+        },
+        {
+            "name": "Jean-Philippe Lachaux",
+            "link": "https://scholar.google.com/citations?user=_UlzekMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_UlzekMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_UlzekMAAAAJ",
+            "affiliations": "Research Director - INSERM - Lyon",
+            "email": "Verified email at inserm.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_UlzekMAAAAJ&citpid=4"
+        },
+        {
+            "name": "Jochen Kaiser",
+            "link": "https://scholar.google.com/citations?user=DQ51OrYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DQ51OrYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DQ51OrYAAAAJ",
+            "affiliations": "Goethe University, Frankfurt am Main, Germany",
+            "email": "Verified email at med.uni-frankfurt.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DQ51OrYAAAAJ&citpid=2"
+        }
+    ]
+}

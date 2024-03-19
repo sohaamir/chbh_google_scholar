@@ -1,0 +1,302 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=93hi3QcAAAAJ&citpid=10",
+    "name": "Massimiliano Di Luca",
+    "affiliations": "University of Birmingham, School of Psychology",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://massimilianodiluca.info/",
+    "interests": [
+        {
+            "title": "Multisensory perception",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multisensory_perception",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultisensory_perception"
+        },
+        {
+            "title": "Time perception",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:time_perception",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atime_perception"
+        },
+        {
+            "title": "Computational modeling",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_modeling",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_modeling"
+        },
+        {
+            "title": "Haptics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:haptics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahaptics"
+        },
+        {
+            "title": "Virtual reality",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:virtual_reality",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avirtual_reality"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2620,
+                "since_2019": 1479
+            }
+        },
+        {
+            "h_index": {
+                "all": 27,
+                "since_2019": 21
+            }
+        },
+        {
+            "i10_index": {
+                "all": 55,
+                "since_2019": 43
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2009,
+            "citations": 7
+        },
+        {
+            "year": 2010,
+            "citations": 35
+        },
+        {
+            "year": 2011,
+            "citations": 62
+        },
+        {
+            "year": 2012,
+            "citations": 74
+        },
+        {
+            "year": 2013,
+            "citations": 118
+        },
+        {
+            "year": 2014,
+            "citations": 125
+        },
+        {
+            "year": 2015,
+            "citations": 125
+        },
+        {
+            "year": 2016,
+            "citations": 179
+        },
+        {
+            "year": 2017,
+            "citations": 151
+        },
+        {
+            "year": 2018,
+            "citations": 238
+        },
+        {
+            "year": 2019,
+            "citations": 214
+        },
+        {
+            "year": 2020,
+            "citations": 267
+        },
+        {
+            "year": 2021,
+            "citations": 287
+        },
+        {
+            "year": 2022,
+            "citations": 306
+        },
+        {
+            "year": 2023,
+            "citations": 344
+        },
+        {
+            "year": 2024,
+            "citations": 60
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=93hi3QcAAAAJ",
+    "available_public_access": 34,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Marc O. Ernst",
+            "link": "https://scholar.google.com/citations?user=EQjOxY4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EQjOxY4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EQjOxY4AAAAJ",
+            "affiliations": "Ulm University, Appl. Cognitive Psychology",
+            "email": "Verified email at uni-ulm.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EQjOxY4AAAAJ&citpid=5"
+        },
+        {
+            "name": "Tonja Machulla",
+            "link": "https://scholar.google.com/citations?user=cJFe4n0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cJFe4n0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cJFe4n0AAAAJ",
+            "affiliations": "TU Chemnitz",
+            "email": "Verified email at ifi.lmu.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Matthias Harders",
+            "link": "https://scholar.google.com/citations?user=ZwyxhDwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZwyxhDwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZwyxhDwAAAAJ",
+            "affiliations": "Professor of Computer Science, University of Innsbruck",
+            "email": "Verified email at uibk.ac.at",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZwyxhDwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Corrado Caudek",
+            "link": "https://scholar.google.com/citations?user=oSWpPNUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oSWpPNUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oSWpPNUAAAAJ",
+            "affiliations": "Università degli Studi di Firenze",
+            "email": "Verified email at unifi.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oSWpPNUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Alan Wing",
+            "link": "https://scholar.google.com/citations?user=JEihq_0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JEihq_0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JEihq_0AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JEihq_0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Darren Rhodes",
+            "link": "https://scholar.google.com/citations?user=fYqfyJIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fYqfyJIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fYqfyJIAAAAJ",
+            "affiliations": "Keele University",
+            "email": "Verified email at keele.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fYqfyJIAAAAJ&citpid=4"
+        },
+        {
+            "name": "Ninja Katja Horr",
+            "link": "https://scholar.google.com/citations?user=kSTC2fAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kSTC2fAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kSTC2fAAAAAJ",
+            "affiliations": "horr-scienceconsulting",
+            "email": "Verified email at horr-scienceconsulting.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kSTC2fAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sophie Joerg",
+            "link": "https://scholar.google.com/citations?user=vIuCdRQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vIuCdRQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vIuCdRQAAAAJ",
+            "affiliations": "University of Bamberg",
+            "email": "Verified email at uni-bamberg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vIuCdRQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Marieke Rohde",
+            "link": "https://scholar.google.com/citations?user=okCe098AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=okCe098AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "okCe098AAAAJ",
+            "affiliations": "Scientific Consultant, Institute of Technology and Innovation Berlin",
+            "email": "Verified email at mariekerohde.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=okCe098AAAAJ&citpid=4"
+        },
+        {
+            "name": "Lorraine Lin",
+            "link": "https://scholar.google.com/citations?user=t3QHEEAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=t3QHEEAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t3QHEEAAAAAJ",
+            "email": "Verified email at clemson.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=t3QHEEAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jess Hartcher-O'Brien",
+            "link": "https://scholar.google.com/citations?user=AxMt6coAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AxMt6coAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AxMt6coAAAAJ",
+            "affiliations": "Meta Reality Labs",
+            "email": "Verified email at meta.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AxMt6coAAAAJ&citpid=1"
+        },
+        {
+            "name": "Benjamin Knoerlein",
+            "link": "https://scholar.google.com/citations?user=yKAnZ_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yKAnZ_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yKAnZ_IAAAAJ",
+            "email": "Verified email at amazon.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hua-Chun Sun",
+            "link": "https://scholar.google.com/citations?user=U4KCXK0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=U4KCXK0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U4KCXK0AAAAJ",
+            "affiliations": "Research Associate, JLU Gießen",
+            "email": "Verified email at psychol.uni-giessen.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=U4KCXK0AAAAJ&citpid=12"
+        },
+        {
+            "name": "Diar Abdlkarim",
+            "link": "https://scholar.google.com/citations?user=Plv4gH4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Plv4gH4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Plv4gH4AAAAJ",
+            "affiliations": "Postdoctoral Fellow in Neuroscience, University of Birmingham",
+            "email": "Verified email at student.bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Plv4gH4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Yuting Ye",
+            "link": "https://scholar.google.com/citations?user=Zxb8sdkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Zxb8sdkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Zxb8sdkAAAAJ",
+            "affiliations": "Research Scientist, Reality Labs Research @ Meta",
+            "email": "Verified email at meta.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Zxb8sdkAAAAJ&citpid=6"
+        },
+        {
+            "name": "Aline Normoyle",
+            "link": "https://scholar.google.com/citations?user=lLoTuP0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lLoTuP0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lLoTuP0AAAAJ",
+            "affiliations": "Assistant Professor, Bryn Mawr College",
+            "email": "Verified email at brynmawr.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lLoTuP0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Yon Visell",
+            "link": "https://scholar.google.com/citations?user=jhyQz3cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jhyQz3cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jhyQz3cAAAAJ",
+            "affiliations": "University of California, Santa Barbara",
+            "email": "Verified email at ece.ucsb.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jhyQz3cAAAAJ&citpid=3"
+        },
+        {
+            "name": "Majed Samad",
+            "link": "https://scholar.google.com/citations?user=SnzV4ZwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SnzV4ZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SnzV4ZwAAAAJ",
+            "email": "Verified email at gvmpl.us",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Paolo Gallina",
+            "link": "https://scholar.google.com/citations?user=vRQT3lcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vRQT3lcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vRQT3lcAAAAJ",
+            "affiliations": "Trieste, Padova",
+            "email": "Verified email at units.it",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hasti Seifi",
+            "link": "https://scholar.google.com/citations?user=IAD0fQQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IAD0fQQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IAD0fQQAAAAJ",
+            "affiliations": "Arizona State University",
+            "email": "Verified email at di.ku.dk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IAD0fQQAAAAJ&citpid=6"
+        }
+    ]
+}

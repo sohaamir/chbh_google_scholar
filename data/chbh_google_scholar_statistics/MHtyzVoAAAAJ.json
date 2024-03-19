@@ -1,0 +1,303 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MHtyzVoAAAAJ&citpid=3",
+    "name": "Clare Anderson",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": null,
+    "interests": [
+        {
+            "title": "Sleep",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sleep",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asleep"
+        },
+        {
+            "title": "cognition",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognition",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognition"
+        },
+        {
+            "title": "drowsy driving",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:drowsy_driving",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adrowsy_driving"
+        },
+        {
+            "title": "biomarkers",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biomarkers",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomarkers"
+        },
+        {
+            "title": "technology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:technology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atechnology"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 4073,
+                "since_2019": 2691
+            }
+        },
+        {
+            "h_index": {
+                "all": 34,
+                "since_2019": 29
+            }
+        },
+        {
+            "i10_index": {
+                "all": 63,
+                "since_2019": 57
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2005,
+            "citations": 15
+        },
+        {
+            "year": 2006,
+            "citations": 13
+        },
+        {
+            "year": 2007,
+            "citations": 20
+        },
+        {
+            "year": 2008,
+            "citations": 28
+        },
+        {
+            "year": 2009,
+            "citations": 23
+        },
+        {
+            "year": 2010,
+            "citations": 52
+        },
+        {
+            "year": 2011,
+            "citations": 75
+        },
+        {
+            "year": 2012,
+            "citations": 62
+        },
+        {
+            "year": 2013,
+            "citations": 109
+        },
+        {
+            "year": 2014,
+            "citations": 103
+        },
+        {
+            "year": 2015,
+            "citations": 162
+        },
+        {
+            "year": 2016,
+            "citations": 198
+        },
+        {
+            "year": 2017,
+            "citations": 226
+        },
+        {
+            "year": 2018,
+            "citations": 230
+        },
+        {
+            "year": 2019,
+            "citations": 397
+        },
+        {
+            "year": 2020,
+            "citations": 452
+        },
+        {
+            "year": 2021,
+            "citations": 568
+        },
+        {
+            "year": 2022,
+            "citations": 514
+        },
+        {
+            "year": 2023,
+            "citations": 591
+        },
+        {
+            "year": 2024,
+            "citations": 154
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=MHtyzVoAAAAJ",
+    "available_public_access": 29,
+    "not_available_public_access": 10,
+    "co_authors": [
+        {
+            "name": "Shantha M.W. Rajaratnam",
+            "link": "https://scholar.google.com/citations?user=Fah_71UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Fah_71UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Fah_71UAAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Fah_71UAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mark Howard",
+            "link": "https://scholar.google.com/citations?user=N4HG3hQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=N4HG3hQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "N4HG3hQAAAAJ",
+            "affiliations": "Director VRSS, Institute for Breathing and Sleep, Austin Health",
+            "email": "Verified email at austin.org.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=N4HG3hQAAAAJ&citpid=1"
+        },
+        {
+            "name": "J Horne",
+            "link": "https://scholar.google.com/citations?user=IUoDdMkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IUoDdMkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUoDdMkAAAAJ",
+            "affiliations": "loughborough University",
+            "email": "Verified email at lboro.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Suzanne Ftouni",
+            "link": "https://scholar.google.com/citations?user=Lbzb68YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Lbzb68YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Lbzb68YAAAAJ",
+            "affiliations": "Circadian Therapeutics",
+            "email": "Verified email at circadiantherapeutics.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Lbzb68YAAAAJ&citpid=1"
+        },
+        {
+            "name": "Tracey Sletten",
+            "link": "https://scholar.google.com/citations?user=OjrCgUoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OjrCgUoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OjrCgUoAAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OjrCgUoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sean P.A. Drummond",
+            "link": "https://scholar.google.com/citations?user=ow8CMQ4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ow8CMQ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ow8CMQ4AAAAJ",
+            "affiliations": "Professor of Clinical Neuroscience, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ow8CMQ4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Sean W Cain",
+            "link": "https://scholar.google.com/citations?user=fCfy7iwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fCfy7iwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fCfy7iwAAAAJ",
+            "affiliations": "Monash University, Harvard Medical School, University of Toronto, Concordia University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fCfy7iwAAAAJ&citpid=6"
+        },
+        {
+            "name": "Andrew J K Phillips",
+            "link": "https://scholar.google.com/citations?user=w1fBCWIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w1fBCWIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w1fBCWIAAAAJ",
+            "affiliations": "Turner Institute for Brain and Mental Health, School of Psychological Sciences, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w1fBCWIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Michael Lenne",
+            "link": "https://scholar.google.com/citations?user=CUBlK7sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CUBlK7sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CUBlK7sAAAAJ",
+            "affiliations": "Monash University Accident Research Centre",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Michelle Magee",
+            "link": "https://scholar.google.com/citations?user=h7WFD6YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h7WFD6YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h7WFD6YAAAAJ",
+            "affiliations": "Research Fellow, School of Psychological Sciences",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h7WFD6YAAAAJ&citpid=5"
+        },
+        {
+            "name": "Anne-Marie Chang",
+            "link": "https://scholar.google.com/citations?user=8X4esyUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8X4esyUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8X4esyUAAAAJ",
+            "affiliations": "Pennsylvania State University",
+            "email": "Verified email at psu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8X4esyUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jessica Manousakis",
+            "link": "https://scholar.google.com/citations?user=1Gh1rToAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1Gh1rToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1Gh1rToAAAAJ",
+            "affiliations": "Turner Institute of Brain and Mental Health, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1Gh1rToAAAAJ&citpid=1"
+        },
+        {
+            "name": "Richa Saxena",
+            "link": "https://scholar.google.com/citations?user=m7UW-OkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m7UW-OkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m7UW-OkAAAAJ",
+            "affiliations": "Professor of Anaesthesia, Harvard Medical School, Massachusetts General Hospital",
+            "email": "Verified email at broadinstitute.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=m7UW-OkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Yulan Liang",
+            "link": "https://scholar.google.com/citations?user=LVs70hMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LVs70hMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LVs70hMAAAAJ",
+            "affiliations": "Liberty Mutual Insurance",
+            "email": "Verified email at libertymutual.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Conor S. O'Brien",
+            "link": "https://scholar.google.com/citations?user=wBmQHlMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wBmQHlMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wBmQHlMAAAAJ",
+            "affiliations": "Managing Director, Center for Innovation in Digital HealthCare, Massachusetts General Hospital",
+            "email": "Verified email at mgh.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wBmQHlMAAAAJ&citpid=1"
+        },
+        {
+            "name": "David L. Dickinson",
+            "link": "https://scholar.google.com/citations?user=YFUTL2gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YFUTL2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YFUTL2gAAAAJ",
+            "affiliations": "Professor of Economics, Appalachian State University",
+            "email": "Verified email at appstate.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YFUTL2gAAAAJ&citpid=2"
+        },
+        {
+            "name": "Shane Landry",
+            "link": "https://scholar.google.com/citations?user=NjzYTKsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NjzYTKsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NjzYTKsAAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NjzYTKsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Patrick McEvoy",
+            "link": "https://scholar.google.com/citations?user=Wvu7Yk0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Wvu7Yk0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Wvu7Yk0AAAAJ",
+            "affiliations": "TU Dublin, Ireland",
+            "email": "Verified email at tudublin.ie",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Wvu7Yk0AAAAJ&citpid=3"
+        }
+    ]
+}

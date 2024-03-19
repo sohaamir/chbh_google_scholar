@@ -1,0 +1,118 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RK7UQ8gAAAAJ&citpid=12",
+    "name": "Martin Wilson",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": null,
+    "interests": [
+        {
+            "title": "magnetic resonance spectroscopy",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:magnetic_resonance_spectroscopy",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amagnetic_resonance_spectroscopy"
+        },
+        {
+            "title": "brain metabolism",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:brain_metabolism",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abrain_metabolism"
+        },
+        {
+            "title": "neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 3742,
+                "since_2019": 2445
+            }
+        },
+        {
+            "h_index": {
+                "all": 31,
+                "since_2019": 24
+            }
+        },
+        {
+            "i10_index": {
+                "all": 54,
+                "since_2019": 44
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2008,
+            "citations": 13
+        },
+        {
+            "year": 2009,
+            "citations": 20
+        },
+        {
+            "year": 2010,
+            "citations": 51
+        },
+        {
+            "year": 2011,
+            "citations": 78
+        },
+        {
+            "year": 2012,
+            "citations": 97
+        },
+        {
+            "year": 2013,
+            "citations": 111
+        },
+        {
+            "year": 2014,
+            "citations": 142
+        },
+        {
+            "year": 2015,
+            "citations": 120
+        },
+        {
+            "year": 2016,
+            "citations": 146
+        },
+        {
+            "year": 2017,
+            "citations": 211
+        },
+        {
+            "year": 2018,
+            "citations": 218
+        },
+        {
+            "year": 2019,
+            "citations": 237
+        },
+        {
+            "year": 2020,
+            "citations": 334
+        },
+        {
+            "year": 2021,
+            "citations": 499
+        },
+        {
+            "year": 2022,
+            "citations": 541
+        },
+        {
+            "year": 2023,
+            "citations": 639
+        },
+        {
+            "year": 2024,
+            "citations": 159
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=RK7UQ8gAAAAJ",
+    "available_public_access": 61,
+    "not_available_public_access": 1,
+    "co_authors": null
+}

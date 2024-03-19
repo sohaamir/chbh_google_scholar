@@ -1,0 +1,238 @@
+{
+    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "name": "Matthew Apps",
+    "affiliations": "BBSRC Fellow, & Senior Research Fellow (=Associate Professor)",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.msn-lab.com/",
+    "interests": [
+        {
+            "title": "Cognitive neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        },
+        {
+            "title": "learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alearning"
+        },
+        {
+            "title": "decision-making",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:decision_making",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adecision_making"
+        },
+        {
+            "title": "social cognition",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_cognition",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_cognition"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 6127,
+                "since_2019": 4941
+            }
+        },
+        {
+            "h_index": {
+                "all": 36,
+                "since_2019": 32
+            }
+        },
+        {
+            "i10_index": {
+                "all": 44,
+                "since_2019": 43
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2013,
+            "citations": 25
+        },
+        {
+            "year": 2014,
+            "citations": 53
+        },
+        {
+            "year": 2015,
+            "citations": 91
+        },
+        {
+            "year": 2016,
+            "citations": 152
+        },
+        {
+            "year": 2017,
+            "citations": 266
+        },
+        {
+            "year": 2018,
+            "citations": 534
+        },
+        {
+            "year": 2019,
+            "citations": 547
+        },
+        {
+            "year": 2020,
+            "citations": 686
+        },
+        {
+            "year": 2021,
+            "citations": 1048
+        },
+        {
+            "year": 2022,
+            "citations": 1187
+        },
+        {
+            "year": 2023,
+            "citations": 1210
+        },
+        {
+            "year": 2024,
+            "citations": 246
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ZTqTFbwAAAAJ",
+    "available_public_access": 55,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Patricia Lockwood",
+            "link": "https://scholar.google.com/citations?user=ynN6pG0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ynN6pG0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ynN6pG0AAAAJ",
+            "affiliations": "Associate Professor, Sir Henry Dale Fellow & Jacobs Fellow, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ynN6pG0AAAAJ&citpid=9"
+        },
+        {
+            "name": "Masud Husain",
+            "link": "https://scholar.google.com/citations?user=_GXoXKMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_GXoXKMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_GXoXKMAAAAJ",
+            "affiliations": "Professor of Neurology & Cognitive Neuroscience, Oxford. Editor-in-Chief, Brain",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_GXoXKMAAAAJ&citpid=34"
+        },
+        {
+            "name": "Professor Manos Tsakiris",
+            "link": "https://scholar.google.com/citations?user=hj8KVtgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hj8KVtgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hj8KVtgAAAAJ",
+            "affiliations": "Professor of Psychology, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hj8KVtgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Professor Narender Ramnani",
+            "link": "https://scholar.google.com/citations?user=ThoPU5sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ThoPU5sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ThoPU5sAAAAJ",
+            "affiliations": "Department of Psychology, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sanjay G Manohar",
+            "link": "https://scholar.google.com/citations?user=4wCwjAIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4wCwjAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4wCwjAIAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4wCwjAIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Trevor T-J Chong",
+            "link": "https://scholar.google.com/citations?user=qLkvokIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qLkvokIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qLkvokIAAAAJ",
+            "affiliations": "Associate Professor of Cognitive Neuroscience, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qLkvokIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Campbell Le Heron",
+            "link": "https://scholar.google.com/citations?user=zDHAbesAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zDHAbesAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zDHAbesAAAAJ",
+            "affiliations": "Neurologist, New Zealand Brain Research Institute, University of Otago, Canterbury District Health Board",
+            "email": "Verified email at otago.ac.nz",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Steve W. C. Chang",
+            "link": "https://scholar.google.com/citations?user=V_SOxRkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V_SOxRkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V_SOxRkAAAAJ",
+            "affiliations": "Associate Professor of Psychology and of Neuroscience, Yale University",
+            "email": "Verified email at yale.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V_SOxRkAAAAJ&citpid=20"
+        },
+        {
+            "name": "Tanja Müller",
+            "link": "https://scholar.google.com/citations?user=2IK3drcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2IK3drcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2IK3drcAAAAJ",
+            "affiliations": "Postdoctoral Fellow, University of Zurich",
+            "email": "Verified email at econ.uzh.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2IK3drcAAAAJ&citpid=14"
+        },
+        {
+            "name": "Matthew Rushworth",
+            "link": "https://scholar.google.com/citations?user=WGflpl0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WGflpl0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WGflpl0AAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Luis Sebastian Contreras-Huerta",
+            "link": "https://scholar.google.com/citations?user=VM3mLqcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VM3mLqcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VM3mLqcAAAAJ",
+            "affiliations": "Universidad Adolfo Ibáñez",
+            "email": "Verified email at uai.cl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VM3mLqcAAAAJ&citpid=4"
+        },
+        {
+            "name": "M.J. Crockett",
+            "link": "https://scholar.google.com/citations?user=PgI_G_kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PgI_G_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PgI_G_kAAAAJ",
+            "affiliations": "Princeton University",
+            "email": "Verified email at princeton.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "M. Andrea Pisauro",
+            "link": "https://scholar.google.com/citations?user=168AMe4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=168AMe4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "168AMe4AAAAJ",
+            "affiliations": "University of Plymouth",
+            "email": "Verified email at plymouth.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=168AMe4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Emma Scholey",
+            "link": "https://scholar.google.com/citations?user=fEcQQ70AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fEcQQ70AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fEcQQ70AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at student.bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Anthony S Gabay",
+            "link": "https://scholar.google.com/citations?user=vDSBCaMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vDSBCaMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vDSBCaMAAAAJ",
+            "affiliations": "Postdoctoral Research Fellow, University of Birmingham",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vDSBCaMAAAAJ&citpid=2"
+        }
+    ]
+}

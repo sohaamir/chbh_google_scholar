@@ -1,0 +1,178 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=P98yGl4AAAAJ&citpid=4",
+    "name": "Damian Cruse",
+    "affiliations": "School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.damiancruse.com/",
+    "interests": [
+        {
+            "title": "Cognitive Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 3089,
+                "since_2019": 1452
+            }
+        },
+        {
+            "h_index": {
+                "all": 28,
+                "since_2019": 21
+            }
+        },
+        {
+            "i10_index": {
+                "all": 36,
+                "since_2019": 33
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2011,
+            "citations": 29
+        },
+        {
+            "year": 2012,
+            "citations": 86
+        },
+        {
+            "year": 2013,
+            "citations": 215
+        },
+        {
+            "year": 2014,
+            "citations": 206
+        },
+        {
+            "year": 2015,
+            "citations": 265
+        },
+        {
+            "year": 2016,
+            "citations": 277
+        },
+        {
+            "year": 2017,
+            "citations": 273
+        },
+        {
+            "year": 2018,
+            "citations": 241
+        },
+        {
+            "year": 2019,
+            "citations": 205
+        },
+        {
+            "year": 2020,
+            "citations": 261
+        },
+        {
+            "year": 2021,
+            "citations": 279
+        },
+        {
+            "year": 2022,
+            "citations": 281
+        },
+        {
+            "year": 2023,
+            "citations": 332
+        },
+        {
+            "year": 2024,
+            "citations": 91
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=P98yGl4AAAAJ",
+    "available_public_access": 30,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Adrian M. Owen",
+            "link": "https://scholar.google.com/citations?user=wPFn1OsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wPFn1OsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wPFn1OsAAAAJ",
+            "affiliations": "University of Western Ontario",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wPFn1OsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Davinia Fernández-Espejo",
+            "link": "https://scholar.google.com/citations?user=GTIxT6oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GTIxT6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GTIxT6oAAAAJ",
+            "affiliations": "Associate Professor, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GTIxT6oAAAAJ&citpid=3"
+        },
+        {
+            "name": "Srivas Chennu",
+            "link": "https://scholar.google.com/citations?user=8BIf5MEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8BIf5MEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8BIf5MEAAAAJ",
+            "affiliations": "Apple, University of Kent, University of Cambridge",
+            "email": "Verified email at apple.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8BIf5MEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Steven Laureys",
+            "link": "https://scholar.google.com/citations?user=bDFJHx4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bDFJHx4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bDFJHx4AAAAJ",
+            "affiliations": "GIGA Consciousness, Coma Science Group and Brain Centre, University and U Hospital Liège Belgium",
+            "email": "Verified email at uliege.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bDFJHx4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Camille Chatelle",
+            "link": "https://scholar.google.com/citations?user=na_9SkkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=na_9SkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "na_9SkkAAAAJ",
+            "affiliations": "PhD in biomedical sciences, University of Liège",
+            "email": "Verified email at ulg.ac.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=na_9SkkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Tristan A. Bekinschtein",
+            "link": "https://scholar.google.com/citations?user=SoGT3IEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SoGT3IEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SoGT3IEAAAAJ",
+            "affiliations": "Associate Professor, Consciousness and Cognition Lab, Dept of Psychology, Uni of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SoGT3IEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lorina Naci",
+            "link": "https://scholar.google.com/citations?user=viAlOo0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=viAlOo0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "viAlOo0AAAAJ",
+            "affiliations": "Associate Professor, Trinity College Dublin",
+            "email": "Verified email at tcd.ie",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=viAlOo0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Andrew Peterson",
+            "link": "https://scholar.google.com/citations?user=mTy1DEUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mTy1DEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mTy1DEUAAAAJ",
+            "affiliations": "George Mason University",
+            "email": "Verified email at gmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mTy1DEUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Charles Weijer",
+            "link": "https://scholar.google.com/citations?user=jmXuFagAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jmXuFagAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jmXuFagAAAAJ",
+            "affiliations": "Professor of Medicine, Epidemiology & Biostatistics, and Philosophy, Western University",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jmXuFagAAAAJ&citpid=5"
+        }
+    ]
+}

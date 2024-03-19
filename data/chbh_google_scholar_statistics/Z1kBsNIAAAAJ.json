@@ -1,0 +1,296 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z1kBsNIAAAAJ&citpid=10",
+    "name": "Rachel Upthegrove",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://www.birmingham.ac.uk/staff/profiles/psychology/upthegrove-rachel.aspx",
+    "interests": [
+        {
+            "title": "Psychosis",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:psychosis",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychosis"
+        },
+        {
+            "title": "Depression",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:depression",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adepression"
+        },
+        {
+            "title": "Inflammation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:inflammation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainflammation"
+        },
+        {
+            "title": "Co-morbidity",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:co_morbidity",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aco_morbidity"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7238,
+                "since_2019": 6205
+            }
+        },
+        {
+            "h_index": {
+                "all": 41,
+                "since_2019": 38
+            }
+        },
+        {
+            "i10_index": {
+                "all": 97,
+                "since_2019": 92
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2010,
+            "citations": 22
+        },
+        {
+            "year": 2011,
+            "citations": 22
+        },
+        {
+            "year": 2012,
+            "citations": 24
+        },
+        {
+            "year": 2013,
+            "citations": 48
+        },
+        {
+            "year": 2014,
+            "citations": 65
+        },
+        {
+            "year": 2015,
+            "citations": 98
+        },
+        {
+            "year": 2016,
+            "citations": 162
+        },
+        {
+            "year": 2017,
+            "citations": 220
+        },
+        {
+            "year": 2018,
+            "citations": 267
+        },
+        {
+            "year": 2019,
+            "citations": 476
+        },
+        {
+            "year": 2020,
+            "citations": 720
+        },
+        {
+            "year": 2021,
+            "citations": 963
+        },
+        {
+            "year": 2022,
+            "citations": 1525
+        },
+        {
+            "year": 2023,
+            "citations": 1919
+        },
+        {
+            "year": 2024,
+            "citations": 563
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Z1kBsNIAAAAJ",
+    "available_public_access": 132,
+    "not_available_public_access": 9,
+    "co_authors": [
+        {
+            "name": "Stephen J Wood",
+            "link": "https://scholar.google.com/citations?user=Hk0tDXkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Hk0tDXkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Hk0tDXkAAAAJ",
+            "affiliations": "University of Melbourne, University of Birmingham,",
+            "email": "Verified email at orygen.org.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Hk0tDXkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Professor Max Birchwood",
+            "link": "https://scholar.google.com/citations?user=PqyUmYoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PqyUmYoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PqyUmYoAAAAJ",
+            "affiliations": "University of Warwick",
+            "email": "Verified email at warwick.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PqyUmYoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Steven Marwaha",
+            "link": "https://scholar.google.com/citations?user=7Dp6tewAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7Dp6tewAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7Dp6tewAAAAJ",
+            "affiliations": "Professor. Institute for Mental Health, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Golam Khandaker",
+            "link": "https://scholar.google.com/citations?user=qp1-6SzlGAcC&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qp1-6SzlGAcC&engine=google_scholar_author&hl=en",
+            "author_id": "qp1-6SzlGAcC",
+            "affiliations": "Professor of Psychiatry and Immunology, MRC Investigator, University of Bristol",
+            "email": "Verified email at bristol.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qp1-6SzlGAcC&citpid=13"
+        },
+        {
+            "name": "Matthew Broome",
+            "link": "https://scholar.google.com/citations?user=qa-IIdwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qa-IIdwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qa-IIdwAAAAJ",
+            "affiliations": "Professor of Psychiatry and Youth Mental Health, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qa-IIdwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Pavan Mallikarjun",
+            "link": "https://scholar.google.com/citations?user=JgKFBB4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JgKFBB4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JgKFBB4AAAAJ",
+            "affiliations": "Consultant Psychiatrist",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JgKFBB4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Benjamin I Perry",
+            "link": "https://scholar.google.com/citations?user=DmXAx1cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DmXAx1cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DmXAx1cAAAAJ",
+            "affiliations": "Clinical Lecturer in General Psychiatry",
+            "email": "Verified email at medschl.cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DmXAx1cAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nikolaos Koutsouleris",
+            "link": "https://scholar.google.com/citations?user=dPzed4kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dPzed4kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dPzed4kAAAAJ",
+            "affiliations": "Ludwig-Maximilians-University, King's College London, Max Planck Institute of Psychiatry",
+            "email": "Verified email at med.uni-muenchen.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dPzed4kAAAAJ&citpid=3"
+        },
+        {
+            "name": "j deakin",
+            "link": "https://scholar.google.com/citations?user=RA_zjBgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RA_zjBgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RA_zjBgAAAAJ",
+            "affiliations": "professor of psychiatry, university of manchester",
+            "email": "Verified email at manchester.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Stefan Borgwardt",
+            "link": "https://scholar.google.com/citations?user=j-Gy4CsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j-Gy4CsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "j-Gy4CsAAAAJ",
+            "affiliations": "University of Lübeck",
+            "email": "Verified email at unibas.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j-Gy4CsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Joseph Kambeitz",
+            "link": "https://scholar.google.com/citations?user=AP5z1BoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AP5z1BoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AP5z1BoAAAAJ",
+            "affiliations": "University of Cologne, University Hospital Cologne",
+            "email": "Verified email at uk-koeln.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AP5z1BoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Eileen Joyce",
+            "link": "https://scholar.google.com/citations?user=tA4pufIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tA4pufIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tA4pufIAAAAJ",
+            "affiliations": "UCL Institute of Neurology",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tA4pufIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Lana Kambeitz-Ilankovic",
+            "link": "https://scholar.google.com/citations?user=JFRyFf0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JFRyFf0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JFRyFf0AAAAJ",
+            "affiliations": "University of Cologne, Department of Psychiatry",
+            "email": "Verified email at uk-koeln.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JFRyFf0AAAAJ&citpid=3"
+        },
+        {
+            "name": "John Suckling",
+            "link": "https://scholar.google.com/citations?user=DLY3hjQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DLY3hjQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DLY3hjQAAAAJ",
+            "affiliations": "Department of Psychiatry, University of cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Richard James Drake",
+            "link": "https://scholar.google.com/citations?user=HBxWDEAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HBxWDEAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HBxWDEAAAAAJ",
+            "affiliations": "Professor, University of Manchester",
+            "email": "Verified email at manchester.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HBxWDEAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nusrat Husain",
+            "link": "https://scholar.google.com/citations?user=iUykT2MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iUykT2MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iUykT2MAAAAJ",
+            "affiliations": "Professor of Psychiatry",
+            "email": "Verified email at manchester.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Paola Dazzan",
+            "link": "https://scholar.google.com/citations?user=Dz1_G5oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Dz1_G5oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Dz1_G5oAAAAJ",
+            "affiliations": "Institute of Psychiatry, Psychology and Neuroscience; King's College London",
+            "email": "Verified email at kcl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Femi Oyebode",
+            "link": "https://scholar.google.com/citations?user=iYihVygAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iYihVygAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iYihVygAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at nhs.net",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iYihVygAAAAJ&citpid=1"
+        },
+        {
+            "name": "Renate Reniers",
+            "link": "https://scholar.google.com/citations?user=P-QQANEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P-QQANEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P-QQANEAAAAJ",
+            "affiliations": "Lecturer in Psychiatry, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P-QQANEAAAAJ&citpid=5"
+        },
+        {
+            "name": "Carmine M. Pariante",
+            "link": "https://scholar.google.com/citations?user=Z5VhCfkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Z5VhCfkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z5VhCfkAAAAJ",
+            "affiliations": "King's College London, Institute of Psychiatry, Psychology and Neuroscience",
+            "email": "Verified email at kcl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z5VhCfkAAAAJ&citpid=2"
+        }
+    ]
+}

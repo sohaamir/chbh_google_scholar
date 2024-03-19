@@ -1,0 +1,276 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yj2_-7kAAAAJ&citpid=3",
+    "name": "Orihuela-Espina, Felipe",
+    "affiliations": "University of Birmingham; Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE); Imperial",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://ccc.inaoep.mx/~f.orihuela-espina/",
+    "interests": [
+        {
+            "title": "Data analysis and interpretation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_analysis_and_interpretation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analysis_and_interpretation"
+        },
+        {
+            "title": "fNIRS",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:fnirs",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afnirs"
+        },
+        {
+            "title": "Neuroimaging",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroimaging",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroimaging"
+        },
+        {
+            "title": "Virtual rehabilitation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:virtual_rehabilitation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avirtual_rehabilitation"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2433,
+                "since_2019": 1335
+            }
+        },
+        {
+            "h_index": {
+                "all": 25,
+                "since_2019": 17
+            }
+        },
+        {
+            "i10_index": {
+                "all": 48,
+                "since_2019": 35
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2008,
+            "citations": 17
+        },
+        {
+            "year": 2009,
+            "citations": 22
+        },
+        {
+            "year": 2010,
+            "citations": 31
+        },
+        {
+            "year": 2011,
+            "citations": 44
+        },
+        {
+            "year": 2012,
+            "citations": 81
+        },
+        {
+            "year": 2013,
+            "citations": 120
+        },
+        {
+            "year": 2014,
+            "citations": 113
+        },
+        {
+            "year": 2015,
+            "citations": 143
+        },
+        {
+            "year": 2016,
+            "citations": 136
+        },
+        {
+            "year": 2017,
+            "citations": 170
+        },
+        {
+            "year": 2018,
+            "citations": 188
+        },
+        {
+            "year": 2019,
+            "citations": 204
+        },
+        {
+            "year": 2020,
+            "citations": 264
+        },
+        {
+            "year": 2021,
+            "citations": 253
+        },
+        {
+            "year": 2022,
+            "citations": 254
+        },
+        {
+            "year": 2023,
+            "citations": 313
+        },
+        {
+            "year": 2024,
+            "citations": 47
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Yj2_-7kAAAAJ",
+    "available_public_access": 18,
+    "not_available_public_access": 4,
+    "co_authors": [
+        {
+            "name": "Ara Darzi",
+            "link": "https://scholar.google.com/citations?user=vHT7ZzgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vHT7ZzgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vHT7ZzgAAAAJ",
+            "affiliations": "Professor of Surgery",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Luis Enrique Sucar",
+            "link": "https://scholar.google.com/citations?user=nB02cScAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nB02cScAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nB02cScAAAAJ",
+            "affiliations": "Senior Research Scientist, INAOE, Mexico",
+            "email": "Verified email at inaoep.mx",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nB02cScAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daniel Leff",
+            "link": "https://scholar.google.com/citations?user=mw7SMhYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mw7SMhYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mw7SMhYAAAAJ",
+            "affiliations": "Reader in Breast Surgery, Imperial College London",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mw7SMhYAAAAJ&citpid=3"
+        },
+        {
+            "name": "thanos athanasiou",
+            "link": "https://scholar.google.com/citations?user=zWeWoLUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zWeWoLUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zWeWoLUAAAAJ",
+            "affiliations": "professor of cardiovascular sciences and cardiac surgery",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Iain Styles",
+            "link": "https://scholar.google.com/citations?user=iT28amUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iT28amUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iT28amUAAAAJ",
+            "affiliations": "Queen's University Belfast",
+            "email": "Verified email at qub.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iT28amUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Alberto L Morán",
+            "link": "https://scholar.google.com/citations?user=H1ZVAnkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=H1ZVAnkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "H1ZVAnkAAAAJ",
+            "affiliations": "Lecturer-Researcher, Facultad de Ciencias, UABC",
+            "email": "Verified email at uabc.edu.mx",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=H1ZVAnkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Javier Herrera-Vega",
+            "link": "https://scholar.google.com/citations?user=6S8Y3NAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6S8Y3NAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6S8Y3NAAAAAJ",
+            "email": "Verified email at ccc.inaoep.mx",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "George Mylonas",
+            "link": "https://scholar.google.com/citations?user=fEESpMYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fEESpMYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fEESpMYAAAAJ",
+            "affiliations": "Associate Professor - Imperial College London, Hamlyn Centre, Institute of Global Health Innovation",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fEESpMYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ela Claridge",
+            "link": "https://scholar.google.com/citations?user=oMP44BAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oMP44BAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oMP44BAAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at cs.bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Louis Atallah",
+            "link": "https://scholar.google.com/citations?user=mitsA_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mitsA_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mitsA_IAAAAJ",
+            "affiliations": "Philips Health Care - Clinical Analytics and AI",
+            "email": "Verified email at philips.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mitsA_IAAAAJ&citpid=11"
+        },
+        {
+            "name": "Maria Angela Franceschini",
+            "link": "https://scholar.google.com/citations?user=Vb1xVacAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Vb1xVacAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Vb1xVacAAAAJ",
+            "affiliations": "Professor Harvard Medical School",
+            "email": "Verified email at mgh.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Vb1xVacAAAAJ&citpid=2"
+        },
+        {
+            "name": "Samuel Montero-Hernandez",
+            "link": "https://scholar.google.com/citations?user=dgw0sREAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dgw0sREAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dgw0sREAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dgw0sREAAAAJ&citpid=2"
+        },
+        {
+            "name": "Eduardo Morales",
+            "link": "https://scholar.google.com/citations?user=McO4mi4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=McO4mi4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McO4mi4AAAAJ",
+            "affiliations": "Computer Science, INAOE",
+            "email": "Verified email at inaoep.mx",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=McO4mi4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Patrick Heyer",
+            "link": "https://scholar.google.com/citations?user=OlIrjLEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OlIrjLEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OlIrjLEAAAAJ",
+            "affiliations": "Image Processing and Interpretation Ghent University",
+            "email": "Verified email at ugent.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OlIrjLEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Carlos G Trevino-Palacios",
+            "link": "https://scholar.google.com/citations?user=MaUSZmkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MaUSZmkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MaUSZmkAAAAJ",
+            "affiliations": "Professor of Optics, Instituto Nacional de Astrofísica, Optica y Electronica (INAOE) Optics",
+            "email": "Verified email at inaoep.mx",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MaUSZmkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ilias Tachtsidis",
+            "link": "https://scholar.google.com/citations?user=pTWFl18AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pTWFl18AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pTWFl18AAAAJ",
+            "affiliations": "Professor in Biomedical Engineering",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pTWFl18AAAAJ&citpid=3"
+        },
+        {
+            "name": "Hamid Dehghani",
+            "link": "https://scholar.google.com/citations?user=SIYS-lcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SIYS-lcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SIYS-lcAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at cs.bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SIYS-lcAAAAJ&citpid=4"
+        }
+    ]
+}

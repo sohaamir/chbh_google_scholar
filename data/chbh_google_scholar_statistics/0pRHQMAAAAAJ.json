@@ -1,0 +1,198 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0pRHQMAAAAAJ&citpid=24",
+    "name": "Katja Kornysheva",
+    "affiliations": "Asst. Professor, University of Birmingham, School of Psychology & Centre for Human Brain Health",
+    "email": "Verified email at ucl.ac.uk",
+    "website": "https://www.birmingham.ac.uk/staff/profiles/psychology/kornysheva-katja.aspx",
+    "interests": [
+        {
+            "title": "motor control",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_control",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_control"
+        },
+        {
+            "title": "learning and memory",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning_and_memory",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alearning_and_memory"
+        },
+        {
+            "title": "neuroimaging",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroimaging",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroimaging"
+        },
+        {
+            "title": "electrophysiology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:electrophysiology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrophysiology"
+        },
+        {
+            "title": "multivariate pattern decoding",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multivariate_pattern_decoding",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultivariate_pattern_decoding"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 1026,
+                "since_2019": 654
+            }
+        },
+        {
+            "h_index": {
+                "all": 11,
+                "since_2019": 10
+            }
+        },
+        {
+            "i10_index": {
+                "all": 13,
+                "since_2019": 10
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2011,
+            "citations": 15
+        },
+        {
+            "year": 2012,
+            "citations": 17
+        },
+        {
+            "year": 2013,
+            "citations": 19
+        },
+        {
+            "year": 2014,
+            "citations": 33
+        },
+        {
+            "year": 2015,
+            "citations": 27
+        },
+        {
+            "year": 2016,
+            "citations": 50
+        },
+        {
+            "year": 2017,
+            "citations": 89
+        },
+        {
+            "year": 2018,
+            "citations": 110
+        },
+        {
+            "year": 2019,
+            "citations": 112
+        },
+        {
+            "year": 2020,
+            "citations": 124
+        },
+        {
+            "year": 2021,
+            "citations": 126
+        },
+        {
+            "year": 2022,
+            "citations": 125
+        },
+        {
+            "year": 2023,
+            "citations": 142
+        },
+        {
+            "year": 2024,
+            "citations": 24
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=0pRHQMAAAAAJ",
+    "available_public_access": 11,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Ricarda Schubotz",
+            "link": "https://scholar.google.com/citations?user=xoshVFcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xoshVFcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xoshVFcAAAAJ",
+            "affiliations": "Westfälische-Wilhelms-Universität",
+            "email": "Verified email at uni-muenster.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Jörn Diedrichsen",
+            "link": "https://scholar.google.com/citations?user=mF72dYoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mF72dYoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mF72dYoAAAAJ",
+            "affiliations": "Western University, Canada",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mF72dYoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Anna Sadnicka",
+            "link": "https://scholar.google.com/citations?user=Xn4FfSoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xn4FfSoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xn4FfSoAAAAJ",
+            "affiliations": "Senior Research Fellow, Gatsby Computational Neuroscience Unit",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xn4FfSoAAAAJ&citpid=3"
+        },
+        {
+            "name": "John Rothwell",
+            "link": "https://scholar.google.com/citations?user=hc_onLcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hc_onLcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hc_onLcAAAAJ",
+            "affiliations": "Profesor of Human Neurophysiology, UCL Institute of Neurology",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mark Edwards",
+            "link": "https://scholar.google.com/citations?user=UGRDnN8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UGRDnN8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UGRDnN8AAAAJ",
+            "affiliations": "Professor of Neurology and Interface Disorders",
+            "email": "Verified email at kcl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chris I. De Zeeuw",
+            "link": "https://scholar.google.com/citations?user=SScUq-YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SScUq-YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SScUq-YAAAAJ",
+            "affiliations": "Erasmus",
+            "email": "Verified email at erasmusmc.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Anne-Marike Schiffer",
+            "link": "https://scholar.google.com/citations?user=35WfrpoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=35WfrpoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "35WfrpoAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=35WfrpoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Neil Burgess",
+            "link": "https://scholar.google.com/citations?user=RjGAaJ8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RjGAaJ8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RjGAaJ8AAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience, University College London",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "gareth barnes",
+            "link": "https://scholar.google.com/citations?user=2WWDqYkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2WWDqYkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2WWDqYkAAAAJ",
+            "affiliations": "University college london",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

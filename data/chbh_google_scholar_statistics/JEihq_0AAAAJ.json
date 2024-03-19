@@ -1,0 +1,215 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JEihq_0AAAAJ&citpid=1",
+    "name": "Alan Wing",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://www.birmingham.ac.uk/schools/psychology/research/labs/symon/index.aspx",
+    "interests": [
+        {
+            "title": "Psychology",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:psychology",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychology"
+        },
+        {
+            "title": "Motor Control",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_control",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_control"
+        },
+        {
+            "title": "Neurorehabilitation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neurorehabilitation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurorehabilitation"
+        },
+        {
+            "title": "Touch",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:touch",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atouch"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 16731,
+                "since_2019": 3218
+            }
+        },
+        {
+            "h_index": {
+                "all": 65,
+                "since_2019": 29
+            }
+        },
+        {
+            "i10_index": {
+                "all": 201,
+                "since_2019": 90
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 1985,
+            "citations": 61
+        },
+        {
+            "year": 1986,
+            "citations": 57
+        },
+        {
+            "year": 1987,
+            "citations": 46
+        },
+        {
+            "year": 1988,
+            "citations": 73
+        },
+        {
+            "year": 1989,
+            "citations": 121
+        },
+        {
+            "year": 1990,
+            "citations": 118
+        },
+        {
+            "year": 1991,
+            "citations": 123
+        },
+        {
+            "year": 1992,
+            "citations": 120
+        },
+        {
+            "year": 1993,
+            "citations": 115
+        },
+        {
+            "year": 1994,
+            "citations": 137
+        },
+        {
+            "year": 1995,
+            "citations": 224
+        },
+        {
+            "year": 1996,
+            "citations": 262
+        },
+        {
+            "year": 1997,
+            "citations": 233
+        },
+        {
+            "year": 1998,
+            "citations": 255
+        },
+        {
+            "year": 1999,
+            "citations": 271
+        },
+        {
+            "year": 2000,
+            "citations": 307
+        },
+        {
+            "year": 2001,
+            "citations": 295
+        },
+        {
+            "year": 2002,
+            "citations": 439
+        },
+        {
+            "year": 2003,
+            "citations": 459
+        },
+        {
+            "year": 2004,
+            "citations": 502
+        },
+        {
+            "year": 2005,
+            "citations": 465
+        },
+        {
+            "year": 2006,
+            "citations": 515
+        },
+        {
+            "year": 2007,
+            "citations": 403
+        },
+        {
+            "year": 2008,
+            "citations": 567
+        },
+        {
+            "year": 2009,
+            "citations": 585
+        },
+        {
+            "year": 2010,
+            "citations": 543
+        },
+        {
+            "year": 2011,
+            "citations": 646
+        },
+        {
+            "year": 2012,
+            "citations": 584
+        },
+        {
+            "year": 2013,
+            "citations": 701
+        },
+        {
+            "year": 2014,
+            "citations": 817
+        },
+        {
+            "year": 2015,
+            "citations": 760
+        },
+        {
+            "year": 2016,
+            "citations": 772
+        },
+        {
+            "year": 2017,
+            "citations": 708
+        },
+        {
+            "year": 2018,
+            "citations": 800
+        },
+        {
+            "year": 2019,
+            "citations": 675
+        },
+        {
+            "year": 2020,
+            "citations": 625
+        },
+        {
+            "year": 2021,
+            "citations": 635
+        },
+        {
+            "year": 2022,
+            "citations": 598
+        },
+        {
+            "year": 2023,
+            "citations": 564
+        },
+        {
+            "year": 2024,
+            "citations": 121
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=JEihq_0AAAAJ",
+    "available_public_access": 41,
+    "not_available_public_access": 6,
+    "co_authors": null
+}

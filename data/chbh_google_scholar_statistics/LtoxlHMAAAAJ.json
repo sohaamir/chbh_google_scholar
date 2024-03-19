@@ -1,0 +1,120 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LtoxlHMAAAAJ&citpid=2",
+    "name": "Stephane De Brito",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.birmingham.ac.uk/staff/profiles/psychology/de-brito-stephane.aspx",
+    "interests": [
+        {
+            "title": "Antisocial behaviour",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:antisocial_behaviour",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aantisocial_behaviour"
+        },
+        {
+            "title": "conduct disorder",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:conduct_disorder",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconduct_disorder"
+        },
+        {
+            "title": "callous-unemotional",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:callous_unemotional",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acallous_unemotional"
+        },
+        {
+            "title": "psychopathy",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:psychopathy",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychopathy"
+        },
+        {
+            "title": "maltreatment",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:maltreatment",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amaltreatment"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7634,
+                "since_2019": 4230
+            }
+        },
+        {
+            "h_index": {
+                "all": 35,
+                "since_2019": 30
+            }
+        },
+        {
+            "i10_index": {
+                "all": 55,
+                "since_2019": 46
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2010,
+            "citations": 44
+        },
+        {
+            "year": 2011,
+            "citations": 98
+        },
+        {
+            "year": 2012,
+            "citations": 187
+        },
+        {
+            "year": 2013,
+            "citations": 265
+        },
+        {
+            "year": 2014,
+            "citations": 375
+        },
+        {
+            "year": 2015,
+            "citations": 516
+        },
+        {
+            "year": 2016,
+            "citations": 525
+        },
+        {
+            "year": 2017,
+            "citations": 631
+        },
+        {
+            "year": 2018,
+            "citations": 632
+        },
+        {
+            "year": 2019,
+            "citations": 638
+        },
+        {
+            "year": 2020,
+            "citations": 715
+        },
+        {
+            "year": 2021,
+            "citations": 787
+        },
+        {
+            "year": 2022,
+            "citations": 902
+        },
+        {
+            "year": 2023,
+            "citations": 990
+        },
+        {
+            "year": 2024,
+            "citations": 184
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=LtoxlHMAAAAJ",
+    "available_public_access": 36,
+    "not_available_public_access": 5,
+    "co_authors": null
+}

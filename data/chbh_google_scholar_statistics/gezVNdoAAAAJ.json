@@ -1,0 +1,267 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gezVNdoAAAAJ&citpid=4",
+    "name": "Romy Frömer",
+    "affiliations": "University of Birmingham (UK)",
+    "email": "Verified email at bham.ac.uk",
+    "website": null,
+    "interests": [
+        {
+            "title": "cognitive neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        },
+        {
+            "title": "reinforcement learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning"
+        },
+        {
+            "title": "motor learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_learning"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 669,
+                "since_2019": 605
+            }
+        },
+        {
+            "h_index": {
+                "all": 12,
+                "since_2019": 12
+            }
+        },
+        {
+            "i10_index": {
+                "all": 13,
+                "since_2019": 13
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2016,
+            "citations": 14
+        },
+        {
+            "year": 2017,
+            "citations": 8
+        },
+        {
+            "year": 2018,
+            "citations": 32
+        },
+        {
+            "year": 2019,
+            "citations": 47
+        },
+        {
+            "year": 2020,
+            "citations": 58
+        },
+        {
+            "year": 2021,
+            "citations": 112
+        },
+        {
+            "year": 2022,
+            "citations": 153
+        },
+        {
+            "year": 2023,
+            "citations": 193
+        },
+        {
+            "year": 2024,
+            "citations": 35
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=gezVNdoAAAAJ",
+    "available_public_access": 15,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Amitai Shenhav",
+            "link": "https://scholar.google.com/citations?user=Amg6a3MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Amg6a3MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Amg6a3MAAAAJ",
+            "affiliations": "Associate Professor of Cognitive Linguistic & Psychological Sciences, Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Werner Sommer",
+            "link": "https://scholar.google.com/citations?user=31RtquIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=31RtquIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "31RtquIAAAAJ",
+            "affiliations": "Humboldt-University at Berlin",
+            "email": "Verified email at cms.hu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=31RtquIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rasha Abdel Rahman",
+            "link": "https://scholar.google.com/citations?user=T1LntQQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=T1LntQQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "T1LntQQAAAAJ",
+            "affiliations": "Humboldt-Universität zu Berlin",
+            "email": "Verified email at hu-berlin.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Matthew Nassar",
+            "link": "https://scholar.google.com/citations?user=w-fcLkEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w-fcLkEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w-fcLkEAAAAJ",
+            "affiliations": "Assistant Professor at Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w-fcLkEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nick Yeung",
+            "link": "https://scholar.google.com/citations?user=zvLXslIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zvLXslIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvLXslIAAAAJ",
+            "affiliations": "Dept of Experimental Psychology, University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Michael Inzlicht",
+            "link": "https://scholar.google.com/citations?user=z7DDahYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z7DDahYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "z7DDahYAAAAJ",
+            "affiliations": "University of Toronto",
+            "email": "Verified email at utoronto.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z7DDahYAAAAJ&citpid=31"
+        },
+        {
+            "name": "Hause Lin",
+            "link": "https://scholar.google.com/citations?user=4_ZopI0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4_ZopI0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4_ZopI0AAAAJ",
+            "affiliations": "MIT, Cornell, Regina",
+            "email": "Verified email at mit.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4_ZopI0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Martin Maier",
+            "link": "https://scholar.google.com/citations?user=noSAlS4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=noSAlS4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "noSAlS4AAAAJ",
+            "affiliations": "Humboldt-Universität zu Berlin, Cluster of Excellence \"Science of Intelligence\"",
+            "email": "Verified email at hu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=noSAlS4AAAAJ&citpid=7"
+        },
+        {
+            "name": "Kerstin Fröber",
+            "link": "https://scholar.google.com/citations?user=4WAvBHkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4WAvBHkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4WAvBHkAAAAJ",
+            "affiliations": "Department of Psychology, University of Regensburg",
+            "email": "Verified email at psychologie.uni-regensburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4WAvBHkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Rasmus Bruckner",
+            "link": "https://scholar.google.com/citations?user=P7byX1IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P7byX1IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P7byX1IAAAAJ",
+            "affiliations": "Freie Universität Berlin",
+            "email": "Verified email at fu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P7byX1IAAAAJ&citpid=4"
+        },
+        {
+            "name": "Verena Hafner",
+            "link": "https://scholar.google.com/citations?user=BgeNFyEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BgeNFyEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BgeNFyEAAAAJ",
+            "affiliations": "Humboldt-Universität zu Berlin, Department of Computer Science",
+            "email": "Verified email at informatik.hu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BgeNFyEAAAAJ&citpid=6"
+        },
+        {
+            "name": "Harrison Ritz",
+            "link": "https://scholar.google.com/citations?user=2MGy7zwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2MGy7zwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2MGy7zwAAAAJ",
+            "affiliations": "CV Starr Fellow, Princeton Neuroscience Institute, Princeton University",
+            "email": "Verified email at princeton.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2MGy7zwAAAAJ&citpid=8"
+        },
+        {
+            "name": "Reinhold Kliegl",
+            "link": "https://scholar.google.com/citations?user=nxD9IfcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nxD9IfcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nxD9IfcAAAAJ",
+            "affiliations": "Senior professor of psychology, Sport and health sciences, University of Potsdam",
+            "email": "Verified email at uni-potsdam.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nxD9IfcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Olaf Dimigen",
+            "link": "https://scholar.google.com/citations?user=lSWEX_cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lSWEX_cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lSWEX_cAAAAJ",
+            "affiliations": "University of Groningen",
+            "email": "Verified email at rug.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lSWEX_cAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ivan Grahek",
+            "link": "https://scholar.google.com/citations?user=RMONko4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RMONko4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RMONko4AAAAJ",
+            "affiliations": "Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RMONko4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Julia Baum",
+            "link": "https://scholar.google.com/citations?user=r_EDLq0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=r_EDLq0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "r_EDLq0AAAAJ",
+            "affiliations": "Department of Psychology, Berlin School of Mind and Brain at Humboldt-Universität zu Berlin",
+            "email": "Verified email at hu-berlin.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=r_EDLq0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Mahalia Prater Fahey",
+            "link": "https://scholar.google.com/citations?user=LSrqI1oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LSrqI1oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LSrqI1oAAAAJ",
+            "affiliations": "Ph.D Student Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "William Heindel",
+            "link": "https://scholar.google.com/citations?user=wrFLbwEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wrFLbwEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wrFLbwEAAAAJ",
+            "affiliations": "Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Elena Festa",
+            "link": "https://scholar.google.com/citations?user=8CJBAh0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8CJBAh0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8CJBAh0AAAAJ",
+            "affiliations": "Brown University",
+            "email": "Verified email at brown.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8CJBAh0AAAAJ&citpid=7"
+        },
+        {
+            "name": "Leslie Lai",
+            "link": "https://scholar.google.com/citations?user=whKuwBgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=whKuwBgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "whKuwBgAAAAJ",
+            "affiliations": "Google LLC",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=whKuwBgAAAAJ&citpid=1"
+        }
+    ]
+}

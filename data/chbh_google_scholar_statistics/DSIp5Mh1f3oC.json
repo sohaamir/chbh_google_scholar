@@ -1,0 +1,210 @@
+{
+    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "name": "Magdalena Chechlacz",
+    "affiliations": "School of Psychology, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://www.birmingham.ac.uk/staff/profiles/psychology/chechlacz-magda.aspx",
+    "interests": [
+        {
+            "title": "Cognitive Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2386,
+                "since_2019": 1103
+            }
+        },
+        {
+            "h_index": {
+                "all": 27,
+                "since_2019": 19
+            }
+        },
+        {
+            "i10_index": {
+                "all": 41,
+                "since_2019": 31
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2003,
+            "citations": 6
+        },
+        {
+            "year": 2004,
+            "citations": 12
+        },
+        {
+            "year": 2005,
+            "citations": 17
+        },
+        {
+            "year": 2006,
+            "citations": 15
+        },
+        {
+            "year": 2007,
+            "citations": 28
+        },
+        {
+            "year": 2008,
+            "citations": 22
+        },
+        {
+            "year": 2009,
+            "citations": 35
+        },
+        {
+            "year": 2010,
+            "citations": 47
+        },
+        {
+            "year": 2011,
+            "citations": 47
+        },
+        {
+            "year": 2012,
+            "citations": 76
+        },
+        {
+            "year": 2013,
+            "citations": 106
+        },
+        {
+            "year": 2014,
+            "citations": 115
+        },
+        {
+            "year": 2015,
+            "citations": 154
+        },
+        {
+            "year": 2016,
+            "citations": 191
+        },
+        {
+            "year": 2017,
+            "citations": 194
+        },
+        {
+            "year": 2018,
+            "citations": 197
+        },
+        {
+            "year": 2019,
+            "citations": 196
+        },
+        {
+            "year": 2020,
+            "citations": 215
+        },
+        {
+            "year": 2021,
+            "citations": 232
+        },
+        {
+            "year": 2022,
+            "citations": 225
+        },
+        {
+            "year": 2023,
+            "citations": 191
+        },
+        {
+            "year": 2024,
+            "citations": 41
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=DSIp5Mh1f3oC",
+    "available_public_access": 32,
+    "not_available_public_access": 2,
+    "co_authors": [
+        {
+            "name": "Pia Rotshtein",
+            "link": "https://scholar.google.com/citations?user=Rhl3vYMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Rhl3vYMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Rhl3vYMAAAAJ",
+            "affiliations": "Neuroimaging Research Unit, University of Haifa, Haifa, Israel",
+            "email": "Verified email at univ.haifa.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Rhl3vYMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr Peter C. Hansen",
+            "link": "https://scholar.google.com/citations?user=2E5GwcoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2E5GwcoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2E5GwcoAAAAJ",
+            "affiliations": "School of Psychology / CHBH, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Suzanne Higgs",
+            "link": "https://scholar.google.com/citations?user=4aQg22MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4aQg22MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4aQg22MAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4aQg22MAAAAJ&citpid=2"
+        },
+        {
+            "name": "Harriet A Allen",
+            "link": "https://scholar.google.com/citations?user=AQnjse4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AQnjse4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AQnjse4AAAAJ",
+            "affiliations": "University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AQnjse4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Nele Demeyere",
+            "link": "https://scholar.google.com/citations?user=0s21rf4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0s21rf4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0s21rf4AAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0s21rf4AAAAJ&citpid=23"
+        },
+        {
+            "name": "Celine R. Gillebert",
+            "link": "https://scholar.google.com/citations?user=u88Xd3IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=u88Xd3IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u88Xd3IAAAAJ",
+            "affiliations": "KU Leuven",
+            "email": "Verified email at kuleuven.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=u88Xd3IAAAAJ&citpid=4"
+        },
+        {
+            "name": "Joseph Gleeson",
+            "link": "https://scholar.google.com/citations?user=0YzJaVcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0YzJaVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0YzJaVcAAAAJ",
+            "affiliations": "University of California, San Diego",
+            "email": "Verified email at ucsd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0YzJaVcAAAAJ&citpid=1"
+        },
+        {
+            "name": "Janice R. Naegele",
+            "link": "https://scholar.google.com/citations?user=J8IBQ_8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=J8IBQ_8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "J8IBQ_8AAAAJ",
+            "affiliations": "Alan M Dachs Professor of Science, Professor of Biology, Program in Neuroscience and Behavior",
+            "email": "Verified email at wesleyan.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=J8IBQ_8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Carmel Mevorach",
+            "link": "https://scholar.google.com/citations?user=vQ8nfDYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vQ8nfDYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vQ8nfDYAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vQ8nfDYAAAAJ&citpid=4"
+        }
+    ]
+}

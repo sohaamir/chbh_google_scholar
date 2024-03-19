@@ -1,0 +1,345 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uExP9ScAAAAJ&citpid=3",
+    "name": "Dietmar Heinke",
+    "affiliations": "Senior Lecturer, University of Birmimgham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://comp-psych.bham.ac.uk/news.php",
+    "interests": [
+        {
+            "title": "computational modeling",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_modeling",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_modeling"
+        },
+        {
+            "title": "visual object recognition",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:visual_object_recognition",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avisual_object_recognition"
+        },
+        {
+            "title": "visual attention",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:visual_attention",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avisual_attention"
+        },
+        {
+            "title": "visual affordances",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:visual_affordances",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avisual_affordances"
+        },
+        {
+            "title": "social cognition",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_cognition",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_cognition"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2644,
+                "since_2019": 813
+            }
+        },
+        {
+            "h_index": {
+                "all": 22,
+                "since_2019": 14
+            }
+        },
+        {
+            "i10_index": {
+                "all": 44,
+                "since_2019": 22
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 1999,
+            "citations": 10
+        },
+        {
+            "year": 2000,
+            "citations": 12
+        },
+        {
+            "year": 2001,
+            "citations": 12
+        },
+        {
+            "year": 2002,
+            "citations": 22
+        },
+        {
+            "year": 2003,
+            "citations": 38
+        },
+        {
+            "year": 2004,
+            "citations": 48
+        },
+        {
+            "year": 2005,
+            "citations": 54
+        },
+        {
+            "year": 2006,
+            "citations": 62
+        },
+        {
+            "year": 2007,
+            "citations": 83
+        },
+        {
+            "year": 2008,
+            "citations": 87
+        },
+        {
+            "year": 2009,
+            "citations": 132
+        },
+        {
+            "year": 2010,
+            "citations": 139
+        },
+        {
+            "year": 2011,
+            "citations": 148
+        },
+        {
+            "year": 2012,
+            "citations": 119
+        },
+        {
+            "year": 2013,
+            "citations": 132
+        },
+        {
+            "year": 2014,
+            "citations": 123
+        },
+        {
+            "year": 2015,
+            "citations": 148
+        },
+        {
+            "year": 2016,
+            "citations": 147
+        },
+        {
+            "year": 2017,
+            "citations": 142
+        },
+        {
+            "year": 2018,
+            "citations": 140
+        },
+        {
+            "year": 2019,
+            "citations": 130
+        },
+        {
+            "year": 2020,
+            "citations": 180
+        },
+        {
+            "year": 2021,
+            "citations": 171
+        },
+        {
+            "year": 2022,
+            "citations": 139
+        },
+        {
+            "year": 2023,
+            "citations": 159
+        },
+        {
+            "year": 2024,
+            "citations": 32
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=uExP9ScAAAAJ",
+    "available_public_access": 16,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Glyn W. Humphreys",
+            "link": "https://scholar.google.com/citations?user=Swb5hwQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Swb5hwQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Swb5hwQAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "GUSTAVO DECO",
+            "link": "https://scholar.google.com/citations?user=xMh3uN8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xMh3uN8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xMh3uN8AAAAJ",
+            "affiliations": "University Pompeu Fabra - Center for Brain and Cognition - ICREA",
+            "email": "Verified email at upf.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xMh3uN8AAAAJ&citpid=2"
+        },
+        {
+            "name": "David Soto",
+            "link": "https://scholar.google.com/citations?user=7bVliAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7bVliAUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7bVliAUAAAAJ",
+            "affiliations": "Basque Center on Cognition, Brain & Language",
+            "email": "Verified email at bcbl.eu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7bVliAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Giles Anderson",
+            "link": "https://scholar.google.com/citations?user=l7VfD1IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=l7VfD1IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "l7VfD1IAAAAJ",
+            "affiliations": "Early Career Research Fellow",
+            "email": "Verified email at brookes.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=l7VfD1IAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sören Strauss",
+            "link": "https://scholar.google.com/citations?user=l8aNk4oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=l8aNk4oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "l8aNk4oAAAAJ",
+            "affiliations": "Max Planck Institute for Plant Breeding Research (Tsiantis group)",
+            "email": "Verified email at mpipz.mpg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=l8aNk4oAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ahmad Abu-Akel",
+            "link": "https://scholar.google.com/citations?user=e029FHsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e029FHsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "e029FHsAAAAJ",
+            "affiliations": "Associate Professor, University of Haifa, School of Psychological Sciences",
+            "email": "Verified email at univ.haifa.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e029FHsAAAAJ&citpid=5"
+        },
+        {
+            "name": "Hamker, Fred",
+            "link": "https://scholar.google.com/citations?user=LjZJA1sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LjZJA1sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LjZJA1sAAAAJ",
+            "affiliations": "Technische Universität Chemnitz",
+            "email": "Verified email at informatik.tu-chemnitz.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LjZJA1sAAAAJ&citpid=3"
+        },
+        {
+            "name": "Horst-Michael Gross",
+            "link": "https://scholar.google.com/citations?user=eKw3T1EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=eKw3T1EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eKw3T1EAAAAJ",
+            "affiliations": "Full Professor of Computer Science, Technische Universitaet Ilmenau",
+            "email": "Verified email at tu-ilmenau.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eKw3T1EAAAAJ&citpid=5"
+        },
+        {
+            "name": "Harriet A Allen",
+            "link": "https://scholar.google.com/citations?user=AQnjse4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AQnjse4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AQnjse4AAAAJ",
+            "affiliations": "University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AQnjse4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Christian N. L. Olivers",
+            "link": "https://scholar.google.com/citations?user=PuGG4YIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PuGG4YIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PuGG4YIAAAAJ",
+            "affiliations": "Experimental and Applied Psychology",
+            "email": "Verified email at vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PuGG4YIAAAAJ&citpid=7"
+        },
+        {
+            "name": "Diana Orghian",
+            "link": "https://scholar.google.com/citations?user=EOyOAzkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EOyOAzkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EOyOAzkAAAAJ",
+            "affiliations": "Feedzai",
+            "email": "Verified email at feedzai.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EOyOAzkAAAAJ&citpid=5"
+        },
+        {
+            "name": "Leonel Garcia Marques",
+            "link": "https://scholar.google.com/citations?user=FVofl0sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FVofl0sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FVofl0sAAAAJ",
+            "affiliations": "Faculdade de Psicologia - Universidade de Lisboa",
+            "email": "Verified email at sapo.pt",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sune Bo",
+            "link": "https://scholar.google.com/citations?user=ecHw7yMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ecHw7yMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ecHw7yMAAAAJ",
+            "affiliations": "Psychiatric Research Unit",
+            "email": "Verified email at bokongerslev.dk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ecHw7yMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Steven M Gillespie",
+            "link": "https://scholar.google.com/citations?user=AwkhgM0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AwkhgM0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AwkhgM0AAAAJ",
+            "affiliations": "Department of Primary Care and Mental Health, University of Liverpool",
+            "email": "Verified email at liv.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AwkhgM0AAAAJ&citpid=6"
+        },
+        {
+            "name": "James S Uleman",
+            "link": "https://scholar.google.com/citations?user=WQnFmp8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WQnFmp8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WQnFmp8AAAAJ",
+            "affiliations": "New York University",
+            "email": "Verified email at nyu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WQnFmp8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Thomas Trappenberg",
+            "link": "https://scholar.google.com/citations?user=EwkaTYEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EwkaTYEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EwkaTYEAAAAJ",
+            "affiliations": "Professor of Computer Science, Dalhousie University",
+            "email": "Verified email at cs.dal.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EwkaTYEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Farzaneh S. Fard",
+            "link": "https://scholar.google.com/citations?user=lzmb3b8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lzmb3b8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lzmb3b8AAAAJ",
+            "affiliations": "Senior AI research scientist at VoltaCharging.com",
+            "email": "Verified email at voltacharging.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lzmb3b8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Jason Ivanoff",
+            "link": "https://scholar.google.com/citations?user=QsQDY6oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QsQDY6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QsQDY6oAAAAJ",
+            "affiliations": "Saint Mary's University",
+            "email": "Verified email at smu.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Raymond M. Klein",
+            "link": "https://scholar.google.com/citations?user=gP3fEvgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gP3fEvgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gP3fEvgAAAAJ",
+            "affiliations": "Professor & past chair, Department of Psychology & Neuroscience, Dalhousie University",
+            "email": "Verified email at dal.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gP3fEvgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Carmel Mevorach",
+            "link": "https://scholar.google.com/citations?user=vQ8nfDYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vQ8nfDYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vQ8nfDYAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vQ8nfDYAAAAJ&citpid=4"
+        }
+    ]
+}

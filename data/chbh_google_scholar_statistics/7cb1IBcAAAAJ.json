@@ -1,0 +1,320 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7cb1IBcAAAAJ&citpid=4",
+    "name": "Nicholas P Holmes",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at neurobiography.info",
+    "website": "https://neurobiography.info/",
+    "interests": [
+        {
+            "title": "Somatosensation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:somatosensation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asomatosensation"
+        },
+        {
+            "title": "Movement",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:movement",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amovement"
+        },
+        {
+            "title": "TMS",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:tms",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atms"
+        },
+        {
+            "title": "Transcranial Magnetic Stimulation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transcranial_magnetic_stimulation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atranscranial_magnetic_stimulation"
+        },
+        {
+            "title": "Developmental Coordination Disorder",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:developmental_coordination_disorder",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adevelopmental_coordination_disorder"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7546,
+                "since_2019": 3259
+            }
+        },
+        {
+            "h_index": {
+                "all": 36,
+                "since_2019": 30
+            }
+        },
+        {
+            "i10_index": {
+                "all": 58,
+                "since_2019": 48
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2005,
+            "citations": 24
+        },
+        {
+            "year": 2006,
+            "citations": 43
+        },
+        {
+            "year": 2007,
+            "citations": 186
+        },
+        {
+            "year": 2008,
+            "citations": 164
+        },
+        {
+            "year": 2009,
+            "citations": 184
+        },
+        {
+            "year": 2010,
+            "citations": 258
+        },
+        {
+            "year": 2011,
+            "citations": 298
+        },
+        {
+            "year": 2012,
+            "citations": 336
+        },
+        {
+            "year": 2013,
+            "citations": 343
+        },
+        {
+            "year": 2014,
+            "citations": 350
+        },
+        {
+            "year": 2015,
+            "citations": 470
+        },
+        {
+            "year": 2016,
+            "citations": 398
+        },
+        {
+            "year": 2017,
+            "citations": 483
+        },
+        {
+            "year": 2018,
+            "citations": 613
+        },
+        {
+            "year": 2019,
+            "citations": 667
+        },
+        {
+            "year": 2020,
+            "citations": 606
+        },
+        {
+            "year": 2021,
+            "citations": 754
+        },
+        {
+            "year": 2022,
+            "citations": 601
+        },
+        {
+            "year": 2023,
+            "citations": 513
+        },
+        {
+            "year": 2024,
+            "citations": 116
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=7cb1IBcAAAAJ",
+    "available_public_access": 21,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Charles Spence",
+            "link": "https://scholar.google.com/citations?user=LisPVt8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LisPVt8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LisPVt8AAAAJ",
+            "affiliations": "Oxford University",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LisPVt8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Tamar R. Makin",
+            "link": "https://scholar.google.com/citations?user=vdtvgtIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vdtvgtIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vdtvgtIAAAAJ",
+            "affiliations": "University of Cambridge",
+            "email": "Verified email at mrc-cbu.cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vdtvgtIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Professor Gemma Calvert",
+            "link": "https://scholar.google.com/citations?user=aFS6qLwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aFS6qLwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aFS6qLwAAAAJ",
+            "affiliations": "NTU Singapore",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aFS6qLwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Alessandro Farnè",
+            "link": "https://scholar.google.com/citations?user=fpmyE0IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fpmyE0IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fpmyE0IAAAAJ",
+            "affiliations": "ImpAct Team, Lyon Neuroscience Research Centre",
+            "email": "Verified email at inserm.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fpmyE0IAAAAJ&citpid=3"
+        },
+        {
+            "name": "Luigi Tamè",
+            "link": "https://scholar.google.com/citations?user=-sco0wMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-sco0wMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-sco0wMAAAAJ",
+            "affiliations": "Senior Lecturer in Cognitive Neuroscience, University of Kent",
+            "email": "Verified email at kent.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-sco0wMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Arran T Reader",
+            "link": "https://scholar.google.com/citations?user=Iszn2BYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Iszn2BYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Iszn2BYAAAAJ",
+            "affiliations": "University of Stirling",
+            "email": "Verified email at stir.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Iszn2BYAAAAJ&citpid=13"
+        },
+        {
+            "name": "H. Henrik Ehrsson",
+            "link": "https://scholar.google.com/citations?user=Tm3W8ZQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Tm3W8ZQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Tm3W8ZQAAAAJ",
+            "affiliations": "Department of Neuroscience, Karolinska Institutet",
+            "email": "Verified email at ki.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Tm3W8ZQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Andrew J. Bremner",
+            "link": "https://scholar.google.com/citations?user=Uz5abgMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Uz5abgMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Uz5abgMAAAAJ",
+            "affiliations": "Professor of Developmental Psychology, School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Uz5abgMAAAAJ&citpid=5"
+        },
+        {
+            "name": "Francesco Pavani",
+            "link": "https://scholar.google.com/citations?user=eTVHsZwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=eTVHsZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eTVHsZwAAAAJ",
+            "affiliations": "Full Professor of Experimental Psychology, University of Trento",
+            "email": "Verified email at unitn.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eTVHsZwAAAAJ&citpid=9"
+        },
+        {
+            "name": "Katherine R. Naish",
+            "link": "https://scholar.google.com/citations?user=3BiuF9kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3BiuF9kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3BiuF9kAAAAJ",
+            "affiliations": "McMaster University",
+            "email": "Verified email at mcmaster.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3BiuF9kAAAAJ&citpid=5"
+        },
+        {
+            "name": "Caroline Blanchard",
+            "link": "https://scholar.google.com/citations?user=3tj_ZlcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3tj_ZlcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3tj_ZlcAAAAJ",
+            "affiliations": "University Of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3tj_ZlcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mathew T. Martin-Iverson",
+            "link": "https://scholar.google.com/citations?user=-BncG3cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-BncG3cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-BncG3cAAAAJ",
+            "affiliations": "University of Western Australia",
+            "email": "Verified email at uwa.edu.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Kyran T. Graham-Schmidt",
+            "link": "https://scholar.google.com/citations?user=FeH4-NIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FeH4-NIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FeH4-NIAAAAJ",
+            "affiliations": "WA Department of Health",
+            "email": "Verified email at health.wa.gov.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Flavie Waters",
+            "link": "https://scholar.google.com/citations?user=_twfp9EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_twfp9EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_twfp9EAAAAJ",
+            "email": "Verified email at health.wa.gov.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ehud Zohary",
+            "link": "https://scholar.google.com/citations?user=kxaG214AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kxaG214AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kxaG214AAAAJ",
+            "affiliations": "Professor of Neurobiology, Hebrew University",
+            "email": "Verified email at mail.huji.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kxaG214AAAAJ&citpid=4"
+        },
+        {
+            "name": "Blandine French",
+            "link": "https://scholar.google.com/citations?user=HelOIAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HelOIAUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HelOIAUAAAAJ",
+            "affiliations": "university of nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HelOIAUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Richard Passingham",
+            "link": "https://scholar.google.com/citations?user=L77bLKoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=L77bLKoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L77bLKoAAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Angelo Maravita",
+            "link": "https://scholar.google.com/citations?user=3oIxJuwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3oIxJuwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3oIxJuwAAAAJ",
+            "affiliations": "Professor of Psychobiology, University of Milan-Bicocca",
+            "email": "Verified email at unimib.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3oIxJuwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Carmel Houston-Price",
+            "link": "https://scholar.google.com/citations?user=36yJoccAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=36yJoccAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "36yJoccAAAAJ",
+            "affiliations": "Head of Psychology & Clinical Language Sciences, University of Reading Malaysia",
+            "email": "Verified email at reading.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=36yJoccAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lucilla Cardinali",
+            "link": "https://scholar.google.com/citations?user=8AFmP6UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8AFmP6UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8AFmP6UAAAAJ",
+            "affiliations": "U-VIP - Istituto Italiano di Tecnologia",
+            "email": "Verified email at iit.it",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

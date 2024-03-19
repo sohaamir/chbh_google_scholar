@@ -1,0 +1,297 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=I7h_dqwAAAAJ&citpid=2",
+    "name": "Ned Jenkinson",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": null,
+    "interests": [
+        {
+            "title": "Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 7279,
+                "since_2019": 2959
+            }
+        },
+        {
+            "h_index": {
+                "all": 39,
+                "since_2019": 27
+            }
+        },
+        {
+            "i10_index": {
+                "all": 58,
+                "since_2019": 43
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2006,
+            "citations": 33
+        },
+        {
+            "year": 2007,
+            "citations": 76
+        },
+        {
+            "year": 2008,
+            "citations": 109
+        },
+        {
+            "year": 2009,
+            "citations": 161
+        },
+        {
+            "year": 2010,
+            "citations": 202
+        },
+        {
+            "year": 2011,
+            "citations": 255
+        },
+        {
+            "year": 2012,
+            "citations": 326
+        },
+        {
+            "year": 2013,
+            "citations": 464
+        },
+        {
+            "year": 2014,
+            "citations": 460
+        },
+        {
+            "year": 2015,
+            "citations": 513
+        },
+        {
+            "year": 2016,
+            "citations": 547
+        },
+        {
+            "year": 2017,
+            "citations": 500
+        },
+        {
+            "year": 2018,
+            "citations": 568
+        },
+        {
+            "year": 2019,
+            "citations": 544
+        },
+        {
+            "year": 2020,
+            "citations": 591
+        },
+        {
+            "year": 2021,
+            "citations": 562
+        },
+        {
+            "year": 2022,
+            "citations": 630
+        },
+        {
+            "year": 2023,
+            "citations": 515
+        },
+        {
+            "year": 2024,
+            "citations": 104
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=I7h_dqwAAAAJ",
+    "available_public_access": 35,
+    "not_available_public_access": 3,
+    "co_authors": [
+        {
+            "name": "Tipu Aziz",
+            "link": "https://scholar.google.com/citations?user=ok41_f4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ok41_f4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ok41_f4AAAAJ",
+            "affiliations": "Professor of Neurosurgery, Oxford",
+            "email": "Verified email at nds.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "John-Stuart Brittain",
+            "link": "https://scholar.google.com/citations?user=4OpciTAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4OpciTAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4OpciTAAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4OpciTAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Peter Brown",
+            "link": "https://scholar.google.com/citations?user=9EvU8t4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9EvU8t4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9EvU8t4AAAAJ",
+            "affiliations": "MRC Brain Network Dynamics Unit at the University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Morten L Kringelbach",
+            "link": "https://scholar.google.com/citations?user=SoeIUe4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SoeIUe4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SoeIUe4AAAAJ",
+            "affiliations": "Professor of Neuroscience, Universities of Oxford and Aarhus",
+            "email": "Verified email at linacre.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SoeIUe4AAAAJ&citpid=6"
+        },
+        {
+            "name": "Niki Ray",
+            "link": "https://scholar.google.com/citations?user=lal_r5oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lal_r5oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lal_r5oAAAAJ",
+            "affiliations": "Manchester Metropolitan University",
+            "email": "Verified email at MMU.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chris Miall",
+            "link": "https://scholar.google.com/citations?user=WD13oT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WD13oT0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WD13oT0AAAAJ",
+            "affiliations": "Emeritus Prof. Motor Neuroscience, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WD13oT0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Sarah L.F. Owen",
+            "link": "https://scholar.google.com/citations?user=xTKLVQoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xTKLVQoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xTKLVQoAAAAJ",
+            "affiliations": "Oxford Brookes University, University of Oxford",
+            "email": "Verified email at brookes.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Peter Holland",
+            "link": "https://scholar.google.com/citations?user=zI_9jc4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zI_9jc4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zI_9jc4AAAAJ",
+            "affiliations": "Lecturer, Department of Psychology, Goldsmiths, University of London",
+            "email": "Verified email at gold.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Wesley Thevathasan",
+            "link": "https://scholar.google.com/citations?user=b9TCT88AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=b9TCT88AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "b9TCT88AAAAJ",
+            "affiliations": "University of Melbourne",
+            "email": "Verified email at mh.org.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Heidi Johansen-Berg",
+            "link": "https://scholar.google.com/citations?user=4qPNUQ8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4qPNUQ8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4qPNUQ8AAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience, University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Charlotte Stagg",
+            "link": "https://scholar.google.com/citations?user=F-OlqFMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=F-OlqFMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F-OlqFMAAAAJ",
+            "affiliations": "Professor of Human Neurophysiology, University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=F-OlqFMAAAAJ&citpid=6"
+        },
+        {
+            "name": "Karla Miller",
+            "link": "https://scholar.google.com/citations?user=AZ3nTiwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AZ3nTiwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AZ3nTiwAAAAJ",
+            "affiliations": "Professor of Biomedical Engineering, University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AZ3nTiwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jennifer A. McNab",
+            "link": "https://scholar.google.com/citations?user=bPfJ2zoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bPfJ2zoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bPfJ2zoAAAAJ",
+            "affiliations": "Associate Professor of Radiology, Stanford University",
+            "email": "Verified email at stanford.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bPfJ2zoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mr Erlick Pereira",
+            "link": "https://scholar.google.com/citations?user=UFDcJgMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UFDcJgMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UFDcJgMAAAAJ",
+            "affiliations": "Reader in Neurosurgery, St George's, University of London",
+            "email": "Verified email at sgul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UFDcJgMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Dr Peter C. Hansen",
+            "link": "https://scholar.google.com/citations?user=2E5GwcoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2E5GwcoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2E5GwcoAAAAJ",
+            "affiliations": "School of Psychology / CHBH, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Graham K Kerr",
+            "link": "https://scholar.google.com/citations?user=KXbgGIwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KXbgGIwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KXbgGIwAAAAJ",
+            "affiliations": "Queensland University of Technology",
+            "email": "Verified email at qut.edu.au",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Kate Watkins",
+            "link": "https://scholar.google.com/citations?user=kUWacdIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kUWacdIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kUWacdIAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kUWacdIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ian Holliday",
+            "link": "https://scholar.google.com/citations?user=ZTZmqZoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZTZmqZoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZTZmqZoAAAAJ",
+            "affiliations": "Aston University",
+            "email": "Verified email at aston.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Tim Behrens",
+            "link": "https://scholar.google.com/citations?user=i3l_ejQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=i3l_ejQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "i3l_ejQAAAAJ",
+            "affiliations": "Professor of Computational Neuroscience, University of Oxford. Honorary Prof, UCL",
+            "email": "Verified email at fmrib.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Angel Lago-Rodriguez",
+            "link": "https://scholar.google.com/citations?user=xM4xCtsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xM4xCtsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xM4xCtsAAAAJ",
+            "affiliations": "Universidad Isabel I",
+            "email": "Verified email at ui1.es",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xM4xCtsAAAAJ&citpid=3"
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WD13oT0AAAAJ&citpid=1",
+    "name": "Chris Miall",
+    "affiliations": "Emeritus Prof. Motor Neuroscience, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://prism.bham.ac.uk/",
+    "interests": [
+        {
+            "title": "motor control",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:motor_control",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amotor_control"
+        },
+        {
+            "title": "cerebellum",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cerebellum",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acerebellum"
+        },
+        {
+            "title": "learning",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alearning"
+        },
+        {
+            "title": "coordination",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:coordination",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acoordination"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 25764,
+                "since_2019": 8045
+            }
+        },
+        {
+            "h_index": {
+                "all": 75,
+                "since_2019": 41
+            }
+        },
+        {
+            "i10_index": {
+                "all": 184,
+                "since_2019": 122
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 1996,
+            "citations": 107
+        },
+        {
+            "year": 1997,
+            "citations": 79
+        },
+        {
+            "year": 1998,
+            "citations": 113
+        },
+        {
+            "year": 1999,
+            "citations": 147
+        },
+        {
+            "year": 2000,
+            "citations": 192
+        },
+        {
+            "year": 2001,
+            "citations": 322
+        },
+        {
+            "year": 2002,
+            "citations": 295
+        },
+        {
+            "year": 2003,
+            "citations": 338
+        },
+        {
+            "year": 2004,
+            "citations": 473
+        },
+        {
+            "year": 2005,
+            "citations": 514
+        },
+        {
+            "year": 2006,
+            "citations": 601
+        },
+        {
+            "year": 2007,
+            "citations": 639
+        },
+        {
+            "year": 2008,
+            "citations": 735
+        },
+        {
+            "year": 2009,
+            "citations": 943
+        },
+        {
+            "year": 2010,
+            "citations": 908
+        },
+        {
+            "year": 2011,
+            "citations": 1107
+        },
+        {
+            "year": 2012,
+            "citations": 1051
+        },
+        {
+            "year": 2013,
+            "citations": 1472
+        },
+        {
+            "year": 2014,
+            "citations": 1400
+        },
+        {
+            "year": 2015,
+            "citations": 1274
+        },
+        {
+            "year": 2016,
+            "citations": 1423
+        },
+        {
+            "year": 2017,
+            "citations": 1443
+        },
+        {
+            "year": 2018,
+            "citations": 1568
+        },
+        {
+            "year": 2019,
+            "citations": 1469
+        },
+        {
+            "year": 2020,
+            "citations": 1515
+        },
+        {
+            "year": 2021,
+            "citations": 1775
+        },
+        {
+            "year": 2022,
+            "citations": 1513
+        },
+        {
+            "year": 2023,
+            "citations": 1468
+        },
+        {
+            "year": 2024,
+            "citations": 302
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=WD13oT0AAAAJ",
+    "available_public_access": 61,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Daniel Wolpert",
+            "link": "https://scholar.google.com/citations?user=YM8BRlUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YM8BRlUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YM8BRlUAAAAJ",
+            "affiliations": "Professor of Neuroscience, Columbia University",
+            "email": "Verified email at columbia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YM8BRlUAAAAJ&citpid=5"
+        },
+        {
+            "name": "Penny Lewis",
+            "link": "https://scholar.google.com/citations?user=6RE51EcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6RE51EcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6RE51EcAAAAJ",
+            "affiliations": "Psychology Department, University of Cardiff",
+            "email": "Verified email at Cardiff.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6RE51EcAAAAJ&citpid=13"
+        },
+        {
+            "name": "Joseph Galea",
+            "link": "https://scholar.google.com/citations?user=xVLhU5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xVLhU5kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVLhU5kAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xVLhU5kAAAAJ&citpid=5"
+        },
+        {
+            "name": "Ned Jenkinson",
+            "link": "https://scholar.google.com/citations?user=I7h_dqwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=I7h_dqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "I7h_dqwAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=I7h_dqwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Tipu Aziz",
+            "link": "https://scholar.google.com/citations?user=ok41_f4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ok41_f4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ok41_f4AAAAJ",
+            "affiliations": "Professor of Neurosurgery, Oxford",
+            "email": "Verified email at nds.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Emma Gowen",
+            "link": "https://scholar.google.com/citations?user=jZE2Up8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jZE2Up8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jZE2Up8AAAAJ",
+            "affiliations": "Lecturer, University of Manchester",
+            "email": "Verified email at manchester.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Paul A Pope",
+            "link": "https://scholar.google.com/citations?user=5YP31t4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5YP31t4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5YP31t4AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5YP31t4AAAAJ&citpid=2"
+        },
+        {
+            "name": "James Stanley",
+            "link": "https://scholar.google.com/citations?user=m3PE4OoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m3PE4OoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m3PE4OoAAAAJ",
+            "affiliations": "Professor / Biostatistician, University of Otago, Wellington",
+            "email": "Verified email at otago.ac.nz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=m3PE4OoAAAAJ&citpid=5"
+        },
+        {
+            "name": "Patrick Haggard",
+            "link": "https://scholar.google.com/citations?user=NqmgC9gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NqmgC9gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NqmgC9gAAAAJ",
+            "affiliations": "University College London",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Fabrice R. Sarlegna",
+            "link": "https://scholar.google.com/citations?user=jI3WtEgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jI3WtEgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jI3WtEgAAAAJ",
+            "affiliations": "Research scientist, CNRS, Institut des Sciences du Mouvement / Aix-Marseille Univ & CNRS, France",
+            "email": "Verified email at univ-amu.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jI3WtEgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Alan Wing",
+            "link": "https://scholar.google.com/citations?user=JEihq_0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JEihq_0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JEihq_0AAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JEihq_0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Mitsuo Kawato",
+            "link": "https://scholar.google.com/citations?user=lc7OkdAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lc7OkdAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lc7OkdAAAAAJ",
+            "affiliations": "ATR",
+            "email": "Verified email at atr.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lc7OkdAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daniela Balslev",
+            "link": "https://scholar.google.com/citations?user=bOLhof0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bOLhof0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bOLhof0AAAAJ",
+            "affiliations": "Lecturer, School of Psychology and Neuroscience, University of St Andrews",
+            "email": "Verified email at st-andrews.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bOLhof0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Jean Louis Vercher",
+            "link": "https://scholar.google.com/citations?user=OA_jqOwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OA_jqOwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OA_jqOwAAAAJ",
+            "affiliations": "research Director CNRS",
+            "email": "Verified email at univ-amu.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OA_jqOwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Elise Lesage",
+            "link": "https://scholar.google.com/citations?user=LNbItJ0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LNbItJ0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LNbItJ0AAAAJ",
+            "affiliations": "Ghent University",
+            "email": "Verified email at ugent.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LNbItJ0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Paul van Donkelaar",
+            "link": "https://scholar.google.com/citations?user=g4DbeHUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g4DbeHUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "g4DbeHUAAAAJ",
+            "affiliations": "Professor of Health and Exercise Sciences, UBC - Okanagan Campus",
+            "email": "Verified email at ubc.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g4DbeHUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Robert M. Hardwick",
+            "link": "https://scholar.google.com/citations?user=QsptE9EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QsptE9EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QsptE9EAAAAJ",
+            "affiliations": "Assistant Professor, Institute of Neurosciences/Faculty of Motor Sciences, UCLouvain, Belgium",
+            "email": "Verified email at uclouvain.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QsptE9EAAAAJ&citpid=2"
+        },
+        {
+            "name": "Prof. Mario Manto, MD, PhD",
+            "link": "https://scholar.google.com/citations?user=4cHmu7YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4cHmu7YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4cHmu7YAAAAJ",
+            "affiliations": "Centre Hospitalier Universitaire (CHU) de Charleroi - ULB - UMons, Belgium",
+            "email": "Verified email at ulb.ac.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4cHmu7YAAAAJ&citpid=2"
+        },
+        {
+            "name": "Professor Narender Ramnani",
+            "link": "https://scholar.google.com/citations?user=ThoPU5sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ThoPU5sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ThoPU5sAAAAJ",
+            "affiliations": "Department of Psychology, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Richard Passingham",
+            "link": "https://scholar.google.com/citations?user=L77bLKoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=L77bLKoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L77bLKoAAAAJ",
+            "affiliations": "Professor of Cognitive Neuroscience Oxford",
+            "email": "Verified email at psy.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

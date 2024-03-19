@@ -1,0 +1,300 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CpRcNE0AAAAJ&citpid=4",
+    "name": "Rickson C. Mesquita",
+    "affiliations": "University of Birmingham, UK",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://rcmesquita.github.io/",
+    "interests": [
+        {
+            "title": "Biomedical Optics",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biomedical_optics",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiomedical_optics"
+        },
+        {
+            "title": "Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroscience"
+        },
+        {
+            "title": "fNIRS",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:fnirs",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afnirs"
+        },
+        {
+            "title": "Neurovascular Coupling",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neurovascular_coupling",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurovascular_coupling"
+        },
+        {
+            "title": "Education Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:education_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeducation_neuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2782,
+                "since_2019": 1606
+            }
+        },
+        {
+            "h_index": {
+                "all": 27,
+                "since_2019": 24
+            }
+        },
+        {
+            "i10_index": {
+                "all": 46,
+                "since_2019": 38
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2010,
+            "citations": 16
+        },
+        {
+            "year": 2011,
+            "citations": 42
+        },
+        {
+            "year": 2012,
+            "citations": 70
+        },
+        {
+            "year": 2013,
+            "citations": 114
+        },
+        {
+            "year": 2014,
+            "citations": 182
+        },
+        {
+            "year": 2015,
+            "citations": 145
+        },
+        {
+            "year": 2016,
+            "citations": 172
+        },
+        {
+            "year": 2017,
+            "citations": 175
+        },
+        {
+            "year": 2018,
+            "citations": 216
+        },
+        {
+            "year": 2019,
+            "citations": 220
+        },
+        {
+            "year": 2020,
+            "citations": 279
+        },
+        {
+            "year": 2021,
+            "citations": 289
+        },
+        {
+            "year": 2022,
+            "citations": 345
+        },
+        {
+            "year": 2023,
+            "citations": 399
+        },
+        {
+            "year": 2024,
+            "citations": 73
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=CpRcNE0AAAAJ",
+    "available_public_access": 41,
+    "not_available_public_access": 5,
+    "co_authors": [
+        {
+            "name": "Arjun Yodh",
+            "link": "https://scholar.google.com/citations?user=LWAFHkEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LWAFHkEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LWAFHkEAAAAJ",
+            "affiliations": "James M. Skinner Professor of Science & Chair, Dept. of Physics & Astronomy, Univ. of Pennsylvania",
+            "email": "Verified email at physics.upenn.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LWAFHkEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Meeri N. Kim",
+            "link": "https://scholar.google.com/citations?user=HM7WbsgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HM7WbsgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HM7WbsgAAAAJ",
+            "affiliations": "Physics Ph.D., University of Pennsylvania",
+            "email": "Verified email at alumni.upenn.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HM7WbsgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Turgut Durduran",
+            "link": "https://scholar.google.com/citations?user=c7reUlAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c7reUlAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "c7reUlAAAAAJ",
+            "affiliations": "ICREA professor @ ICFO-The Institute of Photonic Sciences",
+            "email": "Verified email at icfo.eu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c7reUlAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Wesley B Baker",
+            "link": "https://scholar.google.com/citations?user=JEJBonQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JEJBonQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JEJBonQAAAAJ",
+            "affiliations": "Assistant Professor, Children's Hospital of Philadelphia",
+            "email": "Verified email at chop.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JEJBonQAAAAJ&citpid=1"
+        },
+        {
+            "name": "David R. Busch",
+            "link": "https://scholar.google.com/citations?user=qg4wzYMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qg4wzYMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qg4wzYMAAAAJ",
+            "affiliations": "University of Texas Southwestern",
+            "email": "Verified email at utsouthwestern.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qg4wzYMAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rodrigo Menezes Forti",
+            "link": "https://scholar.google.com/citations?user=n4GsO64AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=n4GsO64AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n4GsO64AAAAJ",
+            "affiliations": "Research Associate, Children's Hospital of Philadelphia",
+            "email": "Verified email at chop.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Erin M. Buckley",
+            "link": "https://scholar.google.com/citations?user=XqI4gAYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XqI4gAYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XqI4gAYAAAAJ",
+            "affiliations": "Assistant Professor, Emory University/Georgia Institute of Technology",
+            "email": "Verified email at emory.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XqI4gAYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ashwin B Parthasarathy",
+            "link": "https://scholar.google.com/citations?user=jE1NPSoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jE1NPSoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jE1NPSoAAAAJ",
+            "affiliations": "University of South Florida",
+            "email": "Verified email at usf.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jE1NPSoAAAAJ&citpid=8"
+        },
+        {
+            "name": "Michael T Mullen",
+            "link": "https://scholar.google.com/citations?user=8x37LHwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8x37LHwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8x37LHwAAAAJ",
+            "affiliations": "University of Pennsylvania",
+            "email": "Verified email at uphs.upenn.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "David A Boas",
+            "link": "https://scholar.google.com/citations?user=mgQkio4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mgQkio4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mgQkio4AAAAJ",
+            "affiliations": "Boston University",
+            "email": "Verified email at bu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mgQkio4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Scott Kasner",
+            "link": "https://scholar.google.com/citations?user=tdCejywAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tdCejywAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tdCejywAAAAJ",
+            "affiliations": "University of Pennsylvania",
+            "email": "Verified email at mail.med.upenn.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "M. Celeste Simon",
+            "link": "https://scholar.google.com/citations?user=hwBNflIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hwBNflIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hwBNflIAAAAJ",
+            "affiliations": "University of Pennsylvania",
+            "email": "Verified email at pennmedicine.upenn.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hwBNflIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Daniel Licht",
+            "link": "https://scholar.google.com/citations?user=HGTDp1UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HGTDp1UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HGTDp1UAAAAJ",
+            "affiliations": "Professor of Neurology, University of Pennsylvania",
+            "email": "Verified email at chop.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HGTDp1UAAAAJ&citpid=6"
+        },
+        {
+            "name": "Malavika Chandra",
+            "link": "https://scholar.google.com/citations?user=2zxNE8QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2zxNE8QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2zxNE8QAAAAJ",
+            "affiliations": "Laboratory Director, Boston College",
+            "email": "Verified email at umich.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chao Zhou, PhD",
+            "link": "https://scholar.google.com/citations?user=p_QR9RUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=p_QR9RUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "p_QR9RUAAAAJ",
+            "affiliations": "Professor, Biomedical Engineering, Washington University in St. Louis",
+            "email": "Verified email at wustl.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=p_QR9RUAAAAJ&citpid=5"
+        },
+        {
+            "name": "Maria Angela Franceschini",
+            "link": "https://scholar.google.com/citations?user=Vb1xVacAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Vb1xVacAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Vb1xVacAAAAJ",
+            "affiliations": "Professor Harvard Medical School",
+            "email": "Verified email at mgh.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Vb1xVacAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jennifer Lynch",
+            "link": "https://scholar.google.com/citations?user=hV0wNf8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hV0wNf8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hV0wNf8AAAAJ",
+            "affiliations": "Children's Hospital of Philadelphia",
+            "email": "Verified email at chop.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hV0wNf8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Guoqiang Yu",
+            "link": "https://scholar.google.com/citations?user=4PzSxEMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4PzSxEMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4PzSxEMAAAAJ",
+            "email": "Verified email at uky.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Brian L. Edlow, M.D.",
+            "link": "https://scholar.google.com/citations?user=G8GezxgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=G8GezxgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "G8GezxgAAAAJ",
+            "affiliations": "Associate Professor of Neurology, Massachusetts General Hospital",
+            "email": "Verified email at mgh.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G8GezxgAAAAJ&citpid=11"
+        },
+        {
+            "name": "Sung Won Han",
+            "link": "https://scholar.google.com/citations?user=wGruONMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wGruONMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wGruONMAAAAJ",
+            "affiliations": "New York University",
+            "email": "Verified email at nyumc.org",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

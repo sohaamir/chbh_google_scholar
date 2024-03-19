@@ -1,0 +1,266 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wOMnmSsAAAAJ&citpid=7",
+    "name": "Tom Rhys Marshall",
+    "affiliations": "University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.tomrmarshall.com/",
+    "interests": [
+        {
+            "title": "Cognitive Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        },
+        {
+            "title": "Computational Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_neuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 2054,
+                "since_2019": 1819
+            }
+        },
+        {
+            "h_index": {
+                "all": 13,
+                "since_2019": 13
+            }
+        },
+        {
+            "i10_index": {
+                "all": 14,
+                "since_2019": 14
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2015,
+            "citations": 19
+        },
+        {
+            "year": 2016,
+            "citations": 49
+        },
+        {
+            "year": 2017,
+            "citations": 56
+        },
+        {
+            "year": 2018,
+            "citations": 97
+        },
+        {
+            "year": 2019,
+            "citations": 173
+        },
+        {
+            "year": 2020,
+            "citations": 309
+        },
+        {
+            "year": 2021,
+            "citations": 399
+        },
+        {
+            "year": 2022,
+            "citations": 405
+        },
+        {
+            "year": 2023,
+            "citations": 439
+        },
+        {
+            "year": 2024,
+            "citations": 92
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=wOMnmSsAAAAJ",
+    "available_public_access": 13,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Ole Jensen",
+            "link": "https://scholar.google.com/citations?user=ADvWcoUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ADvWcoUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ADvWcoUAAAAJ",
+            "affiliations": "School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ADvWcoUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Micah G. Allen",
+            "link": "https://scholar.google.com/citations?user=C49AeHAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C49AeHAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C49AeHAAAAAJ",
+            "affiliations": "Professor of Computational Psychiatry, Institute of Clinical Medicine, Aarhus University",
+            "email": "Verified email at cfin.au.dk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C49AeHAAAAAJ&citpid=7"
+        },
+        {
+            "name": "Kirstie J Whitaker",
+            "link": "https://scholar.google.com/citations?user=Tn9x4pQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Tn9x4pQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Tn9x4pQAAAAJ",
+            "affiliations": "Research Fellow, Alan Turing Institute for Data Science; Research Associate, Department of",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Tn9x4pQAAAAJ&citpid=4"
+        },
+        {
+            "name": "Prof. Dr. Til Ole Bergmann",
+            "link": "https://scholar.google.com/citations?user=IVdjmvsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IVdjmvsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IVdjmvsAAAAJ",
+            "affiliations": "Neuroimaging Center (NIC), University Medical Center of the Johannes Gutenberg University Mainz",
+            "email": "Verified email at tobergmann.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IVdjmvsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Rogier A. Kievit",
+            "link": "https://scholar.google.com/citations?user=kplx7AUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kplx7AUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kplx7AUAAAAJ",
+            "affiliations": "Professor of Developmental Neuroscience, Donders Institute, Radboud University",
+            "email": "Verified email at radboudumc.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kplx7AUAAAAJ&citpid=6"
+        },
+        {
+            "name": "Davide Poggiali",
+            "link": "https://scholar.google.com/citations?user=u67o7S4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=u67o7S4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u67o7S4AAAAJ",
+            "affiliations": "former PostDoc at PNC - Padova Neuroscience Center, University of Padova",
+            "email": "Verified email at unipd.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=u67o7S4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Jordy van Langen",
+            "link": "https://scholar.google.com/citations?user=gsSpOgkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gsSpOgkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gsSpOgkAAAAJ",
+            "affiliations": "PhD candidate, Radboudumc",
+            "email": "Verified email at radboudumc.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gsSpOgkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jacinta O'Shea",
+            "link": "https://scholar.google.com/citations?user=BD8dNTUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BD8dNTUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BD8dNTUAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BD8dNTUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mana Biabani",
+            "link": "https://scholar.google.com/citations?user=KbR-hoMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KbR-hoMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KbR-hoMAAAAJ",
+            "affiliations": "Research Fellow, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KbR-hoMAAAAJ&citpid=12"
+        },
+        {
+            "name": "Nigel Rogasch",
+            "link": "https://scholar.google.com/citations?user=DKUagbUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DKUagbUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DKUagbUAAAAJ",
+            "affiliations": "University of Adelaide, SAHMRI, Monash University",
+            "email": "Verified email at adelaide.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DKUagbUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Johanna M. Zumer",
+            "link": "https://scholar.google.com/citations?user=r2p2CxEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=r2p2CxEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "r2p2CxEAAAAJ",
+            "affiliations": "Lecturer (Assistant Professor) in Psychology, Aston University, Birmingham, UK",
+            "email": "Verified email at aston.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=r2p2CxEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Sean James Fallon",
+            "link": "https://scholar.google.com/citations?user=2tUZZ6QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2tUZZ6QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2tUZZ6QAAAAJ",
+            "affiliations": "Unversity of Plymouth",
+            "email": "Verified email at plymouth.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mathilde Bonnefond",
+            "link": "https://scholar.google.com/citations?user=Xc1fz38AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xc1fz38AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xc1fz38AAAAJ",
+            "affiliations": "Lyon Neuroscience Research Center (CNRL) - Inserm",
+            "email": "Verified email at inserm.fr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Paul Tiesinga",
+            "link": "https://scholar.google.com/citations?user=GnKVOBwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GnKVOBwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GnKVOBwAAAAJ",
+            "affiliations": "Hoogleraar Neuroinformatica, Radboud Universiteit",
+            "email": "Verified email at science.ru.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Vittorio Pizzella",
+            "link": "https://scholar.google.com/citations?user=VU8G3iAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VU8G3iAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VU8G3iAAAAAJ",
+            "affiliations": "Professor of Physics, University of Chieti-Pescara",
+            "email": "Verified email at unich.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VU8G3iAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Laura Marzetti",
+            "link": "https://scholar.google.com/citations?user=MW3ydMYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MW3ydMYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MW3ydMYAAAAJ",
+            "affiliations": "University \"G. d'Annunzio\"",
+            "email": "Verified email at unich.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MW3ydMYAAAAJ&citpid=7"
+        },
+        {
+            "name": "Gian Luca Romani",
+            "link": "https://scholar.google.com/citations?user=FXzxqPUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FXzxqPUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FXzxqPUAAAAJ",
+            "affiliations": "University of Chieti-Pescara",
+            "email": "Verified email at itab.unich.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FXzxqPUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Forough Habibollahi Saatlou",
+            "link": "https://scholar.google.com/citations?user=t6uNqqIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=t6uNqqIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t6uNqqIAAAAJ",
+            "affiliations": "Data Scientist - Post-doctoral Research Fellow @ CorticalLabs",
+            "email": "Verified email at corticallabs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=t6uNqqIAAAAJ&citpid=7"
+        },
+        {
+            "name": "Loek Brinkman",
+            "link": "https://scholar.google.com/citations?user=QsPIe5EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QsPIe5EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QsPIe5EAAAAJ",
+            "affiliations": "Data Archiving and Networked Services (DANS)",
+            "email": "Verified email at dans.knaw.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QsPIe5EAAAAJ&citpid=2"
+        },
+        {
+            "name": "Floris de Lange",
+            "link": "https://scholar.google.com/citations?user=5z1S51MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5z1S51MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5z1S51MAAAAJ",
+            "affiliations": "Principal Investigator at Donders Institute, Radboud University Nijmegen, Netherlands",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5z1S51MAAAAJ&citpid=4"
+        }
+    ]
+}

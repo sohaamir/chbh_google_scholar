@@ -1,0 +1,293 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=b65PuG8AAAAJ&citpid=2",
+    "name": "Clayton Hickey",
+    "affiliations": "University of Birmingham, UK",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.cognitionlab.org/",
+    "interests": [
+        {
+            "title": "Cognitive Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_neuroscience"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 4382,
+                "since_2019": 2017
+            }
+        },
+        {
+            "h_index": {
+                "all": 29,
+                "since_2019": 23
+            }
+        },
+        {
+            "i10_index": {
+                "all": 42,
+                "since_2019": 38
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2007,
+            "citations": 16
+        },
+        {
+            "year": 2008,
+            "citations": 21
+        },
+        {
+            "year": 2009,
+            "citations": 45
+        },
+        {
+            "year": 2010,
+            "citations": 64
+        },
+        {
+            "year": 2011,
+            "citations": 117
+        },
+        {
+            "year": 2012,
+            "citations": 156
+        },
+        {
+            "year": 2013,
+            "citations": 255
+        },
+        {
+            "year": 2014,
+            "citations": 278
+        },
+        {
+            "year": 2015,
+            "citations": 309
+        },
+        {
+            "year": 2016,
+            "citations": 361
+        },
+        {
+            "year": 2017,
+            "citations": 339
+        },
+        {
+            "year": 2018,
+            "citations": 370
+        },
+        {
+            "year": 2019,
+            "citations": 409
+        },
+        {
+            "year": 2020,
+            "citations": 400
+        },
+        {
+            "year": 2021,
+            "citations": 407
+        },
+        {
+            "year": 2022,
+            "citations": 319
+        },
+        {
+            "year": 2023,
+            "citations": 404
+        },
+        {
+            "year": 2024,
+            "citations": 78
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=b65PuG8AAAAJ",
+    "available_public_access": 26,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Jan Theeuwes",
+            "link": "https://scholar.google.com/citations?user=iRgckZsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iRgckZsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iRgckZsAAAAJ",
+            "affiliations": "Experimental & Applied Psy VU Amsterdam; Inst Brain&Behavior (iBBA); ISPA, Lisbon, Portugal",
+            "email": "Verified email at psy.vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iRgckZsAAAAJ&citpid=7"
+        },
+        {
+            "name": "John McDonald",
+            "link": "https://scholar.google.com/citations?user=bnMxa4UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bnMxa4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bnMxa4UAAAAJ",
+            "affiliations": "Psychology, Simon Fraser University",
+            "email": "Verified email at sfu.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bnMxa4UAAAAJ&citpid=69"
+        },
+        {
+            "name": "Leonardo Chelazzi",
+            "link": "https://scholar.google.com/citations?user=Et-ivMYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Et-ivMYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Et-ivMYAAAAJ",
+            "affiliations": "University of Verona, Italy",
+            "email": "Verified email at univr.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Et-ivMYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Wieske van Zoest",
+            "link": "https://scholar.google.com/citations?user=odIH0aoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=odIH0aoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "odIH0aoAAAAJ",
+            "affiliations": "University of Birmingham, UK",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=odIH0aoAAAAJ&citpid=8"
+        },
+        {
+            "name": "Marius Peelen",
+            "link": "https://scholar.google.com/citations?user=Cg9yFBQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Cg9yFBQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Cg9yFBQAAAAJ",
+            "affiliations": "Donders Institute for Brain, Cognition and Behaviour",
+            "email": "Verified email at donders.ru.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Cg9yFBQAAAAJ&citpid=1"
+        },
+        {
+            "name": "Christian N. L. Olivers",
+            "link": "https://scholar.google.com/citations?user=PuGG4YIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PuGG4YIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PuGG4YIAAAAJ",
+            "affiliations": "Experimental and Applied Psychology",
+            "email": "Verified email at vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PuGG4YIAAAAJ&citpid=7"
+        },
+        {
+            "name": "David Melcher",
+            "link": "https://scholar.google.com/citations?user=bleTAB0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bleTAB0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bleTAB0AAAAJ",
+            "affiliations": "New York University Abu Dhabi",
+            "email": "Verified email at unitn.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bleTAB0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Vincent Di Lollo",
+            "link": "https://scholar.google.com/citations?user=1b37YIMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1b37YIMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1b37YIMAAAAJ",
+            "affiliations": "Simon Fraser University",
+            "email": "Verified email at sfu.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1b37YIMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Matthew Weaver",
+            "link": "https://scholar.google.com/citations?user=_CD7hEcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_CD7hEcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_CD7hEcAAAAJ",
+            "affiliations": "Former Postdoctoral Fellow, Brain & Cognition Group, University of Amsterdam & VU Amsterdam",
+            "email": "Verified email at uva.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_CD7hEcAAAAJ&citpid=5"
+        },
+        {
+            "name": "Erik van der Burg",
+            "link": "https://scholar.google.com/citations?user=25f0dVEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=25f0dVEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "25f0dVEAAAAJ",
+            "affiliations": "University of Amsterdam",
+            "email": "Verified email at uva.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=25f0dVEAAAAJ&citpid=6"
+        },
+        {
+            "name": "Durk Talsma",
+            "link": "https://scholar.google.com/citations?user=4Gn3e7gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4Gn3e7gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4Gn3e7gAAAAJ",
+            "affiliations": "Ghent University",
+            "email": "Verified email at ugent.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4Gn3e7gAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daniel Kaiser",
+            "link": "https://scholar.google.com/citations?user=v4CvWHgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v4CvWHgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "v4CvWHgAAAAJ",
+            "affiliations": "Professor for Neural Computation, Justus-Liebig-Universität Gießen",
+            "email": "Verified email at math.uni-giessen.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v4CvWHgAAAAJ&citpid=6"
+        },
+        {
+            "name": "Edmund Wascher",
+            "link": "https://scholar.google.com/citations?user=RfRx0igAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RfRx0igAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RfRx0igAAAAJ",
+            "affiliations": "Leibniz Research Centre for Working Environment and Human Factors",
+            "email": "Verified email at ifado.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ludwig Barbaro",
+            "link": "https://scholar.google.com/citations?user=nEvWrrUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nEvWrrUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nEvWrrUAAAAJ",
+            "affiliations": "University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nEvWrrUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Antimo Buonocore",
+            "link": "https://scholar.google.com/citations?user=7ixKISgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7ixKISgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7ixKISgAAAAJ",
+            "affiliations": "Università degli Studi Suor Orsola Benincasa",
+            "email": "Verified email at unisob.na.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7ixKISgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Martijn Meeter",
+            "link": "https://scholar.google.com/citations?user=nRn5yqMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nRn5yqMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nRn5yqMAAAAJ",
+            "affiliations": "Vrije Universiteit Amsterdam",
+            "email": "Verified email at vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nRn5yqMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Jessica Green",
+            "link": "https://scholar.google.com/citations?user=GlGpOLoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GlGpOLoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GlGpOLoAAAAJ",
+            "affiliations": "Associate Professor, Dept. of Psychology, University of South Carolina",
+            "email": "Verified email at mailbox.sc.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GlGpOLoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Jen Whitman",
+            "link": "https://scholar.google.com/citations?user=_K0gWIIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_K0gWIIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_K0gWIIAAAAJ",
+            "affiliations": "Northwestern University, University of British Columbia",
+            "email": "Verified email at northwestern.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_K0gWIIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Schneider",
+            "link": "https://scholar.google.com/citations?user=1ZMVPYAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1ZMVPYAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1ZMVPYAAAAAJ",
+            "affiliations": "Research Group Leader, Leibniz Research Centre for Working Environment and Human Factors, Dortmund",
+            "email": "Verified email at ifado.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1ZMVPYAAAAAJ&citpid=1"
+        },
+        {
+            "name": "MAURICIO RANGEL GÓMEZ",
+            "link": "https://scholar.google.com/citations?user=gVUvAZ4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gVUvAZ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gVUvAZ4AAAAJ",
+            "affiliations": "University of California, Berkeley",
+            "email": "Verified email at berkeley.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GTIxT6oAAAAJ&citpid=3",
+    "name": "Davinia Fernández-Espejo",
+    "affiliations": "Associate Professor, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.daviniafernandezespejo.com/",
+    "interests": [
+        {
+            "title": "Clinical Neuroscience",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:clinical_neuroscience",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclinical_neuroscience"
+        },
+        {
+            "title": "Neuroimaging",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroimaging",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroimaging"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 4145,
+                "since_2019": 1898
+            }
+        },
+        {
+            "h_index": {
+                "all": 31,
+                "since_2019": 21
+            }
+        },
+        {
+            "i10_index": {
+                "all": 36,
+                "since_2019": 33
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2010,
+            "citations": 32
+        },
+        {
+            "year": 2011,
+            "citations": 85
+        },
+        {
+            "year": 2012,
+            "citations": 154
+        },
+        {
+            "year": 2013,
+            "citations": 284
+        },
+        {
+            "year": 2014,
+            "citations": 258
+        },
+        {
+            "year": 2015,
+            "citations": 337
+        },
+        {
+            "year": 2016,
+            "citations": 386
+        },
+        {
+            "year": 2017,
+            "citations": 337
+        },
+        {
+            "year": 2018,
+            "citations": 321
+        },
+        {
+            "year": 2019,
+            "citations": 253
+        },
+        {
+            "year": 2020,
+            "citations": 388
+        },
+        {
+            "year": 2021,
+            "citations": 395
+        },
+        {
+            "year": 2022,
+            "citations": 348
+        },
+        {
+            "year": 2023,
+            "citations": 396
+        },
+        {
+            "year": 2024,
+            "citations": 112
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=GTIxT6oAAAAJ",
+    "available_public_access": 31,
+    "not_available_public_access": 2,
+    "co_authors": [
+        {
+            "name": "Adrian M. Owen",
+            "link": "https://scholar.google.com/citations?user=wPFn1OsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wPFn1OsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wPFn1OsAAAAJ",
+            "affiliations": "University of Western Ontario",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wPFn1OsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Damian Cruse",
+            "link": "https://scholar.google.com/citations?user=P98yGl4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P98yGl4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P98yGl4AAAAJ",
+            "affiliations": "School of Psychology, University of Birmingham",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P98yGl4AAAAJ&citpid=4"
+        },
+        {
+            "name": "Carme Junqué",
+            "link": "https://scholar.google.com/citations?user=wfmpAPMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wfmpAPMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wfmpAPMAAAAJ",
+            "affiliations": "Catedràtica de Psicobiologia, Universitat de Barcelona",
+            "email": "Verified email at ub.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wfmpAPMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Steven Laureys",
+            "link": "https://scholar.google.com/citations?user=bDFJHx4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bDFJHx4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bDFJHx4AAAAJ",
+            "affiliations": "GIGA Consciousness, Coma Science Group and Brain Centre, University and U Hospital Liège Belgium",
+            "email": "Verified email at uliege.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bDFJHx4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Nuria Bargalló",
+            "link": "https://scholar.google.com/citations?user=LpaNdP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LpaNdP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LpaNdP8AAAAJ",
+            "email": "Verified email at clinic.cat",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Srivas Chennu",
+            "link": "https://scholar.google.com/citations?user=8BIf5MEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8BIf5MEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8BIf5MEAAAAJ",
+            "affiliations": "Apple, University of Kent, University of Cambridge",
+            "email": "Verified email at apple.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8BIf5MEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Tristan A. Bekinschtein",
+            "link": "https://scholar.google.com/citations?user=SoGT3IEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SoGT3IEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SoGT3IEAAAAJ",
+            "affiliations": "Associate Professor, Consciousness and Cognition Lab, Dept of Psychology, Uni of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SoGT3IEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Camille Chatelle",
+            "link": "https://scholar.google.com/citations?user=na_9SkkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=na_9SkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "na_9SkkAAAAJ",
+            "affiliations": "PhD in biomedical sciences, University of Liège",
+            "email": "Verified email at ulg.ac.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=na_9SkkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lorina Naci",
+            "link": "https://scholar.google.com/citations?user=viAlOo0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=viAlOo0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "viAlOo0AAAAJ",
+            "affiliations": "Associate Professor, Trinity College Dublin",
+            "email": "Verified email at tcd.ie",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=viAlOo0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Charles Weijer",
+            "link": "https://scholar.google.com/citations?user=jmXuFagAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jmXuFagAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jmXuFagAAAAJ",
+            "affiliations": "Professor of Medicine, Epidemiology & Biostatistics, and Philosophy, Western University",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jmXuFagAAAAJ&citpid=5"
+        },
+        {
+            "name": "Andrea Soddu",
+            "link": "https://scholar.google.com/citations?user=yxX6Im0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yxX6Im0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yxX6Im0AAAAJ",
+            "affiliations": "Assistant Professor, Physics & Astronomy Department, The University of Wetstern Ontario, London ON",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Loretta Norton",
+            "link": "https://scholar.google.com/citations?user=Bc8EU-0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Bc8EU-0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Bc8EU-0AAAAJ",
+            "affiliations": "PhD, Western University",
+            "email": "Verified email at uwo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Bc8EU-0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Andrew Peterson",
+            "link": "https://scholar.google.com/citations?user=mTy1DEUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mTy1DEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mTy1DEUAAAAJ",
+            "affiliations": "George Mason University",
+            "email": "Verified email at gmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mTy1DEUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Eider M. Arenaza-Urquijo",
+            "link": "https://scholar.google.com/citations?user=Z8GVgAkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Z8GVgAkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z8GVgAkAAAAJ",
+            "affiliations": "Barcelona Institute for Global Health (ISGlobal)",
+            "email": "Verified email at isglobal.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z8GVgAkAAAAJ&citpid=5"
+        },
+        {
+            "name": "David Bartrés-Faz",
+            "link": "https://scholar.google.com/citations?user=BNbsYo4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BNbsYo4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BNbsYo4AAAAJ",
+            "affiliations": "Universitat de Barcelona",
+            "email": "Verified email at ub.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BNbsYo4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Roser Sala-Llonch",
+            "link": "https://scholar.google.com/citations?user=pnIC2PQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pnIC2PQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pnIC2PQAAAAJ",
+            "affiliations": "University of Barcelona",
+            "email": "Verified email at ub.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pnIC2PQAAAAJ&citpid=5"
+        },
+        {
+            "name": "Stephanie Rossit",
+            "link": "https://scholar.google.com/citations?user=NmOSspgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NmOSspgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NmOSspgAAAAJ",
+            "affiliations": "Associate Professor, University of East Anglia",
+            "email": "Verified email at uea.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NmOSspgAAAAJ&citpid=6"
+        },
+        {
+            "name": "Leire Zubiaurre-Elorza",
+            "link": "https://scholar.google.com/citations?user=tSfCzToAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tSfCzToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tSfCzToAAAAJ",
+            "affiliations": "University of Deusto",
+            "email": "Verified email at deusto.es",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Adam Hampshire",
+            "link": "https://scholar.google.com/citations?user=30CLYz4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=30CLYz4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "30CLYz4AAAAJ",
+            "affiliations": "Division of Brain Sciences, Imperial College London",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RO_OKQwAAAAJ&citpid=2",
+    "name": "Kimron Shapiro",
+    "affiliations": "Chair of Cognitive Neuroscience, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "http://www.birmingham.ac.uk/schools/psychology/people/profile.aspx?ReferenceId=46352",
+    "interests": [
+        {
+            "title": "attention",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:attention",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aattention"
+        },
+        {
+            "title": "working memory",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:working_memory",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aworking_memory"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 15112,
+                "since_2019": 3185
+            }
+        },
+        {
+            "h_index": {
+                "all": 47,
+                "since_2019": 26
+            }
+        },
+        {
+            "i10_index": {
+                "all": 90,
+                "since_2019": 49
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 1994,
+            "citations": 73
+        },
+        {
+            "year": 1995,
+            "citations": 63
+        },
+        {
+            "year": 1996,
+            "citations": 68
+        },
+        {
+            "year": 1997,
+            "citations": 134
+        },
+        {
+            "year": 1998,
+            "citations": 132
+        },
+        {
+            "year": 1999,
+            "citations": 192
+        },
+        {
+            "year": 2000,
+            "citations": 245
+        },
+        {
+            "year": 2001,
+            "citations": 379
+        },
+        {
+            "year": 2002,
+            "citations": 323
+        },
+        {
+            "year": 2003,
+            "citations": 328
+        },
+        {
+            "year": 2004,
+            "citations": 386
+        },
+        {
+            "year": 2005,
+            "citations": 496
+        },
+        {
+            "year": 2006,
+            "citations": 646
+        },
+        {
+            "year": 2007,
+            "citations": 688
+        },
+        {
+            "year": 2008,
+            "citations": 620
+        },
+        {
+            "year": 2009,
+            "citations": 754
+        },
+        {
+            "year": 2010,
+            "citations": 620
+        },
+        {
+            "year": 2011,
+            "citations": 693
+        },
+        {
+            "year": 2012,
+            "citations": 722
+        },
+        {
+            "year": 2013,
+            "citations": 664
+        },
+        {
+            "year": 2014,
+            "citations": 739
+        },
+        {
+            "year": 2015,
+            "citations": 741
+        },
+        {
+            "year": 2016,
+            "citations": 759
+        },
+        {
+            "year": 2017,
+            "citations": 653
+        },
+        {
+            "year": 2018,
+            "citations": 576
+        },
+        {
+            "year": 2019,
+            "citations": 631
+        },
+        {
+            "year": 2020,
+            "citations": 581
+        },
+        {
+            "year": 2021,
+            "citations": 637
+        },
+        {
+            "year": 2022,
+            "citations": 621
+        },
+        {
+            "year": 2023,
+            "citations": 585
+        },
+        {
+            "year": 2024,
+            "citations": 128
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=RO_OKQwAAAAJ",
+    "available_public_access": 22,
+    "not_available_public_access": 1,
+    "co_authors": [
+        {
+            "name": "Jane E. Raymond",
+            "link": "https://scholar.google.com/citations?user=wnLk5doAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wnLk5doAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wnLk5doAAAAJ",
+            "affiliations": "University of Birmingham, UK",
+            "email": "Verified email at bham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wnLk5doAAAAJ&citpid=2"
+        },
+        {
+            "name": "Simon Hanslmayr",
+            "link": "https://scholar.google.com/citations?user=DaiCRJkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DaiCRJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DaiCRJkAAAAJ",
+            "affiliations": "Institute of Neuroscience and Psychology, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DaiCRJkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Bernhard Hommel",
+            "link": "https://scholar.google.com/citations?user=mINykdQwol0C&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mINykdQwol0C&engine=google_scholar_author&hl=en",
+            "author_id": "mINykdQwol0C",
+            "affiliations": "Shandong Normal University, Jinan",
+            "email": "Verified email at bhommel.onmicrosoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mINykdQwol0C&citpid=4"
+        },
+        {
+            "name": "Anna C Nobre",
+            "link": "https://scholar.google.com/citations?user=yBSamFkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yBSamFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yBSamFkAAAAJ",
+            "affiliations": "Wu Tsai Institute and Department of Psychology, Yale University",
+            "email": "Verified email at yale.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yBSamFkAAAAJ&citpid=6"
+        },
+        {
+            "name": "Masud Husain",
+            "link": "https://scholar.google.com/citations?user=_GXoXKMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_GXoXKMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_GXoXKMAAAAJ",
+            "affiliations": "Professor of Neurology & Cognitive Neuroscience, Oxford. Editor-in-Chief, Brain",
+            "email": "Verified email at ndcn.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_GXoXKMAAAAJ&citpid=34"
+        },
+        {
+            "name": "Martin Eimer",
+            "link": "https://scholar.google.com/citations?user=_RdxEQUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_RdxEQUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_RdxEQUAAAAJ",
+            "affiliations": "Department of Psychology, Birkbeck College, University of London",
+            "email": "Verified email at bbk.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_RdxEQUAAAAJ&citpid=4"
+        },
+        {
+            "name": "Edward K Vogel",
+            "link": "https://scholar.google.com/citations?user=K24Hke0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=K24Hke0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K24Hke0AAAAJ",
+            "affiliations": "Professor of Psychology & Neuroscience, University of Chicago",
+            "email": "Verified email at uchicago.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K24Hke0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Stephen Johnston",
+            "link": "https://scholar.google.com/citations?user=BiTOuzAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BiTOuzAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BiTOuzAAAAAJ",
+            "affiliations": "Associate Professor, Swansea University",
+            "email": "Verified email at swansea.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Krish D Singh",
+            "link": "https://scholar.google.com/citations?user=KTnirbMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KTnirbMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KTnirbMAAAAJ",
+            "affiliations": "CUBRIC, School of Psychology, Cardiff University",
+            "email": "Verified email at cardiff.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sander Martens",
+            "link": "https://scholar.google.com/citations?user=013sMAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=013sMAUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "013sMAUAAAAJ",
+            "affiliations": "University of Groningen / University Medical Center Groningen",
+            "email": "Verified email at med.umcg.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=013sMAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jon Driver (1962-2011)",
+            "link": "https://scholar.google.com/citations?user=0S8wU5IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0S8wU5IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0S8wU5IAAAAJ",
+            "affiliations": "UCL Institute of Cognitive Neuroscience",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0S8wU5IAAAAJ&citpid=2"
+        },
+        {
+            "name": "Salvador Soto-Faraco",
+            "link": "https://scholar.google.com/citations?user=bh4v5sAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bh4v5sAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bh4v5sAAAAAJ",
+            "affiliations": "Universitat Pompeu Fabra",
+            "email": "Verified email at upf.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bh4v5sAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Yair Pinto",
+            "link": "https://scholar.google.com/citations?user=E-fv1Y8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=E-fv1Y8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "E-fv1Y8AAAAJ",
+            "affiliations": "University of Amsterdam",
+            "email": "Verified email at uva.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shimon Edelman",
+            "link": "https://scholar.google.com/citations?user=Ddfev5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ddfev5kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ddfev5kAAAAJ",
+            "affiliations": "Professor of Psychology, Cornell University",
+            "email": "Verified email at cornell.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ddfev5kAAAAJ&citpid=6"
+        },
+        {
+            "name": "Trafton Drew",
+            "link": "https://scholar.google.com/citations?user=hzpZ4F0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hzpZ4F0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hzpZ4F0AAAAJ",
+            "affiliations": "Lead User Researcher, Sirona Medical",
+            "email": "Verified email at psych.utah.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hzpZ4F0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Stanislas Dehaene",
+            "link": "https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2Dd5uoIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2Dd5uoIAAAAJ",
+            "affiliations": "Professor of Experimental Cognitive Psychology, Collège de France",
+            "email": "Verified email at cea.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2Dd5uoIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mariano Sigman",
+            "link": "https://scholar.google.com/citations?user=aYI_IvMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aYI_IvMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aYI_IvMAAAAJ",
+            "affiliations": "Universidad Torcuato di Tella",
+            "email": "Verified email at utdt.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "weiwei zhang",
+            "link": "https://scholar.google.com/citations?user=IA0YX_gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IA0YX_gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IA0YX_gAAAAJ",
+            "affiliations": "UC Riverside",
+            "email": "Verified email at ucr.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IA0YX_gAAAAJ&citpid=3"
+        }
+    ]
+}

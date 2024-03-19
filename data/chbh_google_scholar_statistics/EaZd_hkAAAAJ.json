@@ -1,0 +1,172 @@
+{
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EaZd_hkAAAAJ&citpid=9",
+    "name": "Barbara Pomiechowska",
+    "affiliations": "Assistant Professor, University of Birmingham",
+    "email": "Verified email at bham.ac.uk",
+    "website": "https://bpomie.github.io/",
+    "interests": [
+        {
+            "title": "cognitive development",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cognitive_development",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acognitive_development"
+        },
+        {
+            "title": "language",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:language",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alanguage"
+        },
+        {
+            "title": "action interpretation",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:action_interpretation",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaction_interpretation"
+        },
+        {
+            "title": "neuroimaging",
+            "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroimaging",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroimaging"
+        }
+    ],
+    "cited_by_table": [
+        {
+            "citations": {
+                "all": 447,
+                "since_2019": 375
+            }
+        },
+        {
+            "h_index": {
+                "all": 8,
+                "since_2019": 8
+            }
+        },
+        {
+            "i10_index": {
+                "all": 8,
+                "since_2019": 8
+            }
+        }
+    ],
+    "cited_by_graph": [
+        {
+            "year": 2014,
+            "citations": 2
+        },
+        {
+            "year": 2015,
+            "citations": 6
+        },
+        {
+            "year": 2016,
+            "citations": 11
+        },
+        {
+            "year": 2017,
+            "citations": 29
+        },
+        {
+            "year": 2018,
+            "citations": 22
+        },
+        {
+            "year": 2019,
+            "citations": 36
+        },
+        {
+            "year": 2020,
+            "citations": 35
+        },
+        {
+            "year": 2021,
+            "citations": 64
+        },
+        {
+            "year": 2022,
+            "citations": 106
+        },
+        {
+            "year": 2023,
+            "citations": 117
+        },
+        {
+            "year": 2024,
+            "citations": 15
+        }
+    ],
+    "public_access_link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=EaZd_hkAAAAJ",
+    "available_public_access": 13,
+    "not_available_public_access": 0,
+    "co_authors": [
+        {
+            "name": "Gergely Csibra",
+            "link": "https://scholar.google.com/citations?user=Fcx7qwQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Fcx7qwQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Fcx7qwQAAAAJ",
+            "affiliations": "Central European University, Vienna, & Birkbeck, London",
+            "email": "Verified email at ceu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Fcx7qwQAAAAJ&citpid=1"
+        },
+        {
+            "name": "Teodora Gliga",
+            "link": "https://scholar.google.com/citations?user=TMGrVRIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TMGrVRIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TMGrVRIAAAAJ",
+            "affiliations": "University of East Anglia",
+            "email": "Verified email at uea.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TMGrVRIAAAAJ&citpid=5"
+        },
+        {
+            "name": "Ewa Haman",
+            "link": "https://scholar.google.com/citations?user=v2ZLL24AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v2ZLL24AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "v2ZLL24AAAAJ",
+            "affiliations": "Faculty of Psychology University of Warsaw",
+            "email": "Verified email at psych.uw.edu.pl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2ZLL24AAAAJ&citpid=3"
+        },
+        {
+            "name": "Magdalena Łuniewska",
+            "link": "https://scholar.google.com/citations?user=C_HpaxoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C_HpaxoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C_HpaxoAAAAJ",
+            "affiliations": "University of Warsaw, Faculty of Psychology",
+            "email": "Verified email at psych.uw.edu.pl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C_HpaxoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Natalie Sebanz",
+            "link": "https://scholar.google.com/citations?user=dUOWly8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dUOWly8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dUOWly8AAAAJ",
+            "affiliations": "Central European University",
+            "email": "Verified email at ceu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Georgina Török",
+            "link": "https://scholar.google.com/citations?user=W8Qgr1oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=W8Qgr1oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W8Qgr1oAAAAJ",
+            "affiliations": "Max Planck Institute for Human Development",
+            "email": "Verified email at mpib-berlin.mpg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=W8Qgr1oAAAAJ&citpid=1"
+        },
+        {
+            "name": "Denis Tatone",
+            "link": "https://scholar.google.com/citations?user=9_n33Q0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9_n33Q0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9_n33Q0AAAAJ",
+            "affiliations": "Central European University",
+            "email": "Verified email at ceu-budapest.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9_n33Q0AAAAJ&citpid=30"
+        },
+        {
+            "name": "Laura Schlingloff-Nemecz",
+            "link": "https://scholar.google.com/citations?user=aNV6pb8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aNV6pb8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aNV6pb8AAAAJ",
+            "affiliations": "Central European University",
+            "email": "Verified email at phd.ceu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aNV6pb8AAAAJ&citpid=2"
+        }
+    ]
+}
