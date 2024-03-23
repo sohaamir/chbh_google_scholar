@@ -3,3 +3,8 @@ beautifulsoup4
 pandas
 serpapi
 matplotlib
+prophet
+ipykernel
+traitlets
+plotly
+jupyter
