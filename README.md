@@ -119,4 +119,3 @@ Ultimately, we are able to use `prophet` to forecast citation counts for the nex
 
 
 
-
