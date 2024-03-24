@@ -497,9 +497,9 @@ updated_data.to_csv('citation_statistics_with_predictions.csv', index=False)
 
 After calculating the cumulative citations for the predicted years (2024, 2025 and 2026), we can plot the predicted citation number, as well as the cumulative predicted citations for these years:
 
-![lei_cumulative_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/plots/lei_cumulative_plot.png)
+![lei_cumulative_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/plots/lei_cumulative_plot.png)
 
-![lei_yearly_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/plots/lei_yearly_plot.png)
+![lei_yearly_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/plots/lei_yearly_plot.png)
 
 These are displayed using `plotly` within the Jupyter notebook, which are interactive plots.
 
@@ -508,8 +508,6 @@ These are displayed using `plotly` within the Jupyter notebook, which are intera
 It's all well to use a model in making some prediction, but how accurate is that model? The final section of the notebook calculates predictions for the year 2023 (the last year where complete yearly citation data are available) and compares this prediction to the actual values across all researchers. 
 
 Ultimately, the model has an accuracy of **80.63%**, which whilst good, isn't great. 
-
-
 
 **Congratulations, you just extracted data from a website, ran forecasting models and created interactive plots!**
 
