@@ -120,11 +120,11 @@ This gives us a list of CHBH researchers (`chbh_names.json`).
 
 SerpAPI offers a range of APIs for Google services, including: Google Search API, Google Images API, Google News API, Google Shopping API, and relevant for this exercise, **Google Scholar API**. It has a free tier, but restricts users to only 100 calls per month, so use them wisely!
 
-![serpapi](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/assets/serpapi.png)
+![serpapi](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/serpapi.png)
 
 Importantly, SerpAPI works using Google Scholar ID's and not on the researchers names. You can see the ID within the URL when on the researchers profile page. For example, Lei Zhang's ID is XmnVUTQAAAAJ.
 
-![lei_scholar_id](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/assets/lei_scholar_id.png)
+![lei_scholar_id](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/lei_scholar_id.png)
 
 I could have written a script to extract this for the researchers using SerpAPI, but given that there are 42 of them, and that I am limited to 100 requests per month (and I'll need at least 42 for the actual extraction), I just decided to do this manually, creating a csv file `names_and_citation_ids.csv` which I then filtered by removing those with no Scholar ID. The final data is `filtered_names_and_citations_ids.csv` which looks like this: 
 
@@ -205,7 +205,7 @@ def author_results(author_id):
 
 The individual JSON files contains information contained within one's Scholar Page. We can do a whole range of potential analyses, but we are interested in just using the citation statistics for now.
 
-![pat_scholar_profile](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/assets/pat_scholar_profile.png)
+![pat_scholar_profile](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/pat_scholar_profile.png)
 
 ```json
 {
@@ -419,7 +419,7 @@ python -m notebook
 
 The notebook firstly plots the csv data as is, generating citation numbers over time for all researchers:
 
-<img src="/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/assets/chbh_citations.png" alt="chbh_citations" style="zoom:72%;" />
+<img src="https://github.com/sohaamir/chbh_google_scholar/blob/main/plots/citations_plot.png" alt="chbh_citations" style="zoom:72%;" />
 
 We can then run our predictive model. This function processes the citation data to fit the `prophet` model, predicts citations for the years 2024, 2025, and 2026, and returns these predictions. After applying the forecasting function to each row in the dataset, the script calculates cumulative citations for each year, including the forecasted years, and appends these cumulative citations to the original dataset.
 
@@ -497,9 +497,9 @@ updated_data.to_csv('citation_statistics_with_predictions.csv', index=False)
 
 After calculating the cumulative citations for the predicted years (2024, 2025 and 2026), we can plot the predicted citation number, as well as the cumulative predicted citations for these years:
 
-![lei_cumulative_plot](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/plots/lei_cumulative_plot.png)
+![lei_cumulative_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/plots/lei_cumulative_plot.png)
 
-![lei_yearly_plot](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/plots/lei_yearly_plot.png)
+![lei_yearly_plot](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/plots/lei_yearly_plot.png)
 
 These are displayed using `plotly` within the Jupyter notebook, which are interactive plots.
 
