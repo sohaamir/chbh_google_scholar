@@ -1,6 +1,8 @@
 # Extracting and predicting Google Scholar citations using beautifulsoup4, SerpAPI and Prophet
 
 [![Analysis Guide](https://img.shields.io/badge/analysis-guide-blue?logo=markdown)](https://github.com/sohaamir/chbh_google_scholar/blob/main/analysis_guide.md)
+[![Static Badge](https://img.shields.io/badge/view-dataset-blue?style=flat&logo=kaggle&logoColor=turquoise)](https://www.kaggle.com/datasets/sohamir/citation-statistics-for-researchers-at-the-chbh)
+
 
 This directory contains code for the extraction and forecasting of Google Scholar data for researchers at the Centre for Human Brain Health (CHBH), University of Birmingham.
 
@@ -10,7 +12,7 @@ Specficially, this involves:
 - Extracting Google Scholar statistics including citation data (using `serpapi` ).
 - Forecasting citations for the years 2024, 2025 and 2026 (using `prophet`).
 
-A more detailed guide on how to perform the analysis is available by clicking on the badge above.
+A more detailed guide on how to perform the analysis and a link to the dataset on Kaggle are available by clicking on the badges above.
 
 ## Directory structure
 
