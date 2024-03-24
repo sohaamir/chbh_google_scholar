@@ -14,7 +14,7 @@ The first step is to get a list of names for researchers at the CHBH. We could d
 
 Here is how the webpages display the researcher's information (six pages in total):
 
-![chbh_website_pis](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/assets/chbh_website_pis.png)
+![chbh_website_pis](https://github.com/sohaamir/chbh_google_scholar/blob/main/assets/chbh_website_pis.png)
 
 And here is the code which extract the names `scrape_chbh.py` which it iterates over the list of URLs, and extracts names using the BeautifulSoup library to parse the HTML content. Importantly, the script also filters and cleans these names by removing titles like "Dr" and "Professor".
 
