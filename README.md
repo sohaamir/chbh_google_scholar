@@ -1,14 +1,16 @@
 # Extracting and predicting Google Scholar citations using beautifulsoup4, SerpAPI and Prophet
 
+[![Analysis Guide](https://img.shields.io/badge/analysis-guide-blue?logo=markdown)](https://github.com/sohaamir/chbh_google_scholar/blob/main/analysis_guide.md)
+
 This directory contains code for the extraction and forecasting of Google Scholar data for researchers at the Centre for Human Brain Health (CHBH), University of Birmingham.
 
-Specficially, this involves
+Specficially, this involves:
 
 - Scraping a list of researchers at the CHBH from the CHBH website (using `beautifulsoup4` ).
 - Extracting Google Scholar statistics including citation data (using `serpapi` ).
 - Forecasting citations for the years 2024, 2025 and 2026 (using `prophet`).
 
-A more detailed guide on how to perform the analysis is available [here]().
+A more detailed guide on how to perform the analysis is available by clicking on the badge above.
 
 ## Directory structure
 
@@ -75,10 +77,15 @@ jupyter
 
 Ultimately, we are able to use `prophet` to forecast citation counts for the next three years (2024, 2025 and 2026), and plot these predictions with historical data:
 
-![lei_cumulative_plot](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/plots/lei_cumulative_plot.png)
+<div align="center">
+  <img src="https://github.com/sohaamir/chbh_google_scholar/blob/main/plots/lei_cumulative_plot.png" width="100%">
+</div>
+<br>
 
-![lei_yearly_plot](/Users/aamirsohail/Documents/GitHub/chbh_google_scholar/plots/lei_yearly_plot.png)
-
+<div align="center">
+  <img src="https://github.com/sohaamir/chbh_google_scholar/blob/main/plots/lei_yearly_plot.png" width="100%">
+</div>
+<br>
 
 
 
